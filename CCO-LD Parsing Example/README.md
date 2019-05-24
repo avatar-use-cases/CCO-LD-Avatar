@@ -1,4 +1,4 @@
-## How to use this example project
+## How to Use This Example Project
 First you must navigate to "CCO-LD Parsing Example/src/containers/Welcome/welcome.component.js" 
 In the "const dataLoader = async ()" function you must specify the .nt file you wish to parse as a parameter of the functon "run". NOTE: ensure this .nt file is located in the public folder of the 
 project so it can be reached.
