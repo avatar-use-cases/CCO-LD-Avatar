@@ -1,0 +1,25 @@
+[main] INFO org.eclipse.jetty.util.log - Logging initialized @474ms to org.eclipse.jetty.util.log.Slf4jLog
+[main] INFO org.eclipse.jetty.server.Server - jetty-9.4.z-SNAPSHOT; built: 2018-06-05T18:24:03.829Z; git: d5fc0523cfa96bfebfbda19606cad384d772f04c; jvm 9.0.4+11
+[main] INFO org.eclipse.jetty.util.ssl.SslContextFactory - x509=X509@639c2c1d(selfsigned,h=[],w=[]) for SslContextFactory@5fe94a96[provider=null,keyStore=file:///Users/jasonreynolds/Documents/Java/jettyStuff/avatar-client-and-server/src/main/java/SSL/keystore.jks,trustStore=null]
+[main] INFO org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@49e5f737{SSL,[ssl, http/1.1]}{0.0.0.0:8443}
+[main] INFO org.eclipse.jetty.server.Server - Started @1145ms
+[main] INFO org.eclipse.jetty.util.log - Logging initialized @474ms to org.eclipse.jetty.util.log.Slf4jLog
+[main] INFO org.eclipse.jetty.server.Server - jetty-9.4.z-SNAPSHOT; built: 2018-06-05T18:24:03.829Z; git: d5fc0523cfa96bfebfbda19606cad384d772f04c; jvm 9.0.4+11
+[main] INFO org.eclipse.jetty.util.ssl.SslContextFactory - x509=X509@33d512c1(selfsigned,h=[],w=[]) for SslContextFactory@515c6049[provider=null,keyStore=file:///Users/jasonreynolds/Documents/Java/jettyStuff/avatar-client-and-server/src/main/java/SSL/keystore.jks,trustStore=null]
+[main] INFO org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@7f580c60{SSL,[ssl, http/1.1]}{0.0.0.0:8443}
+[main] INFO org.eclipse.jetty.server.Server - Started @1149ms
+[main] INFO org.eclipse.jetty.util.log - Logging initialized @482ms to org.eclipse.jetty.util.log.Slf4jLog
+[main] INFO org.eclipse.jetty.server.Server - jetty-9.4.z-SNAPSHOT; built: 2018-06-05T18:24:03.829Z; git: d5fc0523cfa96bfebfbda19606cad384d772f04c; jvm 9.0.4+11
+[main] INFO org.eclipse.jetty.util.ssl.SslContextFactory - x509=X509@5e0e82ae(selfsigned,h=[],w=[]) for SslContextFactory@6771beb3[provider=null,keyStore=file:///Users/jasonreynolds/Documents/Java/jettyStuff/avatar-client-and-server/src/main/java/SSL/keystore.jks,trustStore=null]
+[main] INFO org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@49e5f737{SSL,[ssl, http/1.1]}{0.0.0.0:8443}
+[main] INFO org.eclipse.jetty.server.Server - Started @1153ms
+[main] INFO org.eclipse.jetty.util.log - Logging initialized @484ms to org.eclipse.jetty.util.log.Slf4jLog
+[main] INFO org.eclipse.jetty.server.Server - jetty-9.4.z-SNAPSHOT; built: 2018-06-05T18:24:03.829Z; git: d5fc0523cfa96bfebfbda19606cad384d772f04c; jvm 9.0.4+11
+[main] INFO org.eclipse.jetty.util.ssl.SslContextFactory - x509=X509@411f53a0(selfsigned,h=[],w=[]) for SslContextFactory@2b71e916[provider=null,keyStore=file:///Users/jasonreynolds/Documents/Java/jettyStuff/avatar-client-and-server/src/main/java/SSL/keystore.jks,trustStore=null]
+[main] INFO org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@49e5f737{SSL,[ssl, http/1.1]}{0.0.0.0:8443}
+[main] INFO org.eclipse.jetty.server.Server - Started @1135ms
+[main] INFO org.eclipse.jetty.util.log - Logging initialized @483ms to org.eclipse.jetty.util.log.Slf4jLog
+[main] INFO org.eclipse.jetty.server.Server - jetty-9.4.z-SNAPSHOT; built: 2018-06-05T18:24:03.829Z; git: d5fc0523cfa96bfebfbda19606cad384d772f04c; jvm 9.0.4+11
+[main] INFO org.eclipse.jetty.util.ssl.SslContextFactory - x509=X509@59474f18(selfsigned,h=[],w=[]) for SslContextFactory@65fb9ffc[provider=null,keyStore=file:///Users/jasonreynolds/Documents/Java/jettyStuff/avatar-client-and-server/src/main/java/SSL/keystore.jks,trustStore=null]
+[main] INFO org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@49e5f737{SSL,[ssl, http/1.1]}{0.0.0.0:8443}
+[main] INFO org.eclipse.jetty.server.Server - Started @1206ms

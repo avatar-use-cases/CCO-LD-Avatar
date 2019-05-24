@@ -1,0 +1,586 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SimpleSocketServer<logback-access>",
+            "request": "launch",
+            "mainClass": "ch.qos.logback.access.net.SimpleSocketServer",
+            "projectName": "logback-access"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<logback-classic>",
+            "request": "launch",
+            "mainClass": "ch.qos.logback.classic.issue.DarioCampagna.Main",
+            "projectName": "logback-classic"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LBCORE63<logback-classic>",
+            "request": "launch",
+            "mainClass": "ch.qos.logback.classic.issue.LBCORE63",
+            "projectName": "logback-classic"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LoggingToFileThroughput<logback-classic>",
+            "request": "launch",
+            "mainClass": "ch.qos.logback.classic.issue.lbclassic135.LoggingToFileThroughput",
+            "projectName": "logback-classic"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<logback-classic>(1)",
+            "request": "launch",
+            "mainClass": "ch.qos.logback.classic.issue.lbclassic180.Main",
+            "projectName": "logback-classic"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Barebones<logback-classic>",
+            "request": "launch",
+            "mainClass": "ch.qos.logback.classic.issue.lbclassic323.Barebones",
+            "projectName": "logback-classic"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Simple<logback-classic>",
+            "request": "launch",
+            "mainClass": "ch.qos.logback.classic.issue.lbclassic323.Simple",
+            "projectName": "logback-classic"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<logback-classic>(2)",
+            "request": "launch",
+            "mainClass": "ch.qos.logback.classic.issue.lbclassic330.Main",
+            "projectName": "logback-classic"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DateFormatOriginal_tzest<logback-classic>",
+            "request": "launch",
+            "mainClass": "ch.qos.logback.classic.issue.lbclassic36.DateFormatOriginal_tzest",
+            "projectName": "logback-classic"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DateFormatPerf_Tapp<logback-classic>",
+            "request": "launch",
+            "mainClass": "ch.qos.logback.classic.issue.lbclassic36.DateFormatPerf_Tapp",
+            "projectName": "logback-classic"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DateFormattingThreadedThroughputCalculator<logback-classic>",
+            "request": "launch",
+            "mainClass": "ch.qos.logback.classic.issue.lbclassic36.DateFormattingThreadedThroughputCalculator",
+            "projectName": "logback-classic"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Reduce<logback-classic>",
+            "request": "launch",
+            "mainClass": "ch.qos.logback.classic.issue.lbcore224.Reduce",
+            "projectName": "logback-classic"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PerformanceComparatorLog4j<logback-classic>",
+            "request": "launch",
+            "mainClass": "ch.qos.logback.classic.issue.lbcore243.PerformanceComparatorLog4j",
+            "projectName": "logback-classic"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PerformanceComparatorLogback<logback-classic>",
+            "request": "launch",
+            "mainClass": "ch.qos.logback.classic.issue.lbcore243.PerformanceComparatorLogback",
+            "projectName": "logback-classic"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<logback-classic>(3)",
+            "request": "launch",
+            "mainClass": "ch.qos.logback.classic.issue.lbcore26.Main",
+            "projectName": "logback-classic"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<logback-classic>(4)",
+            "request": "launch",
+            "mainClass": "ch.qos.logback.classic.issue.lbcore_155.Main",
+            "projectName": "logback-classic"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<logback-classic>(5)",
+            "request": "launch",
+            "mainClass": "ch.qos.logback.classic.issue.logback_1277.Main",
+            "projectName": "logback-classic"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Checker<logback-classic>",
+            "request": "launch",
+            "mainClass": "ch.qos.logback.classic.multiJVM.Checker",
+            "projectName": "logback-classic"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FileAppenderPerf<logback-classic>",
+            "request": "launch",
+            "mainClass": "ch.qos.logback.classic.multiJVM.FileAppenderPerf",
+            "projectName": "logback-classic"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SafeModeFileAppender<logback-classic>",
+            "request": "launch",
+            "mainClass": "ch.qos.logback.classic.multiJVM.SafeModeFileAppender",
+            "projectName": "logback-classic"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SafeModeRollingFileAppender<logback-classic>",
+            "request": "launch",
+            "mainClass": "ch.qos.logback.classic.multiJVM.SafeModeRollingFileAppender",
+            "projectName": "logback-classic"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ExternalMockSocketServer<logback-classic>",
+            "request": "launch",
+            "mainClass": "ch.qos.logback.classic.net.ExternalMockSocketServer",
+            "projectName": "logback-classic"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SimpleSSLSocketServer<logback-classic>",
+            "request": "launch",
+            "mainClass": "ch.qos.logback.classic.net.SimpleSSLSocketServer",
+            "projectName": "logback-classic"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SimpleSocketServer<logback-classic>",
+            "request": "launch",
+            "mainClass": "ch.qos.logback.classic.net.SimpleSocketServer",
+            "projectName": "logback-classic"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SocketMin<logback-classic>",
+            "request": "launch",
+            "mainClass": "ch.qos.logback.classic.net.SocketMin",
+            "projectName": "logback-classic"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LBCORE97<logback-core>",
+            "request": "launch",
+            "mainClass": "ch.qos.logback.core.issue.LBCORE97",
+            "projectName": "logback-core"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LockThroughput<logback-core>",
+            "request": "launch",
+            "mainClass": "ch.qos.logback.core.issue.LockThroughput",
+            "projectName": "logback-core"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LockingInJava<logback-core>",
+            "request": "launch",
+            "mainClass": "ch.qos.logback.core.issue.LockingInJava",
+            "projectName": "logback-core"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-NoLockThroughput<logback-core>",
+            "request": "launch",
+            "mainClass": "ch.qos.logback.core.issue.NoLockThroughput",
+            "projectName": "logback-core"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-NoLockingInJava<logback-core>",
+            "request": "launch",
+            "mainClass": "ch.qos.logback.core.issue.NoLockingInJava",
+            "projectName": "logback-core"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FileLockSimulator<logback-core>",
+            "request": "launch",
+            "mainClass": "ch.qos.logback.core.issue.lbcore258.FileLockSimulator",
+            "projectName": "logback-core"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FileOpener<logback-core>",
+            "request": "launch",
+            "mainClass": "ch.qos.logback.core.rolling.FileOpener",
+            "projectName": "logback-core"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ConfigurationTester<logback-examples>",
+            "request": "launch",
+            "mainClass": "chapters.appenders.ConfigurationTester",
+            "projectName": "logback-examples"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-IO<logback-examples>",
+            "request": "launch",
+            "mainClass": "chapters.appenders.IO",
+            "projectName": "logback-examples"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-IOPerformance<logback-examples>",
+            "request": "launch",
+            "mainClass": "chapters.appenders.IOPerformance",
+            "projectName": "logback-examples"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-EMail<logback-examples>",
+            "request": "launch",
+            "mainClass": "chapters.appenders.mail.EMail",
+            "projectName": "logback-examples"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Marked_EMail<logback-examples>",
+            "request": "launch",
+            "mainClass": "chapters.appenders.mail.Marked_EMail",
+            "projectName": "logback-examples"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SiftExample<logback-examples>",
+            "request": "launch",
+            "mainClass": "chapters.appenders.sift.SiftExample",
+            "projectName": "logback-examples"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ConsolePluginClient<logback-examples>",
+            "request": "launch",
+            "mainClass": "chapters.appenders.socket.ConsolePluginClient",
+            "projectName": "logback-examples"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SocketClient1<logback-examples>",
+            "request": "launch",
+            "mainClass": "chapters.appenders.socket.SocketClient1",
+            "projectName": "logback-examples"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SocketClient2<logback-examples>",
+            "request": "launch",
+            "mainClass": "chapters.appenders.socket.SocketClient2",
+            "projectName": "logback-examples"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MyAppWithConfigFile<logback-examples>",
+            "request": "launch",
+            "mainClass": "chapters.architecture.MyAppWithConfigFile",
+            "projectName": "logback-examples"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SelectionRule<logback-examples>",
+            "request": "launch",
+            "mainClass": "chapters.architecture.SelectionRule",
+            "projectName": "logback-examples"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-AddStatusListenerApp<logback-examples>",
+            "request": "launch",
+            "mainClass": "chapters.configuration.AddStatusListenerApp",
+            "projectName": "logback-examples"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MyApp1<logback-examples>",
+            "request": "launch",
+            "mainClass": "chapters.configuration.MyApp1",
+            "projectName": "logback-examples"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MyApp2<logback-examples>",
+            "request": "launch",
+            "mainClass": "chapters.configuration.MyApp2",
+            "projectName": "logback-examples"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MyApp3<logback-examples>",
+            "request": "launch",
+            "mainClass": "chapters.configuration.MyApp3",
+            "projectName": "logback-examples"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FilterEvents<logback-examples>",
+            "request": "launch",
+            "mainClass": "chapters.filters.FilterEvents",
+            "projectName": "logback-examples"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-GoMDC<logback-examples>",
+            "request": "launch",
+            "mainClass": "chapters.filters.GoMDC",
+            "projectName": "logback-examples"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-HelloWorld1<logback-examples>",
+            "request": "launch",
+            "mainClass": "chapters.introduction.HelloWorld1",
+            "projectName": "logback-examples"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-HelloWorld2<logback-examples>",
+            "request": "launch",
+            "mainClass": "chapters.introduction.HelloWorld2",
+            "projectName": "logback-examples"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CallerEvaluatorExample<logback-examples>",
+            "request": "launch",
+            "mainClass": "chapters.layouts.CallerEvaluatorExample",
+            "projectName": "logback-examples"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ExceptionEvaluatorExample<logback-examples>",
+            "request": "launch",
+            "mainClass": "chapters.layouts.ExceptionEvaluatorExample",
+            "projectName": "logback-examples"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PatternSample<logback-examples>",
+            "request": "launch",
+            "mainClass": "chapters.layouts.PatternSample",
+            "projectName": "logback-examples"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SampleLogging<logback-examples>",
+            "request": "launch",
+            "mainClass": "chapters.layouts.SampleLogging",
+            "projectName": "logback-examples"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TrivialMain<logback-examples>",
+            "request": "launch",
+            "mainClass": "chapters.layouts.TrivialMain",
+            "projectName": "logback-examples"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-NumberCruncherClient<logback-examples>",
+            "request": "launch",
+            "mainClass": "chapters.mdc.NumberCruncherClient",
+            "projectName": "logback-examples"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-NumberCruncherServer<logback-examples>",
+            "request": "launch",
+            "mainClass": "chapters.mdc.NumberCruncherServer",
+            "projectName": "logback-examples"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SimpleMDC<logback-examples>",
+            "request": "launch",
+            "mainClass": "chapters.mdc.SimpleMDC",
+            "projectName": "logback-examples"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Log4jMain<logback-examples>",
+            "request": "launch",
+            "mainClass": "chapters.migrationFromLog4j.Log4jMain",
+            "projectName": "logback-examples"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LogbackMain<logback-examples>",
+            "request": "launch",
+            "mainClass": "chapters.migrationFromLog4j.LogbackMain",
+            "projectName": "logback-examples"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Calculator1<logback-examples>",
+            "request": "launch",
+            "mainClass": "chapters.onJoran.calculator.Calculator1",
+            "projectName": "logback-examples"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Calculator2<logback-examples>",
+            "request": "launch",
+            "mainClass": "chapters.onJoran.calculator.Calculator2",
+            "projectName": "logback-examples"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-HelloWorld<logback-examples>",
+            "request": "launch",
+            "mainClass": "chapters.onJoran.helloWorld.HelloWorld",
+            "projectName": "logback-examples"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PrintMe<logback-examples>",
+            "request": "launch",
+            "mainClass": "chapters.onJoran.implicit.PrintMe",
+            "projectName": "logback-examples"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-NewRuleCalculator<logback-examples>",
+            "request": "launch",
+            "mainClass": "chapters.onJoran.newRule.NewRuleCalculator",
+            "projectName": "logback-examples"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-AppenderExample<logback-examples>",
+            "request": "launch",
+            "mainClass": "chapters.receivers.socket.AppenderExample",
+            "projectName": "logback-examples"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ReceiverExample<logback-examples>",
+            "request": "launch",
+            "mainClass": "chapters.receivers.socket.ReceiverExample",
+            "projectName": "logback-examples"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BankServerRunner<samples-aspectj>",
+            "request": "launch",
+            "mainClass": "org.apache.shiro.samples.aspectj.bank.BankServerRunner",
+            "projectName": "samples-aspectj"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-QuickstartGuice<samples-quickstart-guice>",
+            "request": "launch",
+            "mainClass": "QuickstartGuice",
+            "projectName": "samples-quickstart-guice"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Quickstart<samples-quickstart>",
+            "request": "launch",
+            "mainClass": "Quickstart",
+            "projectName": "samples-quickstart"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-myQuick<samples-quickstart>",
+            "request": "launch",
+            "mainClass": "myQuick",
+            "projectName": "samples-quickstart"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-WebStartDriver<samples-spring-client>",
+            "request": "launch",
+            "mainClass": "org.apache.shiro.samples.spring.ui.WebStartDriver",
+            "projectName": "samples-spring-client"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Hasher<shiro-tools-hasher>",
+            "request": "launch",
+            "mainClass": "org.apache.shiro.tools.hasher.Hasher",
+            "projectName": "shiro-tools-hasher"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DoubleCheckedInt<slf4j-api>",
+            "request": "launch",
+            "mainClass": "org.slf4j.DoubleCheckedInt",
+            "projectName": "slf4j-api"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BasicProfilerDemo<slf4j-ext>",
+            "request": "launch",
+            "mainClass": "org.slf4j.profiler.BasicProfilerDemo",
+            "projectName": "slf4j-ext"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-NestedProfilerDemo<slf4j-ext>",
+            "request": "launch",
+            "mainClass": "org.slf4j.profiler.NestedProfilerDemo",
+            "projectName": "slf4j-ext"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-NestedProfilerDemo2<slf4j-ext>",
+            "request": "launch",
+            "mainClass": "org.slf4j.profiler.NestedProfilerDemo2",
+            "projectName": "slf4j-ext"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<slf4j-migrator>",
+            "request": "launch",
+            "mainClass": "org.slf4j.migrator.Main",
+            "projectName": "slf4j-migrator"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ProjectConverter<slf4j-migrator>",
+            "request": "launch",
+            "mainClass": "org.slf4j.migrator.ProjectConverter",
+            "projectName": "slf4j-migrator"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-avatarServerV1",
+            "request": "launch",
+            "mainClass": "avatarServerV1"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-XMLParser",
+            "request": "launch",
+            "mainClass": "main.java.XMLParser"
+        }
+    ]
+}

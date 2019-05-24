@@ -1,0 +1,68 @@
+*************************************
+Datetime: 2019-04-05T10:56:32.311275
+resultNum: 300
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+orderby: HotelProperName
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+integration: AirportCityProperName-HotelCityProperName
+Postman-Token: 0c5ddea6-8594-4b98-992c-b6e535fd41a8
+constants: HotelCityProperName-PHILADELPHIA:
+Content-Length: 24318
+Content-Type: application/xml
+*************************************
+*************************************
+Datetime: 2019-04-05T11:07:40.808912
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 0deccd1a-cb77-4113-893a-22bfed919dc3
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 24318
+Content-Type: application/xml
+*************************************
+*************************************
+Datetime: 2019-04-05T11:07:48.211412
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: b70a0ff5-33d8-4524-a18c-1c1cc1a82543
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 24318
+Content-Type: application/xml
+*************************************
+*************************************
+Datetime: 2019-04-05T11:08:07.744681
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: cd75fe51-9f45-4fdd-a4bf-dff1f3a28b54
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 24318
+Content-Type: application/xml
+*************************************
+*************************************
+Datetime: 2019-04-05T11:09:00.136581
+resultNum: 300
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+orderby: HotelProperName
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+integration: AirportCityProperName-HotelCityProperName
+Postman-Token: f847f1f8-c864-4576-9d0c-e9992a16b28d
+constants: HotelCityProperName-PHILADELPHIA:
+Content-Length: 24318
+Content-Type: application/xml
+*************************************

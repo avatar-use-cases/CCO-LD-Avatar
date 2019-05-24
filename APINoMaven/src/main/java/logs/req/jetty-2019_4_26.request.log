@@ -1,0 +1,433 @@
+*************************************
+Datetime: 2019-04-26T13:27:17.627282
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 60c71a97-4dbd-4764-80b9-6f7a229d66ae
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 12090
+Content-Type: application/json
+*************************************
+*************************************
+Datetime: 2019-04-26T13:28:06.015952
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 20350664-7a4a-4050-aae4-450ffe241dfb
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 12156
+Content-Type: application/json
+*************************************
+*************************************
+Datetime: 2019-04-26T13:28:46.330184
+Cache-Control: no-cache
+Accept: */*
+integration: AirportCityProperName-HotelCityProperName
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: c645fb19-16fc-442b-b43f-c19e61e368db
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 24319
+Content-Type: application/xml
+*************************************
+*************************************
+Datetime: 2019-04-26T13:32:55.424137
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 15c7c3a9-bb13-434c-99c6-a9cabc1f115c
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 12199
+Content-Type: application/json
+*************************************
+*************************************
+Datetime: 2019-04-26T13:39:57.316387
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 957cb52c-8368-4f18-9575-c629cb2529f8
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 12199
+Content-Type: application/json
+*************************************
+*************************************
+Datetime: 2019-04-26T13:53:05.256745
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: f73d2329-4763-40ad-b1ed-b551385af049
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 12199
+Content-Type: application/json
+*************************************
+*************************************
+Datetime: 2019-04-26T13:55:47.114559
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: d9b94a3b-dfc6-411d-b746-dfe9dcb15b23
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 12175
+Content-Type: application/json
+*************************************
+*************************************
+Datetime: 2019-04-26T14:55:42.259132
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: a7e1bd04-2c02-47e6-b2cb-34932f194710
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 11960
+Content-Type: application/json
+*************************************
+*************************************
+Datetime: 2019-04-26T14:56:13.900035
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: e5228f70-17b2-4ccc-8479-b187714fdaaf
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 12175
+Content-Type: application/json
+*************************************
+*************************************
+Datetime: 2019-04-26T15:04:17.991740
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 40b38b47-895b-43f2-ac61-17a2c4c5181f
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 12175
+Content-Type: application/json
+*************************************
+*************************************
+Datetime: 2019-04-26T15:04:23.091771
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 60c8757d-07c4-46b1-b80a-e5a6c983d50b
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 11960
+Content-Type: application/json
+*************************************
+*************************************
+Datetime: 2019-04-26T15:05:06.257083
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: c3c8f230-30e2-435f-9caf-147b7fdf9ea6
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 11960
+Content-Type: application/json
+*************************************
+*************************************
+Datetime: 2019-04-26T15:05:35.724935
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 4cdb9664-882f-4b19-a3e6-eeb2e9fe8f94
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 11960
+Content-Type: application/json
+*************************************
+*************************************
+Datetime: 2019-04-26T15:05:53.100433
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: ee98dd14-ba9f-4259-a07c-274fae61a549
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 12102
+Content-Type: application/json
+*************************************
+*************************************
+Datetime: 2019-04-26T15:05:54.461165
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 9ab42bc3-727c-450f-8ba0-00696570086c
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 12102
+Content-Type: application/json
+*************************************
+*************************************
+Datetime: 2019-04-26T15:06:01.278612
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 10510087-080f-46f4-bcb7-94952a49a100
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 12175
+Content-Type: application/json
+*************************************
+*************************************
+Datetime: 2019-04-26T15:09:40.976421
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 78bbf858-b80e-4c65-8bdc-99ef2d6d9c00
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 12175
+Content-Type: application/json
+*************************************
+*************************************
+Datetime: 2019-04-26T15:10:00.044908
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 35cc2ee1-49f7-49f0-b627-9d687a61e5f0
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 12102
+Content-Type: application/json
+*************************************
+*************************************
+Datetime: 2019-04-26T15:10:08.709016
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 980d0749-be2b-41b0-91f3-ea35f65da55e
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 12102
+Content-Type: application/json
+*************************************
+*************************************
+Datetime: 2019-04-26T15:11:18.542561
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 4a865458-8efa-44b0-a2ae-b99e7a2bff57
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 12102
+Content-Type: application/json
+*************************************
+*************************************
+Datetime: 2019-04-26T15:11:25.044369
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 6cd39f5a-8b84-4b8a-8a1f-12675ffd4aa9
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 12175
+Content-Type: application/json
+*************************************
+*************************************
+Datetime: 2019-04-26T15:11:32.177184
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 1dcc7b45-e0cf-4260-976f-e7c57d2eedab
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 12102
+Content-Type: application/json
+*************************************
+*************************************
+Datetime: 2019-04-26T15:11:57.198955
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 97884c2b-1698-46e6-966d-68d833366201
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 12097
+Content-Type: application/json
+*************************************
+*************************************
+Datetime: 2019-04-26T15:12:17.759378
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 85fb1dbc-8385-4674-aeb1-fea938a41867
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 12179
+Content-Type: application/json
+*************************************
+*************************************
+Datetime: 2019-04-26T15:13:36.582357
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: b036e9fa-76f6-4b4f-8aac-db3aba012191
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 12179
+Content-Type: application/json
+*************************************
+*************************************
+Datetime: 2019-04-26T15:13:43.115001
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: a022b80b-9c09-4aa9-a21a-8b84e22244f6
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 12102
+Content-Type: application/json
+*************************************
+*************************************
+Datetime: 2019-04-26T15:15:18.519634
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: ddfdddad-9127-4824-b462-bcb330b03a47
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 12102
+Content-Type: application/json
+*************************************
+*************************************
+Datetime: 2019-04-26T15:15:23.839303
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 1034a6ac-bd52-44e3-b87e-e8f302e06df0
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 12179
+Content-Type: application/json
+*************************************
+*************************************
+Datetime: 2019-04-26T15:15:27.057170
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 006dcd37-ecc7-480d-bf7b-413126dc8ace
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 12102
+Content-Type: application/json
+*************************************
+*************************************
+Datetime: 2019-04-26T15:17:18.817778
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: e12311bf-0fd3-4656-b0a1-8990af316732
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 12179
+Content-Type: application/json
+*************************************
+*************************************
+Datetime: 2019-04-26T15:17:20.455817
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: d74c0e0e-8017-4be2-884b-ae297516edff
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 12179
+Content-Type: application/json
+*************************************
+*************************************
+Datetime: 2019-04-26T15:20:02.189136
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: b1eb0121-fdea-4d62-ad40-d2f3d087a899
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 12179
+Content-Type: application/json
+*************************************
+*************************************
+Datetime: 2019-04-26T15:20:07.087984
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 4b6ef48f-79d0-4bbb-adb3-255861d190c8
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 12102
+Content-Type: application/json
+*************************************
+*************************************
+Datetime: 2019-04-26T15:20:20.405580
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 390a2463-46f7-44b0-a571-6e28c70aa88b
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 12111
+Content-Type: application/json
+*************************************
+*************************************
+Datetime: 2019-04-26T15:20:31.485090
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 6519ea15-418c-4502-b621-6b22b3f2efc8
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 12110
+Content-Type: application/json
+*************************************
+*************************************
+Datetime: 2019-04-26T15:20:49.753849
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: c00e2268-f4c9-490b-8675-0af989aa34f1
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 12175
+Content-Type: application/json
+*************************************

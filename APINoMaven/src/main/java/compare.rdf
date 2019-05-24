@@ -1,0 +1,145 @@
+<j.0:NominalMeasurementInformationContentEntity rdf:about="http://www.cubrc.org/karmaURI#NominalMeasurementInformationContentEntity1_23e8a37b-afc8-4145-abf4-efb5502bcd23_-768512738">
+    <j.0:is_a_nominal_measurement_of>
+      <j.0:ActOfOwnership rdf:about="http://www.cubrc.org/karmaURI#ActOfOwnership1_23e8a37b-afc8-4145-abf4-efb5502bcd23_1113772572">
+        <j.0:is_measured_by_nominal rdf:resource="http://www.cubrc.org/karmaURI#NominalMeasurementInformationContentEntity1_23e8a37b-afc8-4145-abf4-efb5502bcd23_-768512738"/>
+        <j.1:has_participant>
+          <j.0:Airport rdf:about="http://www.cubrc.org/karmaURI#Airport1_23e8a37b-afc8-4145-abf4-efb5502bcd23_-595372261">
+            <j.1:participates_in rdf:resource="http://www.cubrc.org/karmaURI#ActOfOwnership1_23e8a37b-afc8-4145-abf4-efb5502bcd23_1113772572"/>
+            <j.0:designated_by>
+              <j.0:AbbreviatedName rdf:about="http://www.cubrc.org/karmaURI#AbbreviatedName2_23e8a37b-afc8-4145-abf4-efb5502bcd23_-939655016">
+                <j.0:designates rdf:resource="http://www.cubrc.org/karmaURI#Airport1_23e8a37b-afc8-4145-abf4-efb5502bcd23_-595372261"/>
+                <j.0:inheres_in>
+                  <j.0:InformationBearingEntity rdf:about="http://www.cubrc.org/karmaURI#InformationBearingEntity3_23e8a37b-afc8-4145-abf4-efb5502bcd23_2040816768">
+                    <j.0:bearer_of rdf:resource="http://www.cubrc.org/karmaURI#AbbreviatedName2_23e8a37b-afc8-4145-abf4-efb5502bcd23_-939655016"/>
+                    <j.0:has_text_value>ORL</j.0:has_text_value>
+                  </j.0:InformationBearingEntity>
+                </j.0:inheres_in>
+              </j.0:AbbreviatedName>
+            </j.0:designated_by>
+            <j.0:designated_by>
+              <j.0:CodeIdentifier rdf:about="http://www.cubrc.org/karmaURI#CodeIdentifier3_23e8a37b-afc8-4145-abf4-efb5502bcd23_-1903655506">
+                <j.0:inheres_in>
+                  <j.0:InformationBearingEntity rdf:about="http://www.cubrc.org/karmaURI#InformationBearingEntity10_23e8a37b-afc8-4145-abf4-efb5502bcd23_1107029477">
+                    <j.0:bearer_of rdf:resource="http://www.cubrc.org/karmaURI#CodeIdentifier3_23e8a37b-afc8-4145-abf4-efb5502bcd23_-1903655506"/>
+                    <j.0:has_latitude_value>24.7262</j.0:has_latitude_value>
+                    <j.2:has_longitude_value>-81.0514</j.2:has_longitude_value>
+                  </j.0:InformationBearingEntity>
+                </j.0:inheres_in>
+                <j.0:designates rdf:resource="http://www.cubrc.org/karmaURI#Airport1_23e8a37b-afc8-4145-abf4-efb5502bcd23_-595372261"/>
+              </j.0:CodeIdentifier>
+            </j.0:designated_by>
+            <j.0:designated_by>
+              <j.0:ProperName rdf:about="http://www.cubrc.org/karmaURI#ProperName3_23e8a37b-afc8-4145-abf4-efb5502bcd23_-1381419185">
+                <j.0:inheres_in>
+                  <j.0:InformationBearingEntity rdf:about="http://www.cubrc.org/karmaURI#InformationBearingEntity6_23e8a37b-afc8-4145-abf4-efb5502bcd23_-226376972">
+                    <j.0:bearer_of rdf:resource="http://www.cubrc.org/karmaURI#ProperName3_23e8a37b-afc8-4145-abf4-efb5502bcd23_-1381419185"/>
+                    <j.0:has_text_value>THE FLORIDA KEYS MARATHON INTL</j.0:has_text_value>
+                  </j.0:InformationBearingEntity>
+                </j.0:inheres_in>
+                <j.0:designates rdf:resource="http://www.cubrc.org/karmaURI#Airport1_23e8a37b-afc8-4145-abf4-efb5502bcd23_-595372261"/>
+              </j.0:ProperName>
+            </j.0:designated_by>
+            <j.1:participates_in>
+              <j.0:ActOfFacilityUse rdf:about="http://www.cubrc.org/karmaURI#ActOfFacilityUse1_23e8a37b-afc8-4145-abf4-efb5502bcd23_-915403156">
+                <j.1:has_participant rdf:resource="http://www.cubrc.org/karmaURI#Airport1_23e8a37b-afc8-4145-abf4-efb5502bcd23_-595372261"/>
+                <j.0:prescribed_by>
+                  <j.0:ActionPermission rdf:about="http://www.cubrc.org/karmaURI#ActionPermission1_23e8a37b-afc8-4145-abf4-efb5502bcd23_1082019849">
+                    <j.0:designates rdf:resource="http://www.cubrc.org/karmaURI#City1_23e8a37b-afc8-4145-abf4-efb5502bcd23_-450830536"/>
+                    <j.0:prescribes rdf:resource="http://www.cubrc.org/karmaURI#ActOfFacilityUse1_23e8a37b-afc8-4145-abf4-efb5502bcd23_-915403156"/>
+                    <j.0:inheres_in>
+                      <j.0:InformationBearingEntity rdf:about="http://www.cubrc.org/karmaURI#InformationBearingEntity8_23e8a37b-afc8-4145-abf4-efb5502bcd23_1908204795">
+                        <j.0:bearer_of rdf:resource="http://www.cubrc.org/karmaURI#ActionPermission1_23e8a37b-afc8-4145-abf4-efb5502bcd23_1082019849"/>
+                        <j.0:has_text_value>Public</j.0:has_text_value>
+                      </j.0:InformationBearingEntity>
+                    </j.0:inheres_in>
+                  </j.0:ActionPermission>
+                </j.0:prescribed_by>
+              </j.0:ActOfFacilityUse>
+            <j.1:located_in rdf:resource="http://www.cubrc.org/karmaURI#State1_23e8a37b-afc8-4145-abf4-efb5502bcd23_-32255717"/>
+            </j.1:participates_in>
+            <j.1:located_in>
+                <j.1:location_of rdf:resource="http://www.cubrc.org/karmaURI#Airport1_23e8a37b-afc8-4145-abf4-efb5502bcd23_-595372261"/>
+              <j.0:City rdf:about="http://www.cubrc.org/karmaURI#City1_23e8a37b-afc8-4145-abf4-efb5502bcd23_-450830536">
+                <j.0:designated_by>
+                  <j.0:ProperName rdf:about="http://www.cubrc.org/karmaURI#ProperName1_23e8a37b-afc8-4145-abf4-efb5502bcd23_-135106589">
+                    <j.0:inheres_in>
+                      <j.0:InformationBearingEntity rdf:about="http://www.cubrc.org/karmaURI#InformationBearingEntity4_23e8a37b-afc8-4145-abf4-efb5502bcd23_2029172316">
+                        <j.0:bearer_of rdf:resource="http://www.cubrc.org/karmaURI#ProperName1_23e8a37b-afc8-4145-abf4-efb5502bcd23_-135106589"/>
+                        <j.0:has_text_value>MARATHON</j.0:has_text_value>
+                      </j.0:InformationBearingEntity>
+                    </j.0:inheres_in>
+                  </j.0:ProperName>
+                </j.0:designated_by>
+                <j.0:designated_by>
+                  <j.0:CodeIdentifier rdf:about="http://www.cubrc.org/karmaURI#CodeIdentifier2_23e8a37b-afc8-4145-abf4-efb5502bcd23_1810890184">
+                    <j.0:inheres_in>
+                      <j.0:InformationBearingEntity rdf:about="http://www.cubrc.org/karmaURI#InformationBearingEntity9_23e8a37b-afc8-4145-abf4-efb5502bcd23_-2056478665">
+                        <j.0:bearer_of rdf:resource="http://www.cubrc.org/karmaURI#CodeIdentifier2_23e8a37b-afc8-4145-abf4-efb5502bcd23_1810890184"/>
+                        <j.0:has_text_value>MTH</j.0:has_text_value>
+                      </j.0:InformationBearingEntity>
+                    </j.0:inheres_in>
+                    <j.0:designates rdf:resource="http://www.cubrc.org/karmaURI#City1_23e8a37b-afc8-4145-abf4-efb5502bcd23_-450830536"/>
+                  </j.0:CodeIdentifier>
+                </j.0:designated_by>
+                <j.1:located_in>
+                    <j.1:location_of rdf:resource="http://www.cubrc.org/karmaURI#Airport1_23e8a37b-afc8-4145-abf4-efb5502bcd23_-595372261"/>
+                    <j.1:location_of rdf:resource="http://www.cubrc.org/karmaURI#City1_23e8a37b-afc8-4145-abf4-efb5502bcd23_-450830536"/>
+                  <j.0:GeospatialRegion rdf:about="http://www.cubrc.org/karmaURI#GeospatialRegion1_23e8a37b-afc8-4145-abf4-efb5502bcd23_-1247704146">
+                        <j.0:designates rdf:resource="http://www.cubrc.org/karmaURI#County1_23e8a37b-afc8-4145-abf4-efb5502bcd23_-738529881"/>
+                    <j.0:designated_by>
+                        <j.0:designates rdf:resource="http://www.cubrc.org/karmaURI#State1_23e8a37b-afc8-4145-abf4-efb5502bcd23_-32255717"/>
+                      <j.0:CodeIdentifier rdf:about="http://www.cubrc.org/karmaURI#CodeIdentifier1_23e8a37b-afc8-4145-abf4-efb5502bcd23_2040403148">
+                        <j.0:designates rdf:resource="http://www.cubrc.org/karmaURI#GeospatialRegion1_23e8a37b-afc8-4145-abf4-efb5502bcd23_-1247704146"/>
+                        <j.0:inheres_in>
+                          <j.0:InformationBearingEntity rdf:about="http://www.cubrc.org/karmaURI#InformationBearingEntity2_23e8a37b-afc8-4145-abf4-efb5502bcd23_-1478392932">
+                            <j.0:bearer_of rdf:resource="http://www.cubrc.org/karmaURI#CodeIdentifier1_23e8a37b-afc8-4145-abf4-efb5502bcd23_2040403148"/>
+                            <j.0:has_text_value>ASO</j.0:has_text_value>
+                          </j.0:InformationBearingEntity>
+                        </j.0:inheres_in>
+                      </j.0:CodeIdentifier>
+                    </j.0:designated_by>
+                  </j.0:GeospatialRegion>
+                </j.1:located_in>
+                <j.1:located_in>
+                  <j.0:State rdf:about="http://www.cubrc.org/karmaURI#State1_23e8a37b-afc8-4145-abf4-efb5502bcd23_-32255717">
+                    <j.0:designated_by>
+                      <j.0:AbbreviatedName rdf:about="http://www.cubrc.org/karmaURI#AbbreviatedName1_23e8a37b-afc8-4145-abf4-efb5502bcd23_1737147403">
+                        <j.0:inheres_in>
+                          <j.0:InformationBearingEntity rdf:about="http://www.cubrc.org/karmaURI#InformationBearingEntity1_23e8a37b-afc8-4145-abf4-efb5502bcd23_114946524">
+                            <j.0:bearer_of rdf:resource="http://www.cubrc.org/karmaURI#AbbreviatedName1_23e8a37b-afc8-4145-abf4-efb5502bcd23_1737147403"/>
+                            <j.0:has_text_value>FL</j.0:has_text_value>
+                          </j.0:InformationBearingEntity>
+                        </j.0:inheres_in>
+                      </j.0:AbbreviatedName>
+                    </j.0:designated_by>
+                    <j.1:location_of rdf:resource="http://www.cubrc.org/karmaURI#City1_23e8a37b-afc8-4145-abf4-efb5502bcd23_-450830536"/>
+                  </j.0:State>
+                </j.1:located_in>
+                <j.1:located_in>
+                  <j.0:County rdf:about="http://www.cubrc.org/karmaURI#County1_23e8a37b-afc8-4145-abf4-efb5502bcd23_-738529881">
+                    <j.0:designated_by>
+                      <j.0:ProperName rdf:about="http://www.cubrc.org/karmaURI#ProperName2_23e8a37b-afc8-4145-abf4-efb5502bcd23_-859930896">
+                        <j.0:inheres_in>
+                          <j.0:InformationBearingEntity rdf:about="http://www.cubrc.org/karmaURI#InformationBearingEntity5_23e8a37b-afc8-4145-abf4-efb5502bcd23_885585310">
+                            <j.0:bearer_of rdf:resource="http://www.cubrc.org/karmaURI#ProperName2_23e8a37b-afc8-4145-abf4-efb5502bcd23_-859930896"/>
+                            <j.0:has_text_value>MONROE</j.0:has_text_value>
+                          </j.0:InformationBearingEntity>
+                        </j.0:inheres_in>
+                      </j.0:ProperName>
+                    </j.0:designated_by>
+                    <j.1:location_of rdf:resource="http://www.cubrc.org/karmaURI#City1_23e8a37b-afc8-4145-abf4-efb5502bcd23_-450830536"/>
+                  </j.0:County>
+                </j.1:located_in>
+              </j.0:City>
+            </j.1:located_in>
+          </j.0:Airport>
+        </j.1:has_participant>
+      </j.0:ActOfOwnership>
+    </j.0:is_a_nominal_measurement_of>
+    <j.0:inheres_in>
+      <j.0:InformationBearingEntity rdf:about="http://www.cubrc.org/karmaURI#InformationBearingEntity7_23e8a37b-afc8-4145-abf4-efb5502bcd23_1708518539">
+        <j.0:bearer_of rdf:resource="http://www.cubrc.org/karmaURI#NominalMeasurementInformationContentEntity1_23e8a37b-afc8-4145-abf4-efb5502bcd23_-768512738"/>
+        <j.0:has_text_value>Public</j.0:has_text_value>
+      </j.0:InformationBearingEntity>
+    </j.0:inheres_in>
+  </j.0:NominalMeasurementInformationContentEntity>

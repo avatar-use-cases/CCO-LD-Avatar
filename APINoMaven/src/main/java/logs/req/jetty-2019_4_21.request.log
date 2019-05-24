@@ -1,0 +1,26 @@
+*************************************
+Datetime: 2019-04-21T13:09:11.742168
+variables: ?HotelProperName-?HotelStreetAddress-?AirportProperName-?AirportCityCountyProperName
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 88c35a3a-b3e5-4c7e-abc1-a136e65d6b21
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 10327
+Content-Type: text/plain
+*************************************
+*************************************
+Datetime: 2019-04-21T13:15:22.555786
+variables: ?ResidentialFacilityCityProperName-?ActOfManufacturingOrganizationProperName-?AutomobileArtifactModelProperName
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 1fa8eae8-44e2-492b-90b5-964f5e28b150
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 30047
+Content-Type: text/plain
+*************************************

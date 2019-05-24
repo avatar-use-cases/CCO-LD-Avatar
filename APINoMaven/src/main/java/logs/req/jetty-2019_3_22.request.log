@@ -1,0 +1,630 @@
+*************************************
+Datetime: 2019-03-22T10:07:43.520194
+RootNode: Airport
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 956028a9-bdfa-402f-97fd-af3ef3fea29b
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 30768073
+Content-Type: text/plain
+*************************************
+*************************************
+Datetime: 2019-03-22T10:07:54.468048
+RootNode: Airport
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: f81b75b1-d1ca-4b61-ad23-46af4414e37d
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 30768073
+Content-Type: text/plain
+*************************************
+*************************************
+Datetime: 2019-03-22T10:29:39.326972
+RootNode: Hotel
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: d7dbe2b2-271a-4d7c-8223-c965f6583cab
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 30768073
+Content-Type: text/plain
+*************************************
+*************************************
+Datetime: 2019-03-22T10:30:31.229080
+RootNode: Hotel
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 601330fa-fa7b-4750-9133-9b08f26b1f06
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 30768073
+Content-Type: text/plain
+*************************************
+*************************************
+Datetime: 2019-03-22T10:30:33.725089
+RootNode: Hotel
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 2283c8b3-0cc9-4395-b5ae-0c2db9df9394
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 30768073
+Content-Type: text/plain
+*************************************
+*************************************
+Datetime: 2019-03-22T10:30:37.270133
+RootNode: Hotel
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: b36f0b06-794d-4bb2-91d1-72f967e252fd
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 30768073
+Content-Type: text/plain
+*************************************
+*************************************
+Datetime: 2019-03-22T10:31:36.294316
+RootNode: Hotel
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: e77d514b-5bdc-4beb-bf05-d0bf54e4c0e1
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 30768073
+Content-Type: text/plain
+*************************************
+*************************************
+Datetime: 2019-03-22T11:10:54.543158
+RootNode: Hotel
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 943cb02e-99df-4b28-9010-dd55e3cf24d3
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 30768073
+Content-Type: text/plain
+*************************************
+*************************************
+Datetime: 2019-03-22T11:13:11.934757
+RootNode: Hotel
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: b6bc3d92-63d1-4297-ba41-093b82660928
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 30768073
+Content-Type: text/plain
+*************************************
+*************************************
+Datetime: 2019-03-22T11:13:14.310111
+RootNode: Hotel
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 7f3e6359-b0a8-42cf-9ab1-cc8318973ff3
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 30768073
+Content-Type: text/plain
+*************************************
+*************************************
+Datetime: 2019-03-22T11:15:08.324345
+RootNode: Hotel
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: bcce1d0d-5ae3-4818-90d0-a67cd9864455
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 30768073
+Content-Type: text/plain
+*************************************
+*************************************
+Datetime: 2019-03-22T11:16:22.904925
+RootNode: Hotel
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: caac6aaa-9d3e-4a4b-a0c2-b497fcf3b8ba
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 30768073
+Content-Type: text/plain
+*************************************
+*************************************
+Datetime: 2019-03-22T11:17:30.289558
+RootNode: Hotel
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 613d5b48-7011-4fa1-a392-6dfb9c1c587d
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 30768073
+Content-Type: text/plain
+*************************************
+*************************************
+Datetime: 2019-03-22T11:20:06.130585
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+Integration: StateAbbreviatedName
+ResultNum: 20
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 0dbabfe4-33ae-43b3-8920-8f1c13c04f84
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Subjects: Airport-Hotel
+*************************************
+*************************************
+Datetime: 2019-03-22T11:21:49.275046
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+Integration: StateAbbreviatedName
+ResultNum: 20
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 1735dce4-d1ce-4cc4-ae45-cb7fb106dc31
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Subjects: Airport-Hotel
+*************************************
+*************************************
+Datetime: 2019-03-22T12:59:55.934531
+Integration: StateAbbreviatedName
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 20
+Cache-Control: no-cache
+Postman-Token: d04de4a2-4456-471e-8e44-ac0783610c64
+Content-Length: 2755557
+Subjects: Airport-Hotel
+Content-Type: text/plain
+*************************************
+*************************************
+Datetime: 2019-03-22T12:59:55.934754
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+Integration: StateAbbreviatedName
+ResultNum: 20
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Referer: http://localhost:9000/query
+Connection: keep-alive
+Postman-Token: d04de4a2-4456-471e-8e44-ac0783610c64
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Subjects: Airport-Hotel
+*************************************
+*************************************
+Datetime: 2019-03-22T13:00:34.208851
+RootNode: Hotel
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: d88ba675-3e4b-4f90-abf5-98525d6cecf9
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 2755557
+Content-Type: text/plain
+*************************************
+*************************************
+Datetime: 2019-03-22T13:00:34.218631
+RootNode: Hotel
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Referer: http://localhost:9000/query
+Connection: keep-alive
+Postman-Token: d88ba675-3e4b-4f90-abf5-98525d6cecf9
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+*************************************
+*************************************
+Datetime: 2019-03-22T13:00:45.056876
+RootNode: Hotel
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 6d814368-788b-4e2e-9eec-00c6092bae10
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 2755557
+Content-Type: text/plain
+*************************************
+*************************************
+Datetime: 2019-03-22T13:01:16.128033
+RootNode: Hotel
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 761fca3a-f7b8-4111-b0fd-9d8443dbad1c
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 2755557
+Content-Type: text/plain
+*************************************
+*************************************
+Datetime: 2019-03-22T13:04:58.297949
+RootNode: Hotel
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 0f5ea78d-5b2a-4710-8be9-f56f7b2d0dd8
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 12454
+Content-Type: text/plain
+*************************************
+*************************************
+Datetime: 2019-03-22T13:05:02.643007
+RootNode: Hotel
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 70b24204-bdec-467c-8885-c7664df79779
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 12454
+Content-Type: text/plain
+*************************************
+*************************************
+Datetime: 2019-03-22T13:12:02.107969
+RootNode: Hotel
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: e486494d-ba77-4a5f-bb43-f7e8ae000a67
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 12454
+Content-Type: text/plain
+*************************************
+*************************************
+Datetime: 2019-03-22T13:19:42.498253
+RootNode: Hotel
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: e72a9906-78b3-4da0-81c9-cda57929a941
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 44283
+Content-Type: application/json
+*************************************
+*************************************
+Datetime: 2019-03-22T13:36:29.637697
+RootNode: Hotel
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 2eb7ea71-349d-49ef-88a2-cc66943cb252
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 44283
+Content-Type: application/json
+*************************************
+*************************************
+Datetime: 2019-03-22T13:39:55.876141
+RootNode: Hotel
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 8050555f-aded-41b6-bb80-80f9e14b6538
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 44283
+Content-Type: application/json
+*************************************
+*************************************
+Datetime: 2019-03-22T14:04:43.638105
+RootNode: Hotel
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 4bf701f9-3bb3-459a-826f-9b3600437ac4
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 44283
+Content-Type: application/json
+*************************************
+*************************************
+Datetime: 2019-03-22T14:06:08.624957
+RootNode: Hotel
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 9bd93c80-da2d-4866-a7f0-efe3d8934df5
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 44283
+Content-Type: application/json
+*************************************
+*************************************
+Datetime: 2019-03-22T14:09:03.209230
+RootNode: Hotel
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 028833f2-c519-4b9e-a4bd-9630ecc4057f
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 44283
+Content-Type: application/json
+*************************************
+*************************************
+Datetime: 2019-03-22T14:10:45.104042
+RootNode: Hotel
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 3a62faf4-49b6-4fec-a94f-fdf762621bf2
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 44283
+Content-Type: application/json
+*************************************
+*************************************
+Datetime: 2019-03-22T14:17:09.529389
+RootNode: Hotel
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 461e2b5c-0768-494a-bcd7-7ee88620608f
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 44283
+Content-Type: application/json
+*************************************
+*************************************
+Datetime: 2019-03-22T14:19:12.793167
+RootNode: Hotel
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: cda2cfcf-e770-40d5-b34f-0b932d396f47
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 44283
+Content-Type: application/json
+*************************************
+*************************************
+Datetime: 2019-03-22T14:20:50.425884
+RootNode: Hotel
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: c3cfc878-99a4-42fe-a2bb-be58b0c92944
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 44283
+Content-Type: application/json
+*************************************
+*************************************
+Datetime: 2019-03-22T14:21:26.614306
+RootNode: Hotel
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 838f83e1-45e3-4d47-b114-4d8edca9d328
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 44283
+Content-Type: application/json
+*************************************
+*************************************
+Datetime: 2019-03-22T14:22:05.885513
+RootNode: Hotel
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 72c61200-76c4-45b7-9bf7-bf8b799bd7b2
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 44283
+Content-Type: application/json
+*************************************
+*************************************
+Datetime: 2019-03-22T14:26:02.284718
+RootNode: Hotel
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 3b7929f0-4d47-4966-a52d-8a1d0a1e86f0
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 44283
+Content-Type: application/json
+*************************************
+*************************************
+Datetime: 2019-03-22T14:30:54.609555
+RootNode: Hotel
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 89e2d7a2-5e99-4496-974e-bdad162788ac
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 44283
+Content-Type: application/json
+*************************************
+*************************************
+Datetime: 2019-03-22T14:34:00.430279
+RootNode: Hotel
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: aaffb6d4-781d-49ec-b009-8f316f51b69d
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 44283
+Content-Type: application/json
+*************************************
+*************************************
+Datetime: 2019-03-22T14:35:16.424136
+RootNode: Hotel
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 8128995a-0db7-4c37-8f5b-72cc69924c1c
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 44283
+Content-Type: application/json
+*************************************
+*************************************
+Datetime: 2019-03-22T15:48:50.329830
+RootNode: Hotel
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 7682af81-45c5-4a49-9244-388abef0b7b9
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 44283
+Content-Type: application/json
+*************************************
+*************************************
+Datetime: 2019-03-22T15:52:34.703032
+RootNode: Hotel
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 1786409a-0964-438b-a2e3-ec07d725f882
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 44283
+Content-Type: application/json
+*************************************
+*************************************
+Datetime: 2019-03-22T15:55:47.029825
+RootNode: Hotel
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 1ccb7d21-c133-40f7-92e5-a74f7a1c68ba
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 44283
+Content-Type: application/json
+*************************************
+*************************************
+Datetime: 2019-03-22T18:14:10.575745
+RootNode: Hotel
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: e60f5733-218b-48aa-b2ee-da531505a450
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 44283
+Content-Type: application/json
+*************************************
+*************************************
+Datetime: 2019-03-22T18:15:10.973124
+RootNode: Hotel
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: abade8a5-85f7-4e26-9f62-1853d06c2740
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 44283
+Content-Type: application/json
+*************************************
+*************************************
+Datetime: 2019-03-22T18:26:00.581387
+RootNode: Hotel
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 404e2ea1-2887-4fc9-9910-7dbea3483642
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 44283
+Content-Type: application/json
+*************************************
+*************************************
+Datetime: 2019-03-22T18:26:59.815826
+RootNode: Hotel
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: a359d691-afe3-4e12-83c7-47e63185cbe3
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 44283
+Content-Type: application/json
+*************************************
+*************************************
+Datetime: 2019-03-22T18:27:40.125243
+RootNode: Hotel
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 2e3733f8-ef0c-4d7d-bd38-6de8b793ca68
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 44283
+Content-Type: application/json
+*************************************

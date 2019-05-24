@@ -1,0 +1,14 @@
+*************************************
+Datetime: 2019-04-13T14:39:26.044087
+variables: ?HotelProperName-?HotelCityProperName-?CityStateAbbreviatedName
+Cache-Control: no-cache
+Accept: */*
+query: 
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: e77643bf-1e64-4f2c-a956-d29de36c017c
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 3711
+Content-Type: text/plain
+*************************************

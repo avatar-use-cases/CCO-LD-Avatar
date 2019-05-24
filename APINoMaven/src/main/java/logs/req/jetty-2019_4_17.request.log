@@ -1,0 +1,13 @@
+*************************************
+Datetime: 2019-04-17T13:08:14.237981
+variables: ?HotelProperName-?HotelStreetAddress-?AirportProperName
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 01c20afc-4a4f-4699-a27f-66a599aa5139
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 10403
+Content-Type: text/plain
+*************************************

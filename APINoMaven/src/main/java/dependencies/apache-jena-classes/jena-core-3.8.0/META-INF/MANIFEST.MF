@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Implementation-Title: Apache Jena - Core
+Automatic-Module-Name: org.apache.jena.core
+Implementation-Version: 3.8.0
+Built-By: rvesse
+Specification-Vendor: The Apache Software Foundation
+Specification-Title: Apache Jena - Core
+Implementation-Vendor-Id: org.apache.jena
+Implementation-Vendor: The Apache Software Foundation
+Created-By: Apache Maven 3.5.2
+Build-Jdk: 1.8.0_92
+Specification-Version: 3.8
+Implementation-URL: http://jena.apache.org/jena-core/
+

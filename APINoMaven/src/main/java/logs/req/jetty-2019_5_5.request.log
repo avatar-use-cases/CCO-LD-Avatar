@@ -1,0 +1,87 @@
+*************************************
+Datetime: 2019-05-05T13:40:19.035204
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: af99266c-8d2d-4f74-8fa5-ba9c7ca78f51
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 24319
+Content-Type: application/xml
+*************************************
+*************************************
+Datetime: 2019-05-05T13:45:49.899692
+Origin: null
+Accept: */*
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36
+Host: localhost:9000
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Content-Length: 6927
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+*************************************
+*************************************
+Datetime: 2019-05-05T13:50:49.654743
+Origin: null
+Accept: */*
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36
+Host: localhost:9000
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Content-Length: 15
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+*************************************
+*************************************
+Datetime: 2019-05-05T13:52:45.407953
+Origin: null
+Accept: */*
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36
+Host: 128.4.126.28:9000
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Content-Length: 15
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+*************************************
+*************************************
+Datetime: 2019-05-05T19:20:29.344277
+Origin: null
+Access-Control-Request-Method: POST
+Accept: */*
+Access-Control-Request-Headers: access-control-allow-headers,authorization,content-type
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36
+Host: localhost:9000
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+*************************************
+*************************************
+Datetime: 2019-05-05T19:23:40.323391
+Origin: null
+Access-Control-Request-Method: POST
+Accept: */*
+Access-Control-Request-Headers: access-control-allow-headers,authorization,content-type
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1 Safari/605.1.15
+Host: localhost:9000
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Content-Length: 0
+*************************************
+*************************************
+Datetime: 2019-05-05T19:25:26.771262
+Origin: null
+Access-Control-Request-Method: POST
+Accept: */*
+Access-Control-Request-Headers: access-control-allow-headers,authorization,content-type
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1 Safari/605.1.15
+Host: localhost:9000
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Content-Length: 0
+*************************************

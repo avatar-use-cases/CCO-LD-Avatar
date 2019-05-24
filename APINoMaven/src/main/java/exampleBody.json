@@ -1,0 +1,829 @@
+{
+    "data": [
+        {
+            "rootNode": "Airport",
+            "rdf": [
+                {
+                    "@id": "http://www.cubrc.org/karmaURI#AbbreviatedName1_23e8a37b-afc8-4145-abf4-efb5502bcd23_1737147403",
+                    "@type": [
+                        "http://www.ontologyrepository.com/CommonCoreOntologies/AbbreviatedName"
+                    ],
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/designates": [
+                        {
+                            "@id": "http://www.cubrc.org/karmaURI#State1_23e8a37b-afc8-4145-abf4-efb5502bcd23_-32255717"
+                        }
+                    ],
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/inheres_in": [
+                        {
+                            "@id": "http://www.cubrc.org/karmaURI#InformationBearingEntity1_23e8a37b-afc8-4145-abf4-efb5502bcd23_114946524"
+                        }
+                    ]
+                },
+                {
+                    "@id": "http://www.cubrc.org/karmaURI#AbbreviatedName2_23e8a37b-afc8-4145-abf4-efb5502bcd23_-939655016",
+                    "@type": [
+                        "http://www.ontologyrepository.com/CommonCoreOntologies/AbbreviatedName"
+                    ],
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/designates": [
+                        {
+                            "@id": "http://www.cubrc.org/karmaURI#Airport1_23e8a37b-afc8-4145-abf4-efb5502bcd23_-595372261"
+                        }
+                    ],
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/inheres_in": [
+                        {
+                            "@id": "http://www.cubrc.org/karmaURI#InformationBearingEntity3_23e8a37b-afc8-4145-abf4-efb5502bcd23_2040816768"
+                        }
+                    ]
+                },
+                {
+                    "@id": "http://www.cubrc.org/karmaURI#ActOfFacilityUse1_23e8a37b-afc8-4145-abf4-efb5502bcd23_-915403156",
+                    "@type": [
+                        "http://www.ontologyrepository.com/CommonCoreOntologies/ActOfFacilityUse"
+                    ],
+                    "http://www.obofoundry.org/ro/ro.owl#has_participant": [
+                        {
+                            "@id": "http://www.cubrc.org/karmaURI#Airport1_23e8a37b-afc8-4145-abf4-efb5502bcd23_-595372261"
+                        }
+                    ],
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/prescribed_by": [
+                        {
+                            "@id": "http://www.cubrc.org/karmaURI#ActionPermission1_23e8a37b-afc8-4145-abf4-efb5502bcd23_1082019849"
+                        }
+                    ]
+                },
+                {
+                    "@id": "http://www.cubrc.org/karmaURI#ActOfOwnership1_23e8a37b-afc8-4145-abf4-efb5502bcd23_1113772572",
+                    "@type": [
+                        "http://www.ontologyrepository.com/CommonCoreOntologies/ActOfOwnership"
+                    ],
+                    "http://www.obofoundry.org/ro/ro.owl#has_participant": [
+                        {
+                            "@id": "http://www.cubrc.org/karmaURI#Airport1_23e8a37b-afc8-4145-abf4-efb5502bcd23_-595372261"
+                        }
+                    ],
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/is_measured_by_nominal": [
+                        {
+                            "@id": "http://www.cubrc.org/karmaURI#NominalMeasurementInformationContentEntity1_23e8a37b-afc8-4145-abf4-efb5502bcd23_-768512738"
+                        }
+                    ]
+                },
+                {
+                    "@id": "http://www.cubrc.org/karmaURI#ActionPermission1_23e8a37b-afc8-4145-abf4-efb5502bcd23_1082019849",
+                    "@type": [
+                        "http://www.ontologyrepository.com/CommonCoreOntologies/ActionPermission"
+                    ],
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/prescribes": [
+                        {
+                            "@id": "http://www.cubrc.org/karmaURI#ActOfFacilityUse1_23e8a37b-afc8-4145-abf4-efb5502bcd23_-915403156"
+                        }
+                    ],
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/inheres_in": [
+                        {
+                            "@id": "http://www.cubrc.org/karmaURI#InformationBearingEntity8_23e8a37b-afc8-4145-abf4-efb5502bcd23_1908204795"
+                        }
+                    ]
+                },
+                {
+                    "@id": "http://www.cubrc.org/karmaURI#Airport1_23e8a37b-afc8-4145-abf4-efb5502bcd23_-595372261",
+                    "@type": [
+                        "http://www.ontologyrepository.com/CommonCoreOntologies/Airport"
+                    ],
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/designated_by": [
+                        {
+                            "@id": "http://www.cubrc.org/karmaURI#ProperName3_23e8a37b-afc8-4145-abf4-efb5502bcd23_-1381419185"
+                        },
+                        {
+                            "@id": "http://www.cubrc.org/karmaURI#CodeIdentifier3_23e8a37b-afc8-4145-abf4-efb5502bcd23_-1903655506"
+                        },
+                        {
+                            "@id": "http://www.cubrc.org/karmaURI#AbbreviatedName2_23e8a37b-afc8-4145-abf4-efb5502bcd23_-939655016"
+                        }
+                    ],
+                    "http://www.obofoundry.org/ro/ro.owl#participates_in": [
+                        {
+                            "@id": "http://www.cubrc.org/karmaURI#ActOfFacilityUse1_23e8a37b-afc8-4145-abf4-efb5502bcd23_-915403156"
+                        },
+                        {
+                            "@id": "http://www.cubrc.org/karmaURI#ActOfOwnership1_23e8a37b-afc8-4145-abf4-efb5502bcd23_1113772572"
+                        }
+                    ],
+                    "http://www.obofoundry.org/ro/ro.owl#located_in": [
+                        {
+                            "@id": "http://www.cubrc.org/karmaURI#State1_23e8a37b-afc8-4145-abf4-efb5502bcd23_-32255717"
+                        },
+                        {
+                            "@id": "http://www.cubrc.org/karmaURI#City1_23e8a37b-afc8-4145-abf4-efb5502bcd23_-450830536"
+                        }
+                    ]
+                },
+                {
+                    "@id": "http://www.cubrc.org/karmaURI#City1_23e8a37b-afc8-4145-abf4-efb5502bcd23_-450830536",
+                    "@type": [
+                        "http://www.ontologyrepository.com/CommonCoreOntologies/City"
+                    ],
+                    "http://www.obofoundry.org/ro/ro.owl#location_of": [
+                        {
+                            "@id": "http://www.cubrc.org/karmaURI#Airport1_23e8a37b-afc8-4145-abf4-efb5502bcd23_-595372261"
+                        }
+                    ],
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/designated_by": [
+                        {
+                            "@id": "http://www.cubrc.org/karmaURI#CodeIdentifier2_23e8a37b-afc8-4145-abf4-efb5502bcd23_1810890184"
+                        },
+                        {
+                            "@id": "http://www.cubrc.org/karmaURI#ProperName1_23e8a37b-afc8-4145-abf4-efb5502bcd23_-135106589"
+                        }
+                    ],
+                    "http://www.obofoundry.org/ro/ro.owl#located_in": [
+                        {
+                            "@id": "http://www.cubrc.org/karmaURI#County1_23e8a37b-afc8-4145-abf4-efb5502bcd23_-738529881"
+                        },
+                        {
+                            "@id": "http://www.cubrc.org/karmaURI#State1_23e8a37b-afc8-4145-abf4-efb5502bcd23_-32255717"
+                        },
+                        {
+                            "@id": "http://www.cubrc.org/karmaURI#GeospatialRegion1_23e8a37b-afc8-4145-abf4-efb5502bcd23_-1247704146"
+                        }
+                    ]
+                },
+                {
+                    "@id": "http://www.cubrc.org/karmaURI#CodeIdentifier1_23e8a37b-afc8-4145-abf4-efb5502bcd23_2040403148",
+                    "@type": [
+                        "http://www.ontologyrepository.com/CommonCoreOntologies/CodeIdentifier"
+                    ],
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/designates": [
+                        {
+                            "@id": "http://www.cubrc.org/karmaURI#GeospatialRegion1_23e8a37b-afc8-4145-abf4-efb5502bcd23_-1247704146"
+                        }
+                    ],
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/inheres_in": [
+                        {
+                            "@id": "http://www.cubrc.org/karmaURI#InformationBearingEntity2_23e8a37b-afc8-4145-abf4-efb5502bcd23_-1478392932"
+                        }
+                    ]
+                },
+                {
+                    "@id": "http://www.cubrc.org/karmaURI#CodeIdentifier2_23e8a37b-afc8-4145-abf4-efb5502bcd23_1810890184",
+                    "@type": [
+                        "http://www.ontologyrepository.com/CommonCoreOntologies/CodeIdentifier"
+                    ],
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/designates": [
+                        {
+                            "@id": "http://www.cubrc.org/karmaURI#City1_23e8a37b-afc8-4145-abf4-efb5502bcd23_-450830536"
+                        }
+                    ],
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/inheres_in": [
+                        {
+                            "@id": "http://www.cubrc.org/karmaURI#InformationBearingEntity9_23e8a37b-afc8-4145-abf4-efb5502bcd23_-2056478665"
+                        }
+                    ]
+                },
+                {
+                    "@id": "http://www.cubrc.org/karmaURI#CodeIdentifier3_23e8a37b-afc8-4145-abf4-efb5502bcd23_-1903655506",
+                    "@type": [
+                        "http://www.ontologyrepository.com/CommonCoreOntologies/CodeIdentifier"
+                    ],
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/designates": [
+                        {
+                            "@id": "http://www.cubrc.org/karmaURI#Airport1_23e8a37b-afc8-4145-abf4-efb5502bcd23_-595372261"
+                        }
+                    ],
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/inheres_in": [
+                        {
+                            "@id": "http://www.cubrc.org/karmaURI#InformationBearingEntity10_23e8a37b-afc8-4145-abf4-efb5502bcd23_1107029477"
+                        }
+                    ]
+                },
+                {
+                    "@id": "http://www.cubrc.org/karmaURI#County1_23e8a37b-afc8-4145-abf4-efb5502bcd23_-738529881",
+                    "@type": [
+                        "http://www.ontologyrepository.com/CommonCoreOntologies/County"
+                    ],
+                    "http://www.obofoundry.org/ro/ro.owl#location_of": [
+                        {
+                            "@id": "http://www.cubrc.org/karmaURI#City1_23e8a37b-afc8-4145-abf4-efb5502bcd23_-450830536"
+                        }
+                    ],
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/designated_by": [
+                        {
+                            "@id": "http://www.cubrc.org/karmaURI#ProperName2_23e8a37b-afc8-4145-abf4-efb5502bcd23_-859930896"
+                        }
+                    ]
+                },
+                {
+                    "@id": "http://www.cubrc.org/karmaURI#GeospatialRegion1_23e8a37b-afc8-4145-abf4-efb5502bcd23_-1247704146",
+                    "@type": [
+                        "http://www.ontologyrepository.com/CommonCoreOntologies/GeospatialRegion"
+                    ],
+                    "http://www.obofoundry.org/ro/ro.owl#location_of": [
+                        {
+                            "@id": "http://www.cubrc.org/karmaURI#City1_23e8a37b-afc8-4145-abf4-efb5502bcd23_-450830536"
+                        }
+                    ],
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/designated_by": [
+                        {
+                            "@id": "http://www.cubrc.org/karmaURI#CodeIdentifier1_23e8a37b-afc8-4145-abf4-efb5502bcd23_2040403148"
+                        }
+                    ]
+                },
+                {
+                    "@id": "http://www.cubrc.org/karmaURI#InformationBearingEntity10_23e8a37b-afc8-4145-abf4-efb5502bcd23_1107029477",
+                    "@type": [
+                        "http://www.ontologyrepository.com/CommonCoreOntologies/InformationBearingEntity"
+                    ],
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/bearer_of": [
+                        {
+                            "@id": "http://www.cubrc.org/karmaURI#CodeIdentifier3_23e8a37b-afc8-4145-abf4-efb5502bcd23_-1903655506"
+                        }
+                    ],
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/LewisianRelationOntology/has_longitude_value": [
+                        {
+                            "@value": "-81.0514"
+                        }
+                    ],
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/has_latitude_value": [
+                        {
+                            "@value": "24.7262"
+                        }
+                    ]
+                },
+                {
+                    "@id": "http://www.cubrc.org/karmaURI#InformationBearingEntity1_23e8a37b-afc8-4145-abf4-efb5502bcd23_114946524",
+                    "@type": [
+                        "http://www.ontologyrepository.com/CommonCoreOntologies/InformationBearingEntity"
+                    ],
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/bearer_of": [
+                        {
+                            "@id": "http://www.cubrc.org/karmaURI#AbbreviatedName1_23e8a37b-afc8-4145-abf4-efb5502bcd23_1737147403"
+                        }
+                    ],
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/has_text_value": [
+                        {
+                            "@value": "FL"
+                        }
+                    ]
+                },
+                {
+                    "@id": "http://www.cubrc.org/karmaURI#InformationBearingEntity2_23e8a37b-afc8-4145-abf4-efb5502bcd23_-1478392932",
+                    "@type": [
+                        "http://www.ontologyrepository.com/CommonCoreOntologies/InformationBearingEntity"
+                    ],
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/bearer_of": [
+                        {
+                            "@id": "http://www.cubrc.org/karmaURI#CodeIdentifier1_23e8a37b-afc8-4145-abf4-efb5502bcd23_2040403148"
+                        }
+                    ],
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/has_text_value": [
+                        {
+                            "@value": "ASO"
+                        }
+                    ]
+                },
+                {
+                    "@id": "http://www.cubrc.org/karmaURI#InformationBearingEntity3_23e8a37b-afc8-4145-abf4-efb5502bcd23_2040816768",
+                    "@type": [
+                        "http://www.ontologyrepository.com/CommonCoreOntologies/InformationBearingEntity"
+                    ],
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/bearer_of": [
+                        {
+                            "@id": "http://www.cubrc.org/karmaURI#AbbreviatedName2_23e8a37b-afc8-4145-abf4-efb5502bcd23_-939655016"
+                        }
+                    ],
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/has_text_value": [
+                        {
+                            "@value": "ORL"
+                        }
+                    ]
+                },
+                {
+                    "@id": "http://www.cubrc.org/karmaURI#InformationBearingEntity4_23e8a37b-afc8-4145-abf4-efb5502bcd23_2029172316",
+                    "@type": [
+                        "http://www.ontologyrepository.com/CommonCoreOntologies/InformationBearingEntity"
+                    ],
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/bearer_of": [
+                        {
+                            "@id": "http://www.cubrc.org/karmaURI#ProperName1_23e8a37b-afc8-4145-abf4-efb5502bcd23_-135106589"
+                        }
+                    ],
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/has_text_value": [
+                        {
+                            "@value": "MARATHON"
+                        }
+                    ]
+                },
+                {
+                    "@id": "http://www.cubrc.org/karmaURI#InformationBearingEntity5_23e8a37b-afc8-4145-abf4-efb5502bcd23_885585310",
+                    "@type": [
+                        "http://www.ontologyrepository.com/CommonCoreOntologies/InformationBearingEntity"
+                    ],
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/bearer_of": [
+                        {
+                            "@id": "http://www.cubrc.org/karmaURI#ProperName2_23e8a37b-afc8-4145-abf4-efb5502bcd23_-859930896"
+                        }
+                    ],
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/has_text_value": [
+                        {
+                            "@value": "MONROE"
+                        }
+                    ]
+                },
+                {
+                    "@id": "http://www.cubrc.org/karmaURI#InformationBearingEntity6_23e8a37b-afc8-4145-abf4-efb5502bcd23_-226376972",
+                    "@type": [
+                        "http://www.ontologyrepository.com/CommonCoreOntologies/InformationBearingEntity"
+                    ],
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/bearer_of": [
+                        {
+                            "@id": "http://www.cubrc.org/karmaURI#ProperName3_23e8a37b-afc8-4145-abf4-efb5502bcd23_-1381419185"
+                        }
+                    ],
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/has_text_value": [
+                        {
+                            "@value": "THE FLORIDA KEYS MARATHON INTL"
+                        }
+                    ]
+                },
+                {
+                    "@id": "http://www.cubrc.org/karmaURI#InformationBearingEntity7_23e8a37b-afc8-4145-abf4-efb5502bcd23_1708518539",
+                    "@type": [
+                        "http://www.ontologyrepository.com/CommonCoreOntologies/InformationBearingEntity"
+                    ],
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/bearer_of": [
+                        {
+                            "@id": "http://www.cubrc.org/karmaURI#NominalMeasurementInformationContentEntity1_23e8a37b-afc8-4145-abf4-efb5502bcd23_-768512738"
+                        }
+                    ],
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/has_text_value": [
+                        {
+                            "@value": "Public"
+                        }
+                    ]
+                },
+                {
+                    "@id": "http://www.cubrc.org/karmaURI#InformationBearingEntity8_23e8a37b-afc8-4145-abf4-efb5502bcd23_1908204795",
+                    "@type": [
+                        "http://www.ontologyrepository.com/CommonCoreOntologies/InformationBearingEntity"
+                    ],
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/bearer_of": [
+                        {
+                            "@id": "http://www.cubrc.org/karmaURI#ActionPermission1_23e8a37b-afc8-4145-abf4-efb5502bcd23_1082019849"
+                        }
+                    ],
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/has_text_value": [
+                        {
+                            "@value": "Public"
+                        }
+                    ]
+                },
+                {
+                    "@id": "http://www.cubrc.org/karmaURI#InformationBearingEntity9_23e8a37b-afc8-4145-abf4-efb5502bcd23_-2056478665",
+                    "@type": [
+                        "http://www.ontologyrepository.com/CommonCoreOntologies/InformationBearingEntity"
+                    ],
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/bearer_of": [
+                        {
+                            "@id": "http://www.cubrc.org/karmaURI#CodeIdentifier2_23e8a37b-afc8-4145-abf4-efb5502bcd23_1810890184"
+                        }
+                    ],
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/has_text_value": [
+                        {
+                            "@value": "MTH"
+                        }
+                    ]
+                },
+                {
+                    "@id": "http://www.cubrc.org/karmaURI#NominalMeasurementInformationContentEntity1_23e8a37b-afc8-4145-abf4-efb5502bcd23_-768512738",
+                    "@type": [
+                        "http://www.ontologyrepository.com/CommonCoreOntologies/NominalMeasurementInformationContentEntity"
+                    ],
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/is_a_nominal_measurement_of": [
+                        {
+                            "@id": "http://www.cubrc.org/karmaURI#ActOfOwnership1_23e8a37b-afc8-4145-abf4-efb5502bcd23_1113772572"
+                        }
+                    ],
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/inheres_in": [
+                        {
+                            "@id": "http://www.cubrc.org/karmaURI#InformationBearingEntity7_23e8a37b-afc8-4145-abf4-efb5502bcd23_1708518539"
+                        }
+                    ]
+                },
+                {
+                    "@id": "http://www.cubrc.org/karmaURI#ProperName1_23e8a37b-afc8-4145-abf4-efb5502bcd23_-135106589",
+                    "@type": [
+                        "http://www.ontologyrepository.com/CommonCoreOntologies/ProperName"
+                    ],
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/designates": [
+                        {
+                            "@id": "http://www.cubrc.org/karmaURI#City1_23e8a37b-afc8-4145-abf4-efb5502bcd23_-450830536"
+                        }
+                    ],
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/inheres_in": [
+                        {
+                            "@id": "http://www.cubrc.org/karmaURI#InformationBearingEntity4_23e8a37b-afc8-4145-abf4-efb5502bcd23_2029172316"
+                        }
+                    ]
+                },
+                {
+                    "@id": "http://www.cubrc.org/karmaURI#ProperName2_23e8a37b-afc8-4145-abf4-efb5502bcd23_-859930896",
+                    "@type": [
+                        "http://www.ontologyrepository.com/CommonCoreOntologies/ProperName"
+                    ],
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/designates": [
+                        {
+                            "@id": "http://www.cubrc.org/karmaURI#County1_23e8a37b-afc8-4145-abf4-efb5502bcd23_-738529881"
+                        }
+                    ],
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/inheres_in": [
+                        {
+                            "@id": "http://www.cubrc.org/karmaURI#InformationBearingEntity5_23e8a37b-afc8-4145-abf4-efb5502bcd23_885585310"
+                        }
+                    ]
+                },
+                {
+                    "@id": "http://www.cubrc.org/karmaURI#ProperName3_23e8a37b-afc8-4145-abf4-efb5502bcd23_-1381419185",
+                    "@type": [
+                        "http://www.ontologyrepository.com/CommonCoreOntologies/ProperName"
+                    ],
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/designates": [
+                        {
+                            "@id": "http://www.cubrc.org/karmaURI#Airport1_23e8a37b-afc8-4145-abf4-efb5502bcd23_-595372261"
+                        }
+                    ],
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/inheres_in": [
+                        {
+                            "@id": "http://www.cubrc.org/karmaURI#InformationBearingEntity6_23e8a37b-afc8-4145-abf4-efb5502bcd23_-226376972"
+                        }
+                    ]
+                },
+                {
+                    "@id": "http://www.cubrc.org/karmaURI#State1_23e8a37b-afc8-4145-abf4-efb5502bcd23_-32255717",
+                    "@type": [
+                        "http://www.ontologyrepository.com/CommonCoreOntologies/State"
+                    ],
+                    "http://www.obofoundry.org/ro/ro.owl#location_of": [
+                        {
+                            "@id": "http://www.cubrc.org/karmaURI#Airport1_23e8a37b-afc8-4145-abf4-efb5502bcd23_-595372261"
+                        },
+                        {
+                            "@id": "http://www.cubrc.org/karmaURI#City1_23e8a37b-afc8-4145-abf4-efb5502bcd23_-450830536"
+                        }
+                    ],
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/designated_by": [
+                        {
+                            "@id": "http://www.cubrc.org/karmaURI#AbbreviatedName1_23e8a37b-afc8-4145-abf4-efb5502bcd23_1737147403"
+                        }
+                    ]
+                },
+                {
+                    "@id": "http://www.ontologyrepository.com/CommonCoreOntologies/AbbreviatedName"
+                },
+                {
+                    "@id": "http://www.ontologyrepository.com/CommonCoreOntologies/ActOfFacilityUse"
+                },
+                {
+                    "@id": "http://www.ontologyrepository.com/CommonCoreOntologies/ActOfOwnership"
+                },
+                {
+                    "@id": "http://www.ontologyrepository.com/CommonCoreOntologies/ActionPermission"
+                },
+                {
+                    "@id": "http://www.ontologyrepository.com/CommonCoreOntologies/Airport"
+                },
+                {
+                    "@id": "http://www.ontologyrepository.com/CommonCoreOntologies/City"
+                },
+                {
+                    "@id": "http://www.ontologyrepository.com/CommonCoreOntologies/CodeIdentifier"
+                },
+                {
+                    "@id": "http://www.ontologyrepository.com/CommonCoreOntologies/County"
+                },
+                {
+                    "@id": "http://www.ontologyrepository.com/CommonCoreOntologies/GeospatialRegion"
+                },
+                {
+                    "@id": "http://www.ontologyrepository.com/CommonCoreOntologies/InformationBearingEntity"
+                },
+                {
+                    "@id": "http://www.ontologyrepository.com/CommonCoreOntologies/NominalMeasurementInformationContentEntity"
+                },
+                {
+                    "@id": "http://www.ontologyrepository.com/CommonCoreOntologies/ProperName"
+                },
+                {
+                    "@id": "http://www.ontologyrepository.com/CommonCoreOntologies/State"
+                }
+            ]
+        },
+        {
+            "rootNode": "Hotel",
+            "rdf": [
+                {
+                    "@id": "http://www.cubrc.org/karmaURI#AbbreviatedName1_83c57d9d-ab9e-4c8e-8102-8d3a2d28fdfa_-1449750818",
+                    "@type": [
+                        "http://www.ontologyrepository.com/CommonCoreOntologies/AbbreviatedName"
+                    ],
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/designates": [
+                        {
+                            "@id": "http://www.cubrc.org/karmaURI#State1_83c57d9d-ab9e-4c8e-8102-8d3a2d28fdfa_672546162"
+                        }
+                    ],
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/inheres_in": [
+                        {
+                            "@id": "http://www.cubrc.org/karmaURI#InformationBearingEntity4_83c57d9d-ab9e-4c8e-8102-8d3a2d28fdfa_1772663129"
+                        }
+                    ]
+                },
+                {
+                    "@id": "http://www.cubrc.org/karmaURI#City1_83c57d9d-ab9e-4c8e-8102-8d3a2d28fdfa_1634560336",
+                    "@type": [
+                        "http://www.ontologyrepository.com/CommonCoreOntologies/City"
+                    ],
+                    "http://www.obofoundry.org/ro/ro.owl#location_of": [
+                        {
+                            "@id": "http://www.cubrc.org/karmaURI#Hotel1_83c57d9d-ab9e-4c8e-8102-8d3a2d28fdfa_-1649304323"
+                        }
+                    ],
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/designated_by": [
+                        {
+                            "@id": "http://www.cubrc.org/karmaURI#CodeIdentifier1_83c57d9d-ab9e-4c8e-8102-8d3a2d28fdfa_-2123003075"
+                        },
+                        {
+                            "@id": "http://www.cubrc.org/karmaURI#ProperName2_83c57d9d-ab9e-4c8e-8102-8d3a2d28fdfa_1665856177"
+                        }
+                    ],
+                    "http://www.obofoundry.org/ro/ro.owl#located_in": [
+                        {
+                            "@id": "http://www.cubrc.org/karmaURI#State1_83c57d9d-ab9e-4c8e-8102-8d3a2d28fdfa_672546162"
+                        }
+                    ]
+                },
+                {
+                    "@id": "http://www.cubrc.org/karmaURI#CodeIdentifier1_83c57d9d-ab9e-4c8e-8102-8d3a2d28fdfa_-2123003075",
+                    "@type": [
+                        "http://www.ontologyrepository.com/CommonCoreOntologies/CodeIdentifier"
+                    ],
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/designates": [
+                        {
+                            "@id": "http://www.cubrc.org/karmaURI#City1_83c57d9d-ab9e-4c8e-8102-8d3a2d28fdfa_1634560336"
+                        }
+                    ],
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/inheres_in": [
+                        {
+                            "@id": "http://www.cubrc.org/karmaURI#InformationBearingEntity6_83c57d9d-ab9e-4c8e-8102-8d3a2d28fdfa_1619821830"
+                        }
+                    ]
+                },
+                {
+                    "@id": "http://www.cubrc.org/karmaURI#Hotel1_83c57d9d-ab9e-4c8e-8102-8d3a2d28fdfa_-1649304323",
+                    "@type": [
+                        "http://www.ontologyrepository.com/CommonCoreOntologies/Hotel"
+                    ],
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/designated_by": [
+                        {
+                            "@id": "http://www.cubrc.org/karmaURI#ProperName1_83c57d9d-ab9e-4c8e-8102-8d3a2d28fdfa_713302711"
+                        },
+                        {
+                            "@id": "http://www.cubrc.org/karmaURI#StreetAddress1_83c57d9d-ab9e-4c8e-8102-8d3a2d28fdfa_754769783"
+                        }
+                    ],
+                    "http://www.obofoundry.org/ro/ro.owl#located_in": [
+                        {
+                            "@id": "http://www.cubrc.org/karmaURI#City1_83c57d9d-ab9e-4c8e-8102-8d3a2d28fdfa_1634560336"
+                        },
+                        {
+                            "@id": "http://www.cubrc.org/karmaURI#PostalZone1_83c57d9d-ab9e-4c8e-8102-8d3a2d28fdfa_-1282891685"
+                        }
+                    ]
+                },
+                {
+                    "@id": "http://www.cubrc.org/karmaURI#InformationBearingEntity1_83c57d9d-ab9e-4c8e-8102-8d3a2d28fdfa_2051685023",
+                    "@type": [
+                        "http://www.ontologyrepository.com/CommonCoreOntologies/InformationBearingEntity"
+                    ],
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/bearer_of": [
+                        {
+                            "@id": "http://www.cubrc.org/karmaURI#ProperName1_83c57d9d-ab9e-4c8e-8102-8d3a2d28fdfa_713302711"
+                        }
+                    ],
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/has_text_value": [
+                        {
+                            "@value": "BEST WESTERN PLUS FLATONIA INN"
+                        }
+                    ]
+                },
+                {
+                    "@id": "http://www.cubrc.org/karmaURI#InformationBearingEntity2_83c57d9d-ab9e-4c8e-8102-8d3a2d28fdfa_900519810",
+                    "@type": [
+                        "http://www.ontologyrepository.com/CommonCoreOntologies/InformationBearingEntity"
+                    ],
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/bearer_of": [
+                        {
+                            "@id": "http://www.cubrc.org/karmaURI#StreetAddress1_83c57d9d-ab9e-4c8e-8102-8d3a2d28fdfa_754769783"
+                        }
+                    ],
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/has_text_value": [
+                        {
+                            "@value": "310 B E 1-10 FRONTAGE RD"
+                        }
+                    ]
+                },
+                {
+                    "@id": "http://www.cubrc.org/karmaURI#InformationBearingEntity3_83c57d9d-ab9e-4c8e-8102-8d3a2d28fdfa_289423680",
+                    "@type": [
+                        "http://www.ontologyrepository.com/CommonCoreOntologies/InformationBearingEntity"
+                    ],
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/bearer_of": [
+                        {
+                            "@id": "http://www.cubrc.org/karmaURI#ProperName2_83c57d9d-ab9e-4c8e-8102-8d3a2d28fdfa_1665856177"
+                        }
+                    ],
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/has_text_value": [
+                        {
+                            "@value": "FLATONIA"
+                        }
+                    ]
+                },
+                {
+                    "@id": "http://www.cubrc.org/karmaURI#InformationBearingEntity4_83c57d9d-ab9e-4c8e-8102-8d3a2d28fdfa_1772663129",
+                    "@type": [
+                        "http://www.ontologyrepository.com/CommonCoreOntologies/InformationBearingEntity"
+                    ],
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/bearer_of": [
+                        {
+                            "@id": "http://www.cubrc.org/karmaURI#AbbreviatedName1_83c57d9d-ab9e-4c8e-8102-8d3a2d28fdfa_-1449750818"
+                        }
+                    ],
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/has_text_value": [
+                        {
+                            "@value": "TX"
+                        }
+                    ]
+                },
+                {
+                    "@id": "http://www.cubrc.org/karmaURI#InformationBearingEntity5_83c57d9d-ab9e-4c8e-8102-8d3a2d28fdfa_1022751036",
+                    "@type": [
+                        "http://www.ontologyrepository.com/CommonCoreOntologies/InformationBearingEntity"
+                    ],
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/bearer_of": [
+                        {
+                            "@id": "http://www.cubrc.org/karmaURI#ZipCode1_83c57d9d-ab9e-4c8e-8102-8d3a2d28fdfa_-1714175277"
+                        }
+                    ],
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/has_text_value": [
+                        {
+                            "@value": "78941"
+                        }
+                    ]
+                },
+                {
+                    "@id": "http://www.cubrc.org/karmaURI#InformationBearingEntity6_83c57d9d-ab9e-4c8e-8102-8d3a2d28fdfa_1619821830",
+                    "@type": [
+                        "http://www.ontologyrepository.com/CommonCoreOntologies/InformationBearingEntity"
+                    ],
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/bearer_of": [
+                        {
+                            "@id": "http://www.cubrc.org/karmaURI#CodeIdentifier1_83c57d9d-ab9e-4c8e-8102-8d3a2d28fdfa_-2123003075"
+                        }
+                    ],
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/has_latitude_value": [
+                        {
+                            "@value": "29.6886"
+                        }
+                    ],
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/has_longitude_value": [
+                        {
+                            "@value": "-97.106"
+                        }
+                    ]
+                },
+                {
+                    "@id": "http://www.cubrc.org/karmaURI#PostalZone1_83c57d9d-ab9e-4c8e-8102-8d3a2d28fdfa_-1282891685",
+                    "@type": [
+                        "http://www.ontologyrepository.com/CommonCoreOntologies/PostalZone"
+                    ],
+                    "http://www.obofoundry.org/ro/ro.owl#location_of": [
+                        {
+                            "@id": "http://www.cubrc.org/karmaURI#Hotel1_83c57d9d-ab9e-4c8e-8102-8d3a2d28fdfa_-1649304323"
+                        }
+                    ],
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/designated_by": [
+                        {
+                            "@id": "http://www.cubrc.org/karmaURI#ZipCode1_83c57d9d-ab9e-4c8e-8102-8d3a2d28fdfa_-1714175277"
+                        }
+                    ]
+                },
+                {
+                    "@id": "http://www.cubrc.org/karmaURI#ProperName1_83c57d9d-ab9e-4c8e-8102-8d3a2d28fdfa_713302711",
+                    "@type": [
+                        "http://www.ontologyrepository.com/CommonCoreOntologies/ProperName"
+                    ],
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/designates": [
+                        {
+                            "@id": "http://www.cubrc.org/karmaURI#Hotel1_83c57d9d-ab9e-4c8e-8102-8d3a2d28fdfa_-1649304323"
+                        }
+                    ],
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/inheres_in": [
+                        {
+                            "@id": "http://www.cubrc.org/karmaURI#InformationBearingEntity1_83c57d9d-ab9e-4c8e-8102-8d3a2d28fdfa_2051685023"
+                        }
+                    ]
+                },
+                {
+                    "@id": "http://www.cubrc.org/karmaURI#ProperName2_83c57d9d-ab9e-4c8e-8102-8d3a2d28fdfa_1665856177",
+                    "@type": [
+                        "http://www.ontologyrepository.com/CommonCoreOntologies/ProperName"
+                    ],
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/designates": [
+                        {
+                            "@id": "http://www.cubrc.org/karmaURI#City1_83c57d9d-ab9e-4c8e-8102-8d3a2d28fdfa_1634560336"
+                        }
+                    ],
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/inheres_in": [
+                        {
+                            "@id": "http://www.cubrc.org/karmaURI#InformationBearingEntity3_83c57d9d-ab9e-4c8e-8102-8d3a2d28fdfa_289423680"
+                        }
+                    ]
+                },
+                {
+                    "@id": "http://www.cubrc.org/karmaURI#State1_83c57d9d-ab9e-4c8e-8102-8d3a2d28fdfa_672546162",
+                    "@type": [
+                        "http://www.ontologyrepository.com/CommonCoreOntologies/State"
+                    ],
+                    "http://www.obofoundry.org/ro/ro.owl#location_of": [
+                        {
+                            "@id": "http://www.cubrc.org/karmaURI#City1_83c57d9d-ab9e-4c8e-8102-8d3a2d28fdfa_1634560336"
+                        }
+                    ],
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/designated_by": [
+                        {
+                            "@id": "http://www.cubrc.org/karmaURI#AbbreviatedName1_83c57d9d-ab9e-4c8e-8102-8d3a2d28fdfa_-1449750818"
+                        }
+                    ]
+                },
+                {
+                    "@id": "http://www.cubrc.org/karmaURI#StreetAddress1_83c57d9d-ab9e-4c8e-8102-8d3a2d28fdfa_754769783",
+                    "@type": [
+                        "http://www.ontologyrepository.com/CommonCoreOntologies/StreetAddress"
+                    ],
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/designates": [
+                        {
+                            "@id": "http://www.cubrc.org/karmaURI#Hotel1_83c57d9d-ab9e-4c8e-8102-8d3a2d28fdfa_-1649304323"
+                        }
+                    ],
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/inheres_in": [
+                        {
+                            "@id": "http://www.cubrc.org/karmaURI#InformationBearingEntity2_83c57d9d-ab9e-4c8e-8102-8d3a2d28fdfa_900519810"
+                        }
+                    ]
+                },
+                {
+                    "@id": "http://www.cubrc.org/karmaURI#ZipCode1_83c57d9d-ab9e-4c8e-8102-8d3a2d28fdfa_-1714175277",
+                    "@type": [
+                        "http://www.ontologyrepository.com/CommonCoreOntologies/ZipCode"
+                    ],
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/designates": [
+                        {
+                            "@id": "http://www.cubrc.org/karmaURI#PostalZone1_83c57d9d-ab9e-4c8e-8102-8d3a2d28fdfa_-1282891685"
+                        }
+                    ],
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/inheres_in": [
+                        {
+                            "@id": "http://www.cubrc.org/karmaURI#InformationBearingEntity5_83c57d9d-ab9e-4c8e-8102-8d3a2d28fdfa_1022751036"
+                        }
+                    ]
+                },
+                {
+                    "@id": "http://www.ontologyrepository.com/CommonCoreOntologies/AbbreviatedName"
+                },
+                {
+                    "@id": "http://www.ontologyrepository.com/CommonCoreOntologies/City"
+                },
+                {
+                    "@id": "http://www.ontologyrepository.com/CommonCoreOntologies/CodeIdentifier"
+                },
+                {
+                    "@id": "http://www.ontologyrepository.com/CommonCoreOntologies/Hotel"
+                },
+                {
+                    "@id": "http://www.ontologyrepository.com/CommonCoreOntologies/InformationBearingEntity"
+                },
+                {
+                    "@id": "http://www.ontologyrepository.com/CommonCoreOntologies/PostalZone"
+                },
+                {
+                    "@id": "http://www.ontologyrepository.com/CommonCoreOntologies/ProperName"
+                },
+                {
+                    "@id": "http://www.ontologyrepository.com/CommonCoreOntologies/State"
+                },
+                {
+                    "@id": "http://www.ontologyrepository.com/CommonCoreOntologies/StreetAddress"
+                },
+                {
+                    "@id": "http://www.ontologyrepository.com/CommonCoreOntologies/ZipCode"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,609 @@
+*************************************
+Datetime: 2019-04-19T12:04:16.348748
+variables: ?HotelProperName-?HotelStreetAddress-?AirportProperName
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 51a05841-0475-4049-9de7-4ff2f8286299
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 10403
+Content-Type: text/plain
+*************************************
+*************************************
+Datetime: 2019-04-19T12:07:25.244936
+variables: ?HotelProperName-?HotelStreetAddress-?AirportProperName
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 3fa2849b-d9e6-46e6-b5ef-711a523dedd4
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 10403
+Content-Type: text/plain
+*************************************
+*************************************
+Datetime: 2019-04-19T12:08:28.470950
+variables: ?HotelProperName-?HotelStreetAddress-?AirportProperName
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 1391f4a2-3e92-454f-8f2b-bcd78fe90dff
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 10403
+Content-Type: text/plain
+*************************************
+*************************************
+Datetime: 2019-04-19T12:09:50.926006
+variables: ?HotelProperName-?HotelStreetAddress-?AirportProperName
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 7de14b28-0dac-4cfc-bcf6-0567a870d10b
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 10403
+Content-Type: text/plain
+*************************************
+*************************************
+Datetime: 2019-04-19T12:10:44.415689
+variables: ?HotelProperName-?HotelStreetAddress-?AirportProperName
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 85370728-a159-4342-8683-dd7910246643
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 10403
+Content-Type: text/plain
+*************************************
+*************************************
+Datetime: 2019-04-19T12:14:14.436235
+variables: ?HotelProperName-?HotelStreetAddress-?AirportProperName
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 76ae29a8-ca8c-4044-a58c-c3482e3367c3
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 10403
+Content-Type: text/plain
+*************************************
+*************************************
+Datetime: 2019-04-19T12:17:46.390123
+variables: ?HotelProperName-?HotelStreetAddress-?AirportProperName
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 0354626b-9ec6-4a0f-b648-579587596dc1
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 10403
+Content-Type: text/plain
+*************************************
+*************************************
+Datetime: 2019-04-19T12:45:05.720695
+variables: ?HotelProperName-?HotelStreetAddress-?AirportProperName
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 7f276aef-85d8-4cf9-bd29-531e0ce4e678
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 10403
+Content-Type: text/plain
+*************************************
+*************************************
+Datetime: 2019-04-19T12:45:50.126329
+variables: ?HotelProperName-?HotelStreetAddress-?AirportProperName
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 5c1d5393-b108-42a4-a103-52a7e7d9a637
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 10403
+Content-Type: text/plain
+*************************************
+*************************************
+Datetime: 2019-04-19T12:46:22.335724
+variables: ?HotelProperName-?HotelStreetAddress-?AirportProperName
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: f837097d-2662-42d7-9d33-b39c2ba925c0
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 10403
+Content-Type: text/plain
+*************************************
+*************************************
+Datetime: 2019-04-19T12:46:50.322292
+variables: ?HotelProperName-?HotelStreetAddress-?AirportProperName
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 98a908c2-2391-4392-80ac-dca67c411c9f
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 10327
+Content-Type: text/plain
+*************************************
+*************************************
+Datetime: 2019-04-19T12:47:34.383760
+variables: ?HotelProperName-?HotelStreetAddress-?AirportProperName
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: e9f0201f-1945-47e9-9af7-64d6bce990cf
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 10327
+Content-Type: text/plain
+*************************************
+*************************************
+Datetime: 2019-04-19T12:47:48.921135
+variables: ?HotelProperName-?HotelStreetAddress-?AirportProperName
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: c3484d8c-7dbc-4e8c-bbad-ed33ee144134
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 10327
+Content-Type: text/plain
+*************************************
+*************************************
+Datetime: 2019-04-19T12:47:49.177540
+variables: ?HotelProperName-?HotelStreetAddress-?AirportProperName
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 8e21878f-7edb-4339-91b4-ecf38e7922a6
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 10327
+Content-Type: text/plain
+*************************************
+*************************************
+Datetime: 2019-04-19T12:49:37.315584
+variables: ?HotelProperName-?HotelStreetAddress-?AirportProperName
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 7f0cc260-ecc4-481e-82d0-9a117b9349bd
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 10327
+Content-Type: text/plain
+*************************************
+*************************************
+Datetime: 2019-04-19T13:56:38.849160
+variables: ?HotelProperName-?HotelStreetAddress-?AirportProperName
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: e35c308c-89c1-42bd-aea3-abc4258400a8
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 10327
+Content-Type: text/plain
+*************************************
+*************************************
+Datetime: 2019-04-19T13:59:16.442668
+variables: ?HotelProperName-?HotelStreetAddress-?AirportProperName
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 6dbab401-46d4-4b3a-8d61-1958e2de26eb
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 10327
+Content-Type: text/plain
+*************************************
+*************************************
+Datetime: 2019-04-19T14:00:41.956392
+variables: ?HotelProperName-?HotelStreetAddress-?AirportProperName
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: c5986b56-0140-4c6b-85f0-d2e1ed85631f
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 10327
+Content-Type: text/plain
+*************************************
+*************************************
+Datetime: 2019-04-19T14:06:20.804570
+variables: ?HotelProperName-?HotelStreetAddress-?AirportProperName
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 9f4fea03-7b10-4199-bbe8-772f326156e7
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 10327
+Content-Type: text/plain
+*************************************
+*************************************
+Datetime: 2019-04-19T14:08:22.450217
+variables: ?HotelProperName-?HotelStreetAddress-?AirportProperName
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: ba949d10-1913-4e4d-8288-e6bfd6d69a08
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 10327
+Content-Type: text/plain
+*************************************
+*************************************
+Datetime: 2019-04-19T14:23:50.655402
+variables: ?HotelProperName-?HotelStreetAddress-?AirportProperName
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: ed96e8d1-d2ed-4267-b37b-7da911dcf408
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 10327
+Content-Type: text/plain
+*************************************
+*************************************
+Datetime: 2019-04-19T14:24:26.789155
+variables: ?HotelProperName-?HotelStreetAddress-?AirportProperName
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: ac78f3b9-e21c-4e81-b471-61b2db6df2d2
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 10327
+Content-Type: text/plain
+*************************************
+*************************************
+Datetime: 2019-04-19T14:26:10.556682
+variables: ?HotelProperName-?HotelStreetAddress-?AirportProperName
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 74aac0a0-532d-4e1b-92e5-c047497510fd
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 10327
+Content-Type: text/plain
+*************************************
+*************************************
+Datetime: 2019-04-19T14:26:53.978789
+variables: ?HotelProperName-?HotelStreetAddress-?AirportProperName
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 9217703d-8a0b-49e5-8c06-78569f292f7f
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 10327
+Content-Type: text/plain
+*************************************
+*************************************
+Datetime: 2019-04-19T14:33:59.259951
+variables: ?HotelProperName-?HotelStreetAddress-?AirportProperName
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 1b62a92e-243e-46fb-b289-3ef875019cc9
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 10327
+Content-Type: text/plain
+*************************************
+*************************************
+Datetime: 2019-04-19T14:34:23.100396
+variables: ?HotelProperName-?HotelStreetAddress-?AirportProperName
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: a26fd7ca-3d47-4343-9ea8-b44bec94ac75
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 10327
+Content-Type: text/plain
+*************************************
+*************************************
+Datetime: 2019-04-19T14:34:27.260608
+variables: ?HotelProperName-?HotelStreetAddress-?AirportProperName
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: c7b92afe-e14e-4561-9a96-2237883bc1d9
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 10327
+Content-Type: text/plain
+*************************************
+*************************************
+Datetime: 2019-04-19T14:35:33.288601
+variables: ?HotelProperName-?HotelStreetAddress-?AirportProperName
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 185899d9-bea3-4b90-a22f-73ef8f7a81ea
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 10327
+Content-Type: text/plain
+*************************************
+*************************************
+Datetime: 2019-04-19T14:37:17.338543
+variables: ?HotelProperName-?HotelStreetAddress-?AirportProperName
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 0dc19295-06a4-4d1e-ae20-58f34bedd695
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 10327
+Content-Type: text/plain
+*************************************
+*************************************
+Datetime: 2019-04-19T14:37:20.339959
+variables: ?HotelProperName-?HotelStreetAddress-?AirportProperName
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 78c22e22-af0c-4d1e-b7d5-8dbff61684d0
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 10327
+Content-Type: text/plain
+*************************************
+*************************************
+Datetime: 2019-04-19T14:38:08.265392
+variables: ?HotelProperName-?HotelStreetAddress-?AirportProperName
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 9b70fec9-eec5-4c01-ad88-2624d3fb8693
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 10327
+Content-Type: text/plain
+*************************************
+*************************************
+Datetime: 2019-04-19T14:38:09.219522
+variables: ?HotelProperName-?HotelStreetAddress-?AirportProperName
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 2efe10ee-e3ab-4c90-9d02-53cc7c73f6e0
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 10327
+Content-Type: text/plain
+*************************************
+*************************************
+Datetime: 2019-04-19T14:38:10.052483
+variables: ?HotelProperName-?HotelStreetAddress-?AirportProperName
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 1b261985-8a67-4b56-9ea9-032943153ae5
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 10327
+Content-Type: text/plain
+*************************************
+*************************************
+Datetime: 2019-04-19T16:30:27.794738
+variables: ?HotelProperName-?HotelStreetAddress-?AirportProperName
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: b149c3cc-231f-45bb-8843-bff8e99cdb03
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 10327
+Content-Type: text/plain
+*************************************
+*************************************
+Datetime: 2019-04-19T16:38:26.108275
+variables: ?HotelProperName-?HotelStreetAddress-?AirportProperName
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 4e07c3a8-04ee-4483-a9ee-c262c62f3859
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 10327
+Content-Type: text/plain
+*************************************
+*************************************
+Datetime: 2019-04-19T17:27:56.656472
+variables: ?HotelProperName-?HotelStreetAddress-?AirportProperName
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 80955a93-c1cc-4131-8ae6-807e6d1b4046
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 10327
+Content-Type: text/plain
+*************************************
+*************************************
+Datetime: 2019-04-19T17:28:50.078653
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 73ccb1a7-18ab-4dae-8572-4fc1bb714c0c
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 24319
+Content-Type: application/xml
+*************************************
+*************************************
+Datetime: 2019-04-19T17:35:29.200145
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 0ac70f43-12e2-4bf2-aec3-4df695c0a9d5
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 24319
+Content-Type: application/xml
+*************************************
+*************************************
+Datetime: 2019-04-19T17:35:36.414592
+variables: ?HotelProperName-?HotelStreetAddress-?AirportProperName
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 2c178a93-b9f3-4c4b-bc1d-4f1edb109d6e
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 10327
+Content-Type: text/plain
+*************************************
+*************************************
+Datetime: 2019-04-19T17:37:19.252103
+variables: ?HotelProperName-?HotelStreetAddress-?AirportProperName
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 445ed2d4-0fa7-4e25-bf06-a569337ef818
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 10327
+Content-Type: text/plain
+*************************************
+*************************************
+Datetime: 2019-04-19T17:39:13.782704
+variables: ?HotelProperName-?HotelStreetAddress-?AirportProperName
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: cb183dec-4413-46f8-bd07-c26a888675ff
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 10327
+Content-Type: text/plain
+*************************************
+*************************************
+Datetime: 2019-04-19T21:38:55.280932
+variables: ?HotelProperName-?HotelStreetAddress-?AirportProperName
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: b63cdf09-22ed-4239-8069-9ff64f8a8559
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 10327
+Content-Type: text/plain
+*************************************
+*************************************
+Datetime: 2019-04-19T21:39:44.403896
+variables: ?HotelProperName-?HotelStreetAddress-?AirportProperName
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 4d45cf86-e991-4a85-a7f0-e06f4698e388
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 10327
+Content-Type: text/plain
+*************************************
+*************************************
+Datetime: 2019-04-19T23:02:32.698254
+variables: ?HotelProperName-?HotelStreetAddress-?AirportProperName
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: dfbfd556-cd22-42ec-ae3b-c65d1f980e3e
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 10327
+Content-Type: text/plain
+*************************************
+*************************************
+Datetime: 2019-04-19T23:14:03.650491
+variables: ?HotelProperName-?HotelStreetAddress-?AirportProperName
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 447bb3c6-289a-4664-a37d-c97fb7886d19
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 10327
+Content-Type: text/plain
+*************************************
+*************************************
+Datetime: 2019-04-19T23:14:39.376776
+variables: ?HotelProperName-?HotelStreetAddress-?AirportProperName
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: be93d522-d601-435e-9fac-6f1ab84ede27
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 10327
+Content-Type: text/plain
+*************************************
+*************************************
+Datetime: 2019-04-19T23:15:32.050875
+variables: ?HotelProperName-?HotelStreetAddress-?AirportProperName
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 07c2c06d-164c-4fd4-8a50-5d32346c75aa
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 10327
+Content-Type: text/plain
+*************************************

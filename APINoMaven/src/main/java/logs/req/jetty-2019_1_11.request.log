@@ -1,0 +1,23 @@
+*************************************
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.4.0
+Connection: keep-alive
+Postman-Token: 9edfb445-d188-4afe-ac66-a1488597cb20
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 54
+Subjects: Airport
+Content-Type: text/plain
+*************************************
+*************************************
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.4.0
+Referer: http://localhost:9000/attributes
+Connection: keep-alive
+Postman-Token: 9edfb445-d188-4afe-ac66-a1488597cb20
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Subjects: Airport
+*************************************

@@ -1,0 +1,482 @@
+*************************************
+Datetime: 2019-02-08T09:31:19.687369
+Accept: */*
+resultnum: 5
+subjects: Park
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+triplestore: default
+endpoint: http://localhost:9000
+Cache-Control: no-cache
+requestedsubject: Hotel
+requeststore: test
+Postman-Token: 26a31748-fc40-42bc-a25c-8ae12d28abe1
+*************************************
+*************************************
+Datetime: 2019-02-08T09:31:19.705579
+ResultNum: 5
+Accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
+TripleStore: test
+User-Agent: Java/11.0.1
+Connection: keep-alive
+Host: localhost:9000
+Subjects: Hotel
+*************************************
+*************************************
+Datetime: 2019-02-08T09:31:19.801866
+ResultNum: 5
+Accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
+TripleStore: test
+User-Agent: Java/11.0.1
+Connection: keep-alive
+Host: localhost:9000
+Subjects: Hotel
+*************************************
+*************************************
+Datetime: 2019-02-08T09:31:19.893697
+Accept: */*
+resultnum: 5
+subjects: Park
+User-Agent: PostmanRuntime/7.6.0
+Referer: http://localhost:9000/share
+Connection: keep-alive
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+triplestore: default
+endpoint: http://localhost:9000
+Cache-Control: no-cache
+requestedsubject: Hotel
+requeststore: test
+Postman-Token: 26a31748-fc40-42bc-a25c-8ae12d28abe1
+*************************************
+*************************************
+Datetime: 2019-02-08T09:31:33.598056
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 20
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 4b52cd28-040b-42d4-9a0b-d8e8731fa46b
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Subjects: park-hotel
+*************************************
+*************************************
+Datetime: 2019-02-08T09:31:33.690201
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 20
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Referer: http://localhost:9000/query
+Connection: keep-alive
+Postman-Token: 4b52cd28-040b-42d4-9a0b-d8e8731fa46b
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Subjects: park-hotel
+*************************************
+*************************************
+Datetime: 2019-02-08T09:33:27.629223
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 20
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 175d44c3-6fed-4e40-90f4-403411ce3066
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Subjects: park-hotel
+*************************************
+*************************************
+Datetime: 2019-02-08T09:33:27.652160
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 20
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Referer: http://localhost:9000/query
+Connection: keep-alive
+Postman-Token: 175d44c3-6fed-4e40-90f4-403411ce3066
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Subjects: park-hotel
+*************************************
+*************************************
+Datetime: 2019-02-08T09:33:43.149718
+Accept: */*
+resultnum: 5
+subjects: Park
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+triplestore: default
+endpoint: http://localhost:9000
+Cache-Control: no-cache
+requestedsubject: Hotel
+requeststore: test
+Postman-Token: 665b946c-6bdb-43d3-b947-578daf212044
+*************************************
+*************************************
+Datetime: 2019-02-08T09:33:43.152331
+ResultNum: 5
+Accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
+TripleStore: test
+User-Agent: Java/11.0.1
+Connection: keep-alive
+Host: localhost:9000
+Subjects: Hotel
+*************************************
+*************************************
+Datetime: 2019-02-08T09:33:43.190470
+ResultNum: 5
+Accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
+TripleStore: test
+User-Agent: Java/11.0.1
+Connection: keep-alive
+Host: localhost:9000
+Subjects: Hotel
+*************************************
+*************************************
+Datetime: 2019-02-08T09:33:43.257079
+Accept: */*
+resultnum: 5
+subjects: Park
+User-Agent: PostmanRuntime/7.6.0
+Referer: http://localhost:9000/share
+Connection: keep-alive
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+triplestore: default
+endpoint: http://localhost:9000
+Cache-Control: no-cache
+requestedsubject: Hotel
+requeststore: test
+Postman-Token: 665b946c-6bdb-43d3-b947-578daf212044
+*************************************
+*************************************
+Datetime: 2019-02-08T09:33:45.526301
+Accept: */*
+resultnum: 5
+subjects: Park
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+triplestore: default
+endpoint: http://localhost:9000
+Cache-Control: no-cache
+requestedsubject: Hotel
+requeststore: test
+Postman-Token: d7dddd7a-d6dc-4bbe-9aac-ae8fb0fe91ad
+*************************************
+*************************************
+Datetime: 2019-02-08T09:33:45.531134
+ResultNum: 5
+Accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
+TripleStore: test
+User-Agent: Java/11.0.1
+Connection: keep-alive
+Host: localhost:9000
+Subjects: Hotel
+*************************************
+*************************************
+Datetime: 2019-02-08T09:33:45.579018
+ResultNum: 5
+Accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
+TripleStore: test
+User-Agent: Java/11.0.1
+Connection: keep-alive
+Host: localhost:9000
+Subjects: Hotel
+*************************************
+*************************************
+Datetime: 2019-02-08T09:33:45.624693
+Accept: */*
+resultnum: 5
+subjects: Park
+User-Agent: PostmanRuntime/7.6.0
+Referer: http://localhost:9000/share
+Connection: keep-alive
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+triplestore: default
+endpoint: http://localhost:9000
+Cache-Control: no-cache
+requestedsubject: Hotel
+requeststore: test
+Postman-Token: d7dddd7a-d6dc-4bbe-9aac-ae8fb0fe91ad
+*************************************
+*************************************
+Datetime: 2019-02-08T09:34:29.947758
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 5
+Cache-Control: no-cache
+Accept: */*
+TripleStore: test
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 752eb8d0-3ad9-43ab-9c9d-f63233ab9f82
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Subjects: hotel
+*************************************
+*************************************
+Datetime: 2019-02-08T09:34:29.985555
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 5
+Cache-Control: no-cache
+Accept: */*
+TripleStore: test
+User-Agent: PostmanRuntime/7.6.0
+Referer: http://localhost:9000/construct
+Connection: keep-alive
+Postman-Token: 752eb8d0-3ad9-43ab-9c9d-f63233ab9f82
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Subjects: hotel
+*************************************
+*************************************
+Datetime: 2019-02-08T09:38:19.598748
+Accept: */*
+resultnum: 5
+subjects: Park
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+triplestore: default
+endpoint: http://localhost:9000
+Cache-Control: no-cache
+requestedsubject: Hotel
+requeststore: test
+Postman-Token: 46acc96a-fbf8-4168-824c-38a39e080bb0
+*************************************
+*************************************
+Datetime: 2019-02-08T09:38:19.655354
+ResultNum: 5
+Accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
+TripleStore: test
+User-Agent: Java/11.0.1
+Connection: keep-alive
+Host: localhost:9000
+Subjects: Hotel
+*************************************
+*************************************
+Datetime: 2019-02-08T09:38:20.508303
+ResultNum: 5
+Accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
+TripleStore: test
+User-Agent: Java/11.0.1
+Connection: keep-alive
+Host: localhost:9000
+Subjects: Hotel
+*************************************
+*************************************
+Datetime: 2019-02-08T09:38:20.838555
+Accept: */*
+resultnum: 5
+subjects: Park
+User-Agent: PostmanRuntime/7.6.0
+Referer: http://localhost:9000/share
+Connection: keep-alive
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+triplestore: default
+endpoint: http://localhost:9000
+Cache-Control: no-cache
+requestedsubject: Hotel
+requeststore: test
+Postman-Token: 46acc96a-fbf8-4168-824c-38a39e080bb0
+*************************************
+*************************************
+Datetime: 2019-02-08T09:38:37.240757
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 20
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: fc449b79-779f-4fa6-ada7-002bb98d9206
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Subjects: park-hotel
+*************************************
+*************************************
+Datetime: 2019-02-08T09:38:37.272860
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 20
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Referer: http://localhost:9000/query
+Connection: keep-alive
+Postman-Token: fc449b79-779f-4fa6-ada7-002bb98d9206
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Subjects: park-hotel
+*************************************
+*************************************
+Datetime: 2019-02-08T10:25:37.513311
+Accept: */*
+resultnum: 5
+subjects: Park
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+triplestore: default
+endpoint: http://localhost:9000
+Cache-Control: no-cache
+requestedsubject: Hotel
+requeststore: test
+Postman-Token: 830cf236-13ae-4077-9684-8602cdf61fa9
+*************************************
+*************************************
+Datetime: 2019-02-08T10:25:37.519204
+ResultNum: 5
+Accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
+TripleStore: test
+User-Agent: Java/11.0.1
+Connection: keep-alive
+Host: localhost:9000
+Subjects: Hotel
+*************************************
+*************************************
+Datetime: 2019-02-08T10:25:37.572112
+ResultNum: 5
+Accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
+TripleStore: test
+User-Agent: Java/11.0.1
+Connection: keep-alive
+Host: localhost:9000
+Subjects: Hotel
+*************************************
+*************************************
+Datetime: 2019-02-08T10:25:37.625699
+Accept: */*
+resultnum: 5
+subjects: Park
+User-Agent: PostmanRuntime/7.6.0
+Referer: http://localhost:9000/share
+Connection: keep-alive
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+triplestore: default
+endpoint: http://localhost:9000
+Cache-Control: no-cache
+requestedsubject: Hotel
+requeststore: test
+Postman-Token: 830cf236-13ae-4077-9684-8602cdf61fa9
+*************************************
+*************************************
+Datetime: 2019-02-08T10:25:47.475019
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 20
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: eddcbfe4-f0ce-4b0e-8098-9c35b3c96bdf
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Subjects: park-hotel
+*************************************
+*************************************
+Datetime: 2019-02-08T10:25:47.496636
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 20
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Referer: http://localhost:9000/query
+Connection: keep-alive
+Postman-Token: eddcbfe4-f0ce-4b0e-8098-9c35b3c96bdf
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Subjects: park-hotel
+*************************************
+*************************************
+Datetime: 2019-02-08T10:26:00.509934
+Accept: */*
+resultnum: 5
+subjects: Park
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+triplestore: default
+endpoint: http://localhost:9000
+Cache-Control: no-cache
+requestedsubject: Hotel
+requeststore: test
+Postman-Token: c26d8c8d-409e-4e81-8917-56f5e146fd22
+*************************************
+*************************************
+Datetime: 2019-02-08T10:26:00.513
+ResultNum: 5
+Accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
+TripleStore: test
+User-Agent: Java/11.0.1
+Connection: keep-alive
+Host: localhost:9000
+Subjects: Hotel
+*************************************
+*************************************
+Datetime: 2019-02-08T10:26:00.551423
+ResultNum: 5
+Accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
+TripleStore: test
+User-Agent: Java/11.0.1
+Connection: keep-alive
+Host: localhost:9000
+Subjects: Hotel
+*************************************
+*************************************
+Datetime: 2019-02-08T10:26:00.592016
+Accept: */*
+resultnum: 5
+subjects: Park
+User-Agent: PostmanRuntime/7.6.0
+Referer: http://localhost:9000/share
+Connection: keep-alive
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+triplestore: default
+endpoint: http://localhost:9000
+Cache-Control: no-cache
+requestedsubject: Hotel
+requeststore: test
+Postman-Token: c26d8c8d-409e-4e81-8917-56f5e146fd22
+*************************************
+*************************************
+Datetime: 2019-02-08T10:26:04.921507
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 20
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 9679063c-1f3d-48e4-86d4-e99672cbd863
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Subjects: park-hotel
+*************************************
+*************************************
+Datetime: 2019-02-08T10:26:04.941535
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 20
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Referer: http://localhost:9000/query
+Connection: keep-alive
+Postman-Token: 9679063c-1f3d-48e4-86d4-e99672cbd863
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Subjects: park-hotel
+*************************************

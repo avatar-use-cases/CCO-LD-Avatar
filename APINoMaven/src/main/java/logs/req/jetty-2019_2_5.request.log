@@ -1,0 +1,280 @@
+*************************************
+Datetime: 2019-02-05T12:02:56.826785
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 5
+Cache-Control: no-cache
+Accept: */*
+TripleStore: default
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: a1712a9e-c3f2-406a-9a9c-968f499e24cc
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Subjects: CUP
+*************************************
+*************************************
+Datetime: 2019-02-05T12:02:57.543793
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 5
+Cache-Control: no-cache
+Accept: */*
+TripleStore: default
+User-Agent: PostmanRuntime/7.6.0
+Referer: http://localhost:9000/construct
+Connection: keep-alive
+Postman-Token: a1712a9e-c3f2-406a-9a9c-968f499e24cc
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Subjects: CUP
+*************************************
+*************************************
+Datetime: 2019-02-05T12:09:14.940547
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 5
+Cache-Control: no-cache
+Accept: */*
+TripleStore: default
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 52fa722b-bf4c-4789-b229-f14350fe6b3f
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Subjects: CUP
+*************************************
+*************************************
+Datetime: 2019-02-05T12:09:15.503921
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 5
+Cache-Control: no-cache
+Accept: */*
+TripleStore: default
+User-Agent: PostmanRuntime/7.6.0
+Referer: http://localhost:9000/construct
+Connection: keep-alive
+Postman-Token: 52fa722b-bf4c-4789-b229-f14350fe6b3f
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Subjects: CUP
+*************************************
+*************************************
+Datetime: 2019-02-05T12:10:37.123483
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 5
+Cache-Control: no-cache
+Accept: */*
+TripleStore: default
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 4342eab6-7374-4708-80cc-a5b4f3cc70a0
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Subjects: CUP
+*************************************
+*************************************
+Datetime: 2019-02-05T12:10:37.744806
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 5
+Cache-Control: no-cache
+Accept: */*
+TripleStore: default
+User-Agent: PostmanRuntime/7.6.0
+Referer: http://localhost:9000/construct
+Connection: keep-alive
+Postman-Token: 4342eab6-7374-4708-80cc-a5b4f3cc70a0
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Subjects: CUP
+*************************************
+*************************************
+Datetime: 2019-02-05T12:11:58.150619
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 5
+Cache-Control: no-cache
+Accept: */*
+TripleStore: default
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 20537dac-e451-49cb-82f9-e0b4d87e3bb5
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Subjects: CUP
+*************************************
+*************************************
+Datetime: 2019-02-05T12:11:58.758318
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 5
+Cache-Control: no-cache
+Accept: */*
+TripleStore: default
+User-Agent: PostmanRuntime/7.6.0
+Referer: http://localhost:9000/construct
+Connection: keep-alive
+Postman-Token: 20537dac-e451-49cb-82f9-e0b4d87e3bb5
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Subjects: CUP
+*************************************
+*************************************
+Datetime: 2019-02-05T12:19:12.642721
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 20
+Cache-Control: no-cache
+Accept: */*
+TripleStore: 
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Constants: 
+Postman-Token: 848f2c02-94bf-45b5-a6b4-6240296ce162
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Subjects: park
+*************************************
+*************************************
+Datetime: 2019-02-05T12:19:13.226474
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Referer: http://localhost:9000/query
+Connection: keep-alive
+Constants: 
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 20
+Cache-Control: no-cache
+TripleStore: 
+Postman-Token: 848f2c02-94bf-45b5-a6b4-6240296ce162
+Subjects: park
+*************************************
+*************************************
+Datetime: 2019-02-05T12:19:43.249364
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 20
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 902d746e-f78a-4b83-9b1a-1c82f2be4beb
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Subjects: park
+*************************************
+*************************************
+Datetime: 2019-02-05T12:19:43.302666
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 20
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Referer: http://localhost:9000/query
+Connection: keep-alive
+Postman-Token: 902d746e-f78a-4b83-9b1a-1c82f2be4beb
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Subjects: park
+*************************************
+*************************************
+Datetime: 2019-02-05T12:20:04.505506
+Extension: park
+Cache-Control: no-cache
+Accept: */*
+TripleStore: InsertDataTests
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 3dbe3494-b63e-4142-be20-4816387a3ca4
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+*************************************
+*************************************
+Datetime: 2019-02-05T12:20:04.659104
+Extension: park
+Cache-Control: no-cache
+Accept: */*
+TripleStore: InsertDataTests
+User-Agent: PostmanRuntime/7.6.0
+Referer: http://localhost:9000/extension
+Connection: keep-alive
+Postman-Token: 3dbe3494-b63e-4142-be20-4816387a3ca4
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+*************************************
+*************************************
+Datetime: 2019-02-05T12:21:50.698204
+Extension: park
+Cache-Control: no-cache
+Accept: */*
+TripleStore: default
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 0f96c38a-277d-412a-b9e3-d2761f350887
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+*************************************
+*************************************
+Datetime: 2019-02-05T12:21:50.773728
+Extension: park
+Cache-Control: no-cache
+Accept: */*
+TripleStore: default
+User-Agent: PostmanRuntime/7.6.0
+Referer: http://localhost:9000/extension
+Connection: keep-alive
+Postman-Token: 0f96c38a-277d-412a-b9e3-d2761f350887
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+*************************************
+*************************************
+Datetime: 2019-02-05T12:21:58.353583
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 20
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 7b58e96b-5b66-4954-a171-4f3c48e01607
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Subjects: park
+*************************************
+*************************************
+Datetime: 2019-02-05T12:21:58.379168
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 20
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Referer: http://localhost:9000/query
+Connection: keep-alive
+Postman-Token: 7b58e96b-5b66-4954-a171-4f3c48e01607
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Subjects: park
+*************************************
+*************************************
+Datetime: 2019-02-05T12:23:21.099827
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 5
+Cache-Control: no-cache
+Accept: */*
+TripleStore: default
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: d8fc6162-e5cf-41d4-8190-918f69e8c21c
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Subjects: park
+*************************************
+*************************************
+Datetime: 2019-02-05T12:23:21.158735
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 5
+Cache-Control: no-cache
+Accept: */*
+TripleStore: default
+User-Agent: PostmanRuntime/7.6.0
+Referer: http://localhost:9000/construct
+Connection: keep-alive
+Postman-Token: d8fc6162-e5cf-41d4-8190-918f69e8c21c
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Subjects: park
+*************************************

@@ -1,0 +1,31 @@
+*************************************
+Datetime: 2019-03-15T21:43:44.715399
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 20
+Cache-Control: no-cache
+Accept: */*
+TripleStore: Test_User_Data_John_Doe
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Constants: ResidentialFacilityGeospatialLocationCodeIdentifierlatitude-:ResidentialFacilityGeospatialLocationCodeIdentifierlongitude-
+Postman-Token: 1486eb98-6d2c-42cb-9962-56134db8a019
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Subjects: person
+*************************************
+*************************************
+Datetime: 2019-03-15T21:43:45.198902
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Referer: http://localhost:9000/query
+Connection: keep-alive
+Constants: ResidentialFacilityGeospatialLocationCodeIdentifierlatitude-:ResidentialFacilityGeospatialLocationCodeIdentifierlongitude-
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 20
+Cache-Control: no-cache
+TripleStore: Test_User_Data_John_Doe
+Postman-Token: 1486eb98-6d2c-42cb-9962-56134db8a019
+Subjects: person
+*************************************

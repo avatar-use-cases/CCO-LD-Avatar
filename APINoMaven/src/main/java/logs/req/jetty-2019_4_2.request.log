@@ -1,0 +1,450 @@
+*************************************
+Datetime: 2019-04-02T11:38:20.961757
+resultNum: 300
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+orderby: HotelProperName
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+integration: AirportProperName0-HotelCityProperName
+Postman-Token: bb99e275-b749-4ebd-9a5f-5afdac1005e7
+constants: HotelCityProperName-PHILADELPHIA:
+Content-Length: 44283
+Content-Type: application/json
+*************************************
+*************************************
+Datetime: 2019-04-02T11:41:46.338031
+resultNum: 300
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+orderby: HotelProperName
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+integration: AirportProperName0-HotelCityProperName
+Postman-Token: 77786a1c-290d-471b-a4f3-a93422f137b4
+constants: HotelCityProperName-PHILADELPHIA:
+Content-Length: 44283
+Content-Type: application/json
+*************************************
+*************************************
+Datetime: 2019-04-02T11:43:10.756482
+resultNum: 300
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+orderby: HotelProperName
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+integration: AirportProperName0-HotelCityProperName
+Postman-Token: 2289944e-f226-4896-bc5b-01826a93d57d
+constants: HotelCityProperName-PHILADELPHIA:
+Content-Length: 44283
+Content-Type: application/json
+*************************************
+*************************************
+Datetime: 2019-04-02T11:44:31.793073
+resultNum: 300
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+orderby: HotelProperName
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+integration: AirportProperName0-HotelCityProperName
+Postman-Token: 1f32e950-8986-4d50-8642-2107c2d3fdf7
+constants: HotelCityProperName-PHILADELPHIA:
+Content-Length: 44283
+Content-Type: application/json
+*************************************
+*************************************
+Datetime: 2019-04-02T11:46:18.012399
+resultNum: 300
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+orderby: HotelProperName
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+integration: AirportProperName0-HotelCityProperName
+Postman-Token: 36656b03-10ba-49b9-9345-b40959cc7017
+constants: HotelCityProperName-PHILADELPHIA:
+Content-Length: 44283
+Content-Type: application/json
+*************************************
+*************************************
+Datetime: 2019-04-02T11:55:47.146125
+resultNum: 300
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+orderby: HotelProperName
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+integration: AirportProperName0-HotelCityProperName
+Postman-Token: e8cb09db-513a-4cd1-9ea3-4a5f9c12b78a
+constants: HotelCityProperName-PHILADELPHIA:
+Content-Length: 44283
+Content-Type: application/json
+*************************************
+*************************************
+Datetime: 2019-04-02T11:58:19.913780
+resultNum: 300
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+orderby: HotelProperName
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+integration: AirportProperName0-HotelCityProperName
+Postman-Token: 8253b155-dca9-45ec-952a-983c5ef7eb60
+constants: HotelCityProperName-PHILADELPHIA:
+Content-Length: 44283
+Content-Type: application/json
+*************************************
+*************************************
+Datetime: 2019-04-02T11:59:01.596583
+resultNum: 300
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+orderby: HotelProperName
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+integration: AirportProperName0-HotelCityProperName
+Postman-Token: 63c993be-6ee1-41e1-a2b5-1af7c0834e3f
+constants: HotelCityProperName-PHILADELPHIA:
+Content-Length: 44283
+Content-Type: application/json
+*************************************
+*************************************
+Datetime: 2019-04-02T12:00:31.077960
+resultNum: 300
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+orderby: HotelProperName
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+integration: AirportProperName0-HotelCityProperName
+Postman-Token: a227809d-b05b-4034-b794-3a26d57b5b4a
+constants: HotelCityProperName-PHILADELPHIA:
+Content-Length: 44283
+Content-Type: application/json
+*************************************
+*************************************
+Datetime: 2019-04-02T12:03:00.024383
+resultNum: 300
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+orderby: HotelProperName
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+integration: AirportProperName0-HotelCityProperName
+Postman-Token: 0125348c-8ddd-4dd7-aabe-464e9b60d4a9
+constants: HotelCityProperName-PHILADELPHIA:
+Content-Length: 44283
+Content-Type: application/json
+*************************************
+*************************************
+Datetime: 2019-04-02T12:05:48.079876
+resultNum: 300
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+orderby: HotelProperName
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+integration: AirportProperName0-HotelCityProperName
+Postman-Token: 06295549-48ef-457a-9781-2b8a893cb20a
+constants: HotelCityProperName-PHILADELPHIA:
+Content-Length: 44283
+Content-Type: application/json
+*************************************
+*************************************
+Datetime: 2019-04-02T12:48:53.417778
+resultNum: 300
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+orderby: HotelProperName
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+integration: AirportProperName0-HotelCityProperName
+Postman-Token: 463861b8-3fc9-4d88-8d1a-bd32f46e67a7
+constants: HotelCityProperName-PHILADELPHIA:
+Content-Length: 44283
+Content-Type: application/json
+*************************************
+*************************************
+Datetime: 2019-04-02T12:49:55.628962
+resultNum: 300
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+orderby: HotelProperName
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+integration: AirportProperName0-HotelCityProperName
+Postman-Token: 1e58675c-be79-459b-8089-a81cff73cf73
+constants: HotelCityProperName-PHILADELPHIA:
+Content-Length: 44283
+Content-Type: application/json
+*************************************
+*************************************
+Datetime: 2019-04-02T12:55:39.373932
+resultNum: 300
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+orderby: HotelProperName
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+integration: AirportProperName0-HotelCityProperName
+Postman-Token: 34fd2d3c-9358-48ae-bbde-d36a0f04f7fd
+constants: HotelCityProperName-PHILADELPHIA:
+Content-Length: 44283
+Content-Type: application/json
+*************************************
+*************************************
+Datetime: 2019-04-02T12:57:28.064761
+resultNum: 300
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+orderby: HotelProperName
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+integration: AirportProperName0-HotelCityProperName
+Postman-Token: 0ce3cfe3-4e8d-4d65-bd1f-bc532e17255a
+constants: HotelCityProperName-PHILADELPHIA:
+Content-Length: 44283
+Content-Type: application/json
+*************************************
+*************************************
+Datetime: 2019-04-02T13:02:24.883059
+resultNum: 300
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+orderby: HotelProperName
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+integration: AirportProperName0-HotelCityProperName
+Postman-Token: 864d5d99-1571-4eab-96e3-38acbf776eea
+constants: HotelCityProperName-PHILADELPHIA:
+Content-Length: 44283
+Content-Type: application/json
+*************************************
+*************************************
+Datetime: 2019-04-02T13:04:28.251848
+resultNum: 300
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+orderby: HotelProperName
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+integration: AirportProperName0-HotelCityProperName
+Postman-Token: 20625d66-c3ed-4787-aee6-f91f4ca34a3b
+constants: HotelCityProperName-PHILADELPHIA:
+Content-Length: 44283
+Content-Type: application/json
+*************************************
+*************************************
+Datetime: 2019-04-02T13:05:55.444792
+resultNum: 300
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+orderby: HotelProperName
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+integration: AirportProperName0-HotelCityProperName
+Postman-Token: 44679ea9-1eba-4168-88b2-06696bc93a95
+constants: HotelCityProperName-PHILADELPHIA:
+Content-Length: 44283
+Content-Type: application/json
+*************************************
+*************************************
+Datetime: 2019-04-02T13:07:48.312311
+resultNum: 300
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 12f61a74-570e-42b8-a839-ad1d6d482ddd
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 44283
+Content-Type: application/json
+*************************************
+*************************************
+Datetime: 2019-04-02T13:08:22.059310
+resultNum: 300
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: ab27d21a-47b5-4a79-a0d1-412eca0839a7
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 44283
+Content-Type: application/json
+*************************************
+*************************************
+Datetime: 2019-04-02T13:08:27.904028
+resultNum: 300
+Cache-Control: no-cache
+Accept: */*
+integration: AirportProperName0-HotelCityProperName
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 3baa96aa-ff07-4b3d-841c-219b09c50a72
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 44283
+Content-Type: application/json
+*************************************
+*************************************
+Datetime: 2019-04-02T13:08:35.610892
+resultNum: 300
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+orderby: HotelProperName
+Postman-Token: 14a8e58c-9f57-4780-bbd5-1545136298b6
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 44283
+Content-Type: application/json
+*************************************
+*************************************
+Datetime: 2019-04-02T13:08:42.254743
+resultNum: 300
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 747610f2-2363-4cf5-9a92-e6c7ba112c05
+Host: localhost:9000
+constants: HotelCityProperName-PHILADELPHIA:
+Accept-Encoding: gzip, deflate
+Content-Length: 44283
+Content-Type: application/json
+*************************************
+*************************************
+Datetime: 2019-04-02T13:08:48.784963
+resultNum: 300
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: bacea5d0-684a-4764-aa70-166583a2c4b9
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 44283
+Content-Type: application/json
+*************************************
+*************************************
+Datetime: 2019-04-02T13:08:51.535092
+resultNum: 300
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 1dd4c0ec-2de8-4bf7-87bc-f8f3f9674303
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 44283
+Content-Type: application/json
+*************************************
+*************************************
+Datetime: 2019-04-02T13:09:00.189655
+resultNum: 300
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: fd4f6142-ea54-45d2-a72c-530b597c5e20
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 44283
+Content-Type: application/json
+*************************************
+*************************************
+Datetime: 2019-04-02T13:09:22.482723
+resultNum: 300
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: d9e5b112-5364-4032-a068-1fcd3ba7e3fc
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 44283
+Content-Type: application/json
+*************************************
+*************************************
+Datetime: 2019-04-02T13:11:10.302862
+resultNum: 300
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: d72a2df3-51da-42ad-9b79-9949a586f916
+Host: localhost:9000
+constants: HotelCityProperName-PHILADELPHIA:
+Accept-Encoding: gzip, deflate
+Content-Length: 44283
+Content-Type: application/json
+*************************************
+*************************************
+Datetime: 2019-04-02T13:11:21.634225
+resultNum: 300
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 0c75e17c-70ac-4d54-8e4c-4f83bf57a1fc
+Host: localhost:9000
+constants: HotelCityProperName-PHILADELPHIA:
+Accept-Encoding: gzip, deflate
+Content-Length: 44283
+Content-Type: application/json
+*************************************
+*************************************
+Datetime: 2019-04-02T13:11:23.588301
+resultNum: 300
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 089b870d-626b-42d4-a2d8-6075a2549a92
+Host: localhost:9000
+constants: HotelCityProperName-PHILADELPHIA:
+Accept-Encoding: gzip, deflate
+Content-Length: 44283
+Content-Type: application/json
+*************************************

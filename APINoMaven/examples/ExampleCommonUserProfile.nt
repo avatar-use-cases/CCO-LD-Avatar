@@ -1,0 +1,97 @@
+@prefix : <#>.
+@prefix Com: <http://www.ontologyrepository.com/CommonCoreOntologies/>.
+@prefix obo: <http://purl.obolibrary.org/obo/>.
+
+:Person1
+    a Com:Person;
+    Com:agent_in <#Person1/ActOfResiding1>;
+    Com:designated_by <#Person1/ProperName1>.
+<#Person1/ActOfResiding1>
+    a Com:ActOfResiding;
+    Com:has_object <#Person1/ActOfResiding1/ResidentialFacility1>.
+<#Person1/ActOfResiding1/ResidentialFacility1>
+    a Com:ResidentialFacility;
+    obo:RO_0001025
+        <#Person1/ActOfResiding1/ResidentialFacility1/GeospatialRegion1>,
+        <#Person1/ActOfResiding1/ResidentialFacility1/LocalAdministrativeRegion1>,
+        <#Person1/ActOfResiding1/ResidentialFacility1/PostalZone1>;
+    Com:designated_by
+    <#Person1/ActOfResiding1/ResidentialFacility1/StreetAddress1>.
+<#Person1/ActOfResiding1/ResidentialFacility1/GeospatialRegion1>
+    a Com:GeospatialRegion;
+    Com:designated_by
+        <#Person1/ActOfResiding1/ResidentialFacility1/GeospatialRegion1/GeospatialRegionIdentifier1>.
+<#Person1/ActOfResiding1/ResidentialFacility1/GeospatialRegion1/GeospatialRegionIdentifier1>
+    a Com:GeospatialRegionIdentifier;
+    obo:RO_0010001
+        <#Person1/ActOfResiding1/ResidentialFacility1/GeospatialRegion1/GeospatialRegionIdentifier1/InformationBearingEntity8>.
+<#Person1/ActOfResiding1/ResidentialFacility1/GeospatialRegion1/GeospatialRegionIdentifier1/InformationBearingEntity8>
+    a Com:InformationBearingEntity;
+    Com:has_latitude_value "37.2167";
+    Com:has_longitude_value "-93.292".
+<#Person1/ActOfResiding1/ResidentialFacility1/LocalAdministrativeRegion1>
+    a Com:LocalAdministrativeRegion;
+    obo:BFO_0000050
+        <#Person1/ActOfResiding1/ResidentialFacility1/LocalAdministrativeRegion1/County1>;
+    Com:designated_by
+        <#Person1/ActOfResiding1/ResidentialFacility1/LocalAdministrativeRegion1/DesignativeName1>.
+<#Person1/ActOfResiding1/ResidentialFacility1/LocalAdministrativeRegion1/County1>
+    a Com:County;
+    obo:BFO_0000050
+        <#Person1/ActOfResiding1/ResidentialFacility1/LocalAdministrativeRegion1/County1/State1>;
+    Com:designated_by
+        <#Person1/ActOfResiding1/ResidentialFacility1/LocalAdministrativeRegion1/County1/DesignativeName3>.
+<#Person1/ActOfResiding1/ResidentialFacility1/LocalAdministrativeRegion1/County1/DesignativeName1>
+    a Com:DesignativeName;
+    obo:RO_0010001
+        <#Person1/ActOfResiding1/ResidentialFacility1/LocalAdministrativeRegion1/County1/DesignativeName1/InformationBearingEntity4>.
+<#Person1/ActOfResiding1/ResidentialFacility1/LocalAdministrativeRegion1/County1/DesignativeName1/InformationBearingEntity4>
+a Com:InformationBearingEntity; Com:has_text_value "SPRINGFIELD".
+<#Person1/ActOfResiding1/ResidentialFacility1/LocalAdministrativeRegion1/County1/DesignativeName3>
+    a Com:DesignativeName;
+    obo:RO_0010001
+        <#Person1/ActOfResiding1/ResidentialFacility1/LocalAdministrativeRegion1/County1/DesignativeName3/InformationBearingEntity6>.
+<#Person1/ActOfResiding1/ResidentialFacility1/LocalAdministrativeRegion1/County1/DesignativeName3/InformationBearingEntity6>
+a Com:InformationBearingEntity; Com:has_text_value "GREENE".
+<#Person1/ActOfResiding1/ResidentialFacility1/LocalAdministrativeRegion1/County1/State1>
+    a Com:State;
+    Com:designated_by
+        <#Person1/ActOfResiding1/ResidentialFacility1/LocalAdministrativeRegion1/County1/State1/DesignativeName2>.
+<#Person1/ActOfResiding1/ResidentialFacility1/LocalAdministrativeRegion1/County1/State1/DesignativeName2>
+    a Com:DesignativeName;
+    obo:RO_0010001
+        <#Person1/ActOfResiding1/ResidentialFacility1/LocalAdministrativeRegion1/County1/State1/DesignativeName2/InformationBearingEntity5>.
+<#Person1/ActOfResiding1/ResidentialFacility1/LocalAdministrativeRegion1/County1/State1/DesignativeName2/InformationBearingEntity5>
+a Com:InformationBearingEntity; Com:has_text_value "MO".
+<#Person1/ActOfResiding1/ResidentialFacility1/PostalZone1>
+    a Com:PostalZone;
+    Com:designated_by
+    <#Person1/ActOfResiding1/ResidentialFacility1/PostalZone1/PostalCode1>.
+<#Person1/ActOfResiding1/ResidentialFacility1/PostalZone1/PostalCode1>
+    a Com:PostalCode;
+    obo:RO_0010001
+        <#Person1/ActOfResiding1/ResidentialFacility1/PostalZone1/PostalCode1/InformationBearingEntity7>.
+<#Person1/ActOfResiding1/ResidentialFacility1/PostalZone1/PostalCode1/InformationBearingEntity7>
+a Com:InformationBearingEntity; Com:has_integer_value "65803".
+<#Person1/ActOfResiding1/ResidentialFacility1/StreetAddress1>
+    a Com:StreetAddress;
+    obo:RO_0010001
+        <#Person1/ActOfResiding1/ResidentialFacility1/StreetAddress1/InformationBearingEntity3>.
+<#Person1/ActOfResiding1/ResidentialFacility1/StreetAddress1/InformationBearingEntity3>
+    a Com:InformationBearingEntity;
+    Com:has_text_value "1234 NORTH FOREST ST, SPRINGFIELD, MO, 65803".
+<#Person1/ProperName1>
+    a Com:ProperName;
+    obo:BFO_0000051
+    <#Person1/ProperName1/FamilyName1>, <#Person1/ProperName1/GivenName1>.
+<#Person1/ProperName1/FamilyName1>
+    a Com:FamilyName;
+    obo:RO_0010001 <#Person1/ProperName1/FamilyName1/InformationBearingEntity2>.
+<#Person1/ProperName1/FamilyName1/InformationBearingEntity2>
+a Com:InformationBearingEntity; Com:has_text_value "DOE".
+<#Person1/ProperName1/GivenName1>
+    a Com:GivenName;
+    obo:RO_0010001 <#Person1/ProperName1/GivenName1/InformationBearingEntity1>.
+<#Person1/ProperName1/GivenName1/InformationBearingEntity1>
+a Com:InformationBearingEntity; Com:has_text_value "JOHN".
+

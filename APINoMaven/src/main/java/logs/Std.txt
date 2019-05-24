@@ -1,0 +1,20 @@
+Request Received: /related/parks_near_newark_de
+Client topic is: parks_near_newark_de
+Related topics are: 
+Request Received: /related/airports_in_philadelphia_pa
+Client topic is: airports_in_philadelphia_pa
+Related topics are: Airports,Hotels--city:PHILADELPHIA,state:PA
+
+Request Received: /query/Airports-Hotels/city:PHILADELPHIA-state:PA
+
+Client topic is: Airports-Hotels
+Client options are: city:PHILADELPHIA-state:PA
+
+python3 pythonScripts/WQ-QueryRun.py Airports-Hotels city:PHILADELPHIA-state:PA
+
+The results from the query are: ['Airports', 'Hotels'] {'city': 'PHILADELPHIA', 'state': 'PA'}
+./pythonScripts/pythonClientAndServer/autoQuery/Airport.rq
+./pythonScripts/pythonClientAndServer/autoQuery/Hotel.rq
+['PA', 'PHILADELPHIA']
+CityLongitude:['-75.134', '-75.134', '-75.134', '-75.134', '-75.134']-CountyProperName:['PHILADELPHIA', 'PHILADELPHIA', 'PHILADELPHIA', 'PHILADELPHIA', 'PHILADELPHIA']-CityLatitude:['40.0076', '40.0076', '40.0076', '40.0076', '40.0076']-GeospatialRegionCodeIdentifier:['AEA', 'AEA', 'AEA', 'AEA', 'AEA']-StateAbbreviatedName:['PA', 'PA', 'PA', 'PA', 'PA']-HotelProperName:['PHILADELPHIA AIRPORT HILTON', 'EMBASSY SUITES HOTEL PHILADELPHIA CTR CITY', 'HOLIDAY INN EXPRESS-MIDTOWN', 'FOUR POINTS BY SHERATON PHILADELPHIA NORTHEAST', 'EMBASSY SUITES PHILADELPHIA AIRPORT']-Other:['4509 IS AVE', '1776 BENJAMIN FRANKLIN PKWY', '1305 WALNUT ST', '9461 ROOSEVELT BLVD', '9000 BARTRAM AVE']-AirportProperName:['PHILADELPHIA INTL', 'PHILADELPHIA INTL', 'PHILADELPHIA INTL', 'PHILADELPHIA INTL', 'PHILADELPHIA INTL']-AirportAbbreviatedName:['HAR', 'HAR', 'HAR', 'HAR', 'HAR']-ZipCode:['19153', '19103', '19107', '19114', '19153']-AirportLongitude:['-75.2407', '-75.2407', '-75.2407', '-75.2407', '-75.2407']-AirportLatitude:['39.8721', '39.8721', '39.8721', '39.8721', '39.8721']-CityProperName:['PHILADELPHIA', 'PHILADELPHIA', 'PHILADELPHIA', 'PHILADELPHIA', 'PHILADELPHIA']-StateCodeIdentifier:['PHL', 'PHL', 'PHL', 'PHL', 'PHL']
+

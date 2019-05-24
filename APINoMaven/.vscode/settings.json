@@ -1,0 +1,5 @@
+{
+    "remote.onstartup": true,
+    "python.linting.pylintEnabled": true,
+    "git.ignoreLimitWarning": true
+}

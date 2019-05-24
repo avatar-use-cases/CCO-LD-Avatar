@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html>
+<style>
+    form {
+        padding: 20px 20px;
+    }
+
+    body {
+        background-color: aliceblue;
+    }
+
+    .subject {
+        padding: 0px 20px;
+    }
+
+    .formDiv {
+        padding: 10px 10px;
+    }
+
+    .data {
+        padding: 14px 16px;
+        width: 500px;
+        height: 260px;
+        border: solid;
+        background-color: whitesmoke;
+        text-align: left;
+        font-size: large;
+        font-family: monospace;
+        resize: none;
+    }
+
+    .sepDiv {
+        padding: 10px;
+    }
+</style>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js">
+
+
+</script>
+
+<head>
+
+</head>
+
+<body>
+    <div class="mainDiv">
+        <form id="form" role="form" method="POST">
+            <div id="formDiv">
+                <div class="sepDiv">
+                    <input name="subject" form="form" placeholder="Subject" class="subject" id="subject" type="text">
+                </div>
+                <div class="sepDiv">
+                    <textarea name="data" form="form" placeholder="RDF Data" class="data" id="data"
+                        wrap="hard"></textarea>
+                </div>
+            </div>
+        </form>
+        <button id="addButton" onclick="JavaScript:addForm()">
+            add another sub
+        </button>
+
+        <button onclick="JavaScript:submit()">
+            Next
+        </button>
+    </div>
+</body>
+<script type="text/JavaScript">
+    var reqBody;
+    var dataType;
+    var contentType;
+    // Adds another form for another subject with data
+    function addForm(){
+        $("#formDiv").clone().appendTo("#form");
+    }
+    // Gets the data the user input from the form
+    function getDataFromForm(){
+        var data = $('form').serializeArray()
+        // determine the input type
+        for (var i = 0; i < data.length; i++){
+            if(data[i].name == "data"){
+                if(data[i].value.startsWith("<")){
+                    dataType = "xml";
+                }else if (data[i].value.startsWith("[") || data[i].value.startsWith("{")){
+                    dataType = "json";
+                }
+            }
+        }
+        // console.log(JSON.stringify(data));
+        if(dataType == "json"){
+            contentType = "application/json";
+            for (var i = 0; i < data.length; i++){
+                if (data[i].name == "subject"){
+                    console.log(data[i].value);
+                }else if (data[i].name == "data"){
+                    console.log(data[i].value);
+                }
+            }
+        }
+        if(dataType == "xml"){
+            contentType = "application/xml";
+            reqBody = "<?xml version=\"1.0\" encoding=\"windows-1252\"?>\n"
+            for (var i = 0; i < data.length; i++){
+                
+                if (data[i].name == "subject"){
+                    reqBody += "<Data>\n";
+                    reqBody += "<RootNode>" + data[i].value + "</RootNode>\n";
+
+                }else if (data[i].name == "data"){
+                    reqBody += data[i].value;
+                    reqBody += "</data>\n"
+                }
+                
+            }
+        }
+        return reqBody, contentType;
+    }
+    // sends the initial query request to api
+    function sendQueryRequest(body){
+        var settings = {
+            "async": true,
+            "crossDomain": true,
+            "url": "http://128.4.125.230:9000/query/",
+            "method": "POST",
+            "headers": {
+                "Content-Type": "application/xml",
+                "Authorization": "Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==",
+                "Access-Control-Allow-Headers": "x-requested-with"
+            },
+            "data":body
+        }
+        $.ajax(settings).done(function (response) {
+            console.log(response);
+        });
+        // var res = $.post("http://128.4.126.28:9000/query/",body,"application/json");
+        // console.log("Response is: " + JSON.stringify(res));
+    }
+    function submit(){
+        body = getDataFromForm();
+        console.log(body);
+        console.log(contentType);
+        sendQueryRequest(body,contentType);
+    }
+    
+</script>
+
+</html>

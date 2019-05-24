@@ -1,0 +1,196 @@
+*************************************
+Datetime: 2019-04-11T09:44:13.286435
+resultNum: 300
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+orderby: HotelProperName
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+integration: AirportCityProperName-HotelCityProperName
+Postman-Token: 4774d9a7-cdc0-4c22-90de-81ea769eef34
+constants: HotelCityProperName-PHILADELPHIA:
+Content-Length: 24318
+Content-Type: application/xml
+*************************************
+*************************************
+Datetime: 2019-04-11T14:51:40.876157
+variables: 
+Cache-Control: no-cache
+Accept: */*
+query: 
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: fcbf720b-7209-468c-89b3-db9a46f78fa9
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+*************************************
+*************************************
+Datetime: 2019-04-11T14:52:51.891862
+variables: ?HotelProperName-?HotelCityProperName-?CityStateAbbreviatedName
+Cache-Control: no-cache
+Accept: */*
+query: 
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: a4b66ff1-e688-4554-af34-e1a36a0d63a2
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 3711
+Content-Type: text/plain
+*************************************
+*************************************
+Datetime: 2019-04-11T15:04:35.550160
+variables: ?HotelProperName-?HotelCityProperName-?CityStateAbbreviatedName
+Cache-Control: no-cache
+Accept: */*
+query: 
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 010585a5-72f3-4a3b-9333-30f148424e68
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 3711
+Content-Type: text/plain
+*************************************
+*************************************
+Datetime: 2019-04-11T15:19:20.418670
+variables: ?HotelProperName-?HotelCityProperName-?CityStateAbbreviatedName
+Cache-Control: no-cache
+Accept: */*
+query: 
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: b6c15fd7-1591-41c4-9766-9b548837c7b1
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 3711
+Content-Type: text/plain
+*************************************
+*************************************
+Datetime: 2019-04-11T15:25:55.491911
+variables: ?HotelProperName-?HotelCityProperName-?CityStateAbbreviatedName
+Cache-Control: no-cache
+Accept: */*
+query: 
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 187b57f2-df5a-40f8-b615-1b6b0c1efd37
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 3711
+Content-Type: text/plain
+*************************************
+*************************************
+Datetime: 2019-04-11T15:26:43.862796
+variables: ?HotelProperName-?HotelCityProperName-?CityStateAbbreviatedName
+Cache-Control: no-cache
+Accept: */*
+query: 
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 5e9335f5-503f-41cc-bd90-ea5e6afad8f4
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 3711
+Content-Type: text/plain
+*************************************
+*************************************
+Datetime: 2019-04-11T15:28:00.555421
+variables: ?HotelProperName-?HotelCityProperName-?CityStateAbbreviatedName
+Cache-Control: no-cache
+Accept: */*
+query: 
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 4e70dc4c-d28c-4fd4-a840-6b83525d06ca
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 3711
+Content-Type: text/plain
+*************************************
+*************************************
+Datetime: 2019-04-11T15:28:47.673676
+variables: ?HotelProperName-?HotelCityProperName-?CityStateAbbreviatedName
+Cache-Control: no-cache
+Accept: */*
+query: 
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: f6bdd75a-a1bc-44d9-9ed2-04873cd4f02b
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 3711
+Content-Type: text/plain
+*************************************
+*************************************
+Datetime: 2019-04-11T15:30:06.297866
+variables: ?HotelProperName-?HotelCityProperName-?CityStateAbbreviatedName
+Cache-Control: no-cache
+Accept: */*
+query: 
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 31b72922-9d4a-4b55-a278-3e2321d236ca
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 3711
+Content-Type: text/plain
+*************************************
+*************************************
+Datetime: 2019-04-11T15:30:17.939835
+variables: ?HotelProperName-?HotelCityProperName-?CityStateAbbreviatedName
+Cache-Control: no-cache
+Accept: */*
+query: 
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 4aee90b6-156b-4d1c-8dbe-e8b76ee15081
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 3711
+Content-Type: text/plain
+*************************************
+*************************************
+Datetime: 2019-04-11T15:31:23.352610
+variables: ?HotelProperName-?HotelCityProperName-?CityStateAbbreviatedName
+Cache-Control: no-cache
+Accept: */*
+query: 
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: de70decd-82a1-4170-bbda-dce72be190ca
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 3711
+Content-Type: text/plain
+*************************************
+*************************************
+Datetime: 2019-04-11T15:32:10.788994
+variables: ?HotelProperName-?HotelCityProperName-?CityStateAbbreviatedName
+Cache-Control: no-cache
+Accept: */*
+query: 
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 3e38cf4d-a822-44a1-8e99-b4b56031fe13
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 3711
+Content-Type: text/plain
+*************************************
+*************************************
+Datetime: 2019-04-11T15:34:05.784330
+variables: ?HotelProperName-?HotelCityProperName-?CityStateAbbreviatedName
+Cache-Control: no-cache
+Accept: */*
+query: 
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 1d07b1e8-ff83-452a-8ed5-338267779222
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 3711
+Content-Type: text/plain
+*************************************

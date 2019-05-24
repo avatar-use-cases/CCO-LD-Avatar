@@ -1,0 +1,25 @@
+*************************************
+Datetime: 2019-04-23T09:55:02.737534
+variables: ?ResidentialFacilityCityProperName-?ActOfManufacturingOrganizationProperName-?AutomobileArtifactModelProperName
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 906513ef-3b10-4b45-bb1e-07982914b754
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 30047
+Content-Type: text/plain
+*************************************
+*************************************
+Datetime: 2019-04-23T09:55:12.150805
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 3e999559-889f-4d45-9f50-0dee412c6a5e
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 24319
+Content-Type: application/xml
+*************************************

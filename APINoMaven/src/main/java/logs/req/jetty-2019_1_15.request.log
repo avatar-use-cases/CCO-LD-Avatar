@@ -1,0 +1,624 @@
+*************************************
+2019-01-15T13:06:46.753676Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 3a90cdc2-1e6f-4f44-88c8-f42959e447c7
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 54
+Subjects: Airport
+Content-Type: text/plain
+*************************************
+*************************************
+2019-01-15T13:06:46.915606Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Referer: http://localhost:9000/attributes
+Connection: keep-alive
+Postman-Token: 3a90cdc2-1e6f-4f44-88c8-f42959e447c7
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Subjects: Airport
+*************************************
+*************************************
+2019-01-15T13:07:40.784301
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 00ba2154-0bbf-4e40-a4f2-e764f475f840
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 54
+Subjects: Airport
+Content-Type: text/plain
+*************************************
+*************************************
+2019-01-15T13:07:40.880388
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Referer: http://localhost:9000/attributes
+Connection: keep-alive
+Postman-Token: 00ba2154-0bbf-4e40-a4f2-e764f475f840
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Subjects: Airport
+*************************************
+*************************************
+Datetime: 2019-01-15T13:08:26.702953
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Connection: keep-alive
+Postman-Token: 81f3fbd0-2351-4efd-9dcd-79e97aad570f
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Content-Length: 54
+Subjects: Airport
+Content-Type: text/plain
+*************************************
+*************************************
+Datetime: 2019-01-15T13:08:26.806146
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.6.0
+Referer: http://localhost:9000/attributes
+Connection: keep-alive
+Postman-Token: 81f3fbd0-2351-4efd-9dcd-79e97aad570f
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Subjects: Airport
+*************************************
+*************************************
+Datetime: 2019-01-15T14:53:01.392825
+Integration: City-State
+Accept: */*
+User-Agent: PostmanRuntime/7.4.0
+Connection: keep-alive
+Constants: HotelProperName-
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 20
+Cache-Control: no-cache
+TripleStore: StartSet
+Postman-Token: d5497b28-f2b4-462c-b8b4-1b107790a721
+Subjects: hotel
+*************************************
+*************************************
+Datetime: 2019-01-15T14:53:02.045740
+Integration: City-State
+Accept: */*
+User-Agent: PostmanRuntime/7.4.0
+Referer: http://localhost:9000/query
+Connection: keep-alive
+Constants: HotelProperName-
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 20
+Cache-Control: no-cache
+TripleStore: StartSet
+Postman-Token: d5497b28-f2b4-462c-b8b4-1b107790a721
+Subjects: hotel
+*************************************
+*************************************
+Datetime: 2019-01-15T15:57:46.585321
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 20
+Cache-Control: no-cache
+Accept: */*
+TripleStore: StartSet
+User-Agent: PostmanRuntime/7.4.0
+Connection: keep-alive
+Constants: HotelProperName-
+Postman-Token: a3840890-3fd9-43f9-9800-5aee3fc4261d
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Subjects: hotel
+*************************************
+*************************************
+Datetime: 2019-01-15T15:57:47.236169
+Accept: */*
+User-Agent: PostmanRuntime/7.4.0
+Referer: http://localhost:9000/query
+Connection: keep-alive
+Constants: HotelProperName-
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 20
+Cache-Control: no-cache
+TripleStore: StartSet
+Postman-Token: a3840890-3fd9-43f9-9800-5aee3fc4261d
+Subjects: hotel
+*************************************
+*************************************
+Datetime: 2019-01-15T15:58:12.440
+Integration: City-State
+Accept: */*
+User-Agent: PostmanRuntime/7.4.0
+Connection: keep-alive
+Constants: HotelProperName-
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 20
+Cache-Control: no-cache
+TripleStore: StartSet
+Postman-Token: a92fafaa-f351-481f-a937-dbce364b5b50
+Subjects: hotel
+*************************************
+*************************************
+Datetime: 2019-01-15T15:58:12.488290
+Integration: City-State
+Accept: */*
+User-Agent: PostmanRuntime/7.4.0
+Referer: http://localhost:9000/query
+Connection: keep-alive
+Constants: HotelProperName-
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 20
+Cache-Control: no-cache
+TripleStore: StartSet
+Postman-Token: a92fafaa-f351-481f-a937-dbce364b5b50
+Subjects: hotel
+*************************************
+*************************************
+Datetime: 2019-01-15T16:02:14.787153
+Integration: City-State
+Accept: */*
+User-Agent: PostmanRuntime/7.4.0
+Connection: keep-alive
+Constants: HotelProperName-
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 20
+Cache-Control: no-cache
+TripleStore: StartSet
+Postman-Token: d6f71574-f4bf-4e6b-a0f6-c0b4c8367d92
+Subjects: hotel
+*************************************
+*************************************
+Datetime: 2019-01-15T16:02:15.162350
+Integration: City-State
+Accept: */*
+User-Agent: PostmanRuntime/7.4.0
+Referer: http://localhost:9000/query
+Connection: keep-alive
+Constants: HotelProperName-
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 20
+Cache-Control: no-cache
+TripleStore: StartSet
+Postman-Token: d6f71574-f4bf-4e6b-a0f6-c0b4c8367d92
+Subjects: hotel
+*************************************
+*************************************
+Datetime: 2019-01-15T16:02:56.058922
+Integration: CityProperName-StateProperName
+Accept: */*
+User-Agent: PostmanRuntime/7.4.0
+Connection: keep-alive
+Constants: HotelProperName-
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 20
+Cache-Control: no-cache
+TripleStore: StartSet
+Postman-Token: 81c6d806-9082-40a2-8e2e-c428b9459bd8
+Subjects: hotel
+*************************************
+*************************************
+Datetime: 2019-01-15T16:02:56.071866
+Integration: CityProperName-StateProperName
+Accept: */*
+User-Agent: PostmanRuntime/7.4.0
+Referer: http://localhost:9000/query
+Connection: keep-alive
+Constants: HotelProperName-
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 20
+Cache-Control: no-cache
+TripleStore: StartSet
+Postman-Token: 81c6d806-9082-40a2-8e2e-c428b9459bd8
+Subjects: hotel
+*************************************
+*************************************
+Datetime: 2019-01-15T16:03:16.508169
+Integration: CityProperName-StateProperName
+Accept: */*
+User-Agent: PostmanRuntime/7.4.0
+Connection: keep-alive
+Constants: HotelProperName-:AirportProperName
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 20
+Cache-Control: no-cache
+TripleStore: StartSet
+Postman-Token: ee617261-a45d-457a-b9cc-f3f1292921f0
+Subjects: hotel-airport
+*************************************
+*************************************
+Datetime: 2019-01-15T16:03:16.518997
+Integration: CityProperName-StateProperName
+Accept: */*
+User-Agent: PostmanRuntime/7.4.0
+Referer: http://localhost:9000/query
+Connection: keep-alive
+Constants: HotelProperName-:AirportProperName
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 20
+Cache-Control: no-cache
+TripleStore: StartSet
+Postman-Token: ee617261-a45d-457a-b9cc-f3f1292921f0
+Subjects: hotel-airport
+*************************************
+*************************************
+Datetime: 2019-01-15T16:04:28.097093
+Integration: CityProperName-StateProperName
+Accept: */*
+User-Agent: PostmanRuntime/7.4.0
+Connection: keep-alive
+Constants: HotelProperName-:AirportProperName-
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 20
+Cache-Control: no-cache
+TripleStore: StartSet
+Postman-Token: 72d651b2-b0e2-4d5e-b73b-f4c1c6bf1499
+Subjects: hotel-airport
+*************************************
+*************************************
+Datetime: 2019-01-15T16:04:28.105833
+Integration: CityProperName-StateProperName
+Accept: */*
+User-Agent: PostmanRuntime/7.4.0
+Referer: http://localhost:9000/query
+Connection: keep-alive
+Constants: HotelProperName-:AirportProperName-
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 20
+Cache-Control: no-cache
+TripleStore: StartSet
+Postman-Token: 72d651b2-b0e2-4d5e-b73b-f4c1c6bf1499
+Subjects: hotel-airport
+*************************************
+*************************************
+Datetime: 2019-01-15T16:05:28.909641
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.4.0
+Connection: keep-alive
+Postman-Token: 008f9909-d5d3-4e38-8aba-684488baf26b
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Subjects: hotel-airport
+*************************************
+*************************************
+Datetime: 2019-01-15T16:05:28.913765
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+Cache-Control: no-cache
+Accept: */*
+User-Agent: PostmanRuntime/7.4.0
+Referer: http://localhost:9000/attributes
+Connection: keep-alive
+Postman-Token: 008f9909-d5d3-4e38-8aba-684488baf26b
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Subjects: hotel-airport
+*************************************
+*************************************
+Datetime: 2019-01-15T16:06:31.294774
+Integration: CityProperName-StateAbbreviatedName
+Accept: */*
+User-Agent: PostmanRuntime/7.4.0
+Connection: keep-alive
+Constants: HotelProperName-:AirportProperName-
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 20
+Cache-Control: no-cache
+TripleStore: StartSet
+Postman-Token: 932228c3-75b2-4780-ac63-9df7d8b57e0b
+Subjects: hotel-airport
+*************************************
+*************************************
+Datetime: 2019-01-15T16:06:31.304561
+Integration: CityProperName-StateAbbreviatedName
+Accept: */*
+User-Agent: PostmanRuntime/7.4.0
+Referer: http://localhost:9000/query
+Connection: keep-alive
+Constants: HotelProperName-:AirportProperName-
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 20
+Cache-Control: no-cache
+TripleStore: StartSet
+Postman-Token: 932228c3-75b2-4780-ac63-9df7d8b57e0b
+Subjects: hotel-airport
+*************************************
+*************************************
+Datetime: 2019-01-15T16:18:02.310361
+Integration: CityProperName-StateAbbreviatedName
+Accept: */*
+User-Agent: PostmanRuntime/7.4.0
+Connection: keep-alive
+Constants: HotelProperName-:AirportProperName-:HotelCityProperName-PHILADELPHIA
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 20
+Cache-Control: no-cache
+TripleStore: StartSet
+Postman-Token: e9e924af-ed2e-428b-884f-27eea91cdcb9
+Subjects: hotel-airport
+*************************************
+*************************************
+Datetime: 2019-01-15T16:18:04.579475
+Integration: CityProperName-StateAbbreviatedName
+Accept: */*
+User-Agent: PostmanRuntime/7.4.0
+Referer: http://localhost:9000/query
+Connection: keep-alive
+Constants: HotelProperName-:AirportProperName-:HotelCityProperName-PHILADELPHIA
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 20
+Cache-Control: no-cache
+TripleStore: StartSet
+Postman-Token: e9e924af-ed2e-428b-884f-27eea91cdcb9
+Subjects: hotel-airport
+*************************************
+*************************************
+Datetime: 2019-01-15T16:24:16.569835
+Integration: CityProperName-StateAbbreviatedName
+Accept: */*
+User-Agent: PostmanRuntime/7.4.0
+Connection: keep-alive
+Constants: HotelProperName-:AirportProperName-:HotelCityProperName-PHILADELPHIA
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 20
+Cache-Control: no-cache
+TripleStore: StartSet
+Postman-Token: 1b3ab2df-49b6-47f7-b73d-8f81143b1e3c
+Subjects: hotel-airport
+*************************************
+*************************************
+Datetime: 2019-01-15T16:24:16.911805
+Integration: CityProperName-StateAbbreviatedName
+Accept: */*
+User-Agent: PostmanRuntime/7.4.0
+Referer: http://localhost:9000/query
+Connection: keep-alive
+Constants: HotelProperName-:AirportProperName-:HotelCityProperName-PHILADELPHIA
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 20
+Cache-Control: no-cache
+TripleStore: StartSet
+Postman-Token: 1b3ab2df-49b6-47f7-b73d-8f81143b1e3c
+Subjects: hotel-airport
+*************************************
+*************************************
+Datetime: 2019-01-15T16:30:50.305429
+Integration: CityProperName-StateAbbreviatedName
+Accept: */*
+User-Agent: PostmanRuntime/7.4.0
+Connection: keep-alive
+Constants: HotelProperName-:AirportProperName-:HotelCityProperName-PHILADELPHIA
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 20
+Cache-Control: no-cache
+TripleStore: StartSet
+Postman-Token: 4b17ffa3-6a41-4e44-97b1-22a6e7e39f3e
+Subjects: hotel-airport
+*************************************
+*************************************
+Datetime: 2019-01-15T16:30:50.986707
+Integration: CityProperName-StateAbbreviatedName
+Accept: */*
+User-Agent: PostmanRuntime/7.4.0
+Referer: http://localhost:9000/query
+Connection: keep-alive
+Constants: HotelProperName-:AirportProperName-:HotelCityProperName-PHILADELPHIA
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 20
+Cache-Control: no-cache
+TripleStore: StartSet
+Postman-Token: 4b17ffa3-6a41-4e44-97b1-22a6e7e39f3e
+Subjects: hotel-airport
+*************************************
+*************************************
+Datetime: 2019-01-15T16:31:59.265028
+Integration: StateAbbreviatedName
+Accept: */*
+User-Agent: PostmanRuntime/7.4.0
+Connection: keep-alive
+Constants: HotelProperName-:AirportProperName-:HotelCityProperName-
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 20
+Cache-Control: no-cache
+TripleStore: StartSet
+Postman-Token: 920e0d2b-bdbe-4379-8927-11ba3acd221c
+Subjects: hotel-airport
+*************************************
+*************************************
+Datetime: 2019-01-15T16:31:59.351427
+Integration: StateAbbreviatedName
+Accept: */*
+User-Agent: PostmanRuntime/7.4.0
+Referer: http://localhost:9000/query
+Connection: keep-alive
+Constants: HotelProperName-:AirportProperName-:HotelCityProperName-
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 20
+Cache-Control: no-cache
+TripleStore: StartSet
+Postman-Token: 920e0d2b-bdbe-4379-8927-11ba3acd221c
+Subjects: hotel-airport
+*************************************
+*************************************
+Datetime: 2019-01-15T16:32:46.993061
+Integration: StateAbbreviatedName
+Accept: */*
+User-Agent: PostmanRuntime/7.4.0
+Connection: keep-alive
+Constants: HotelProperName-:AirportProperName-:HotelCityProperName-HotelStateAbbreviatedName
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 20
+Cache-Control: no-cache
+TripleStore: StartSet
+Postman-Token: 511732e1-a6b0-4387-b4df-3393d209fe68
+Subjects: hotel-airport
+*************************************
+*************************************
+Datetime: 2019-01-15T16:32:47.001962
+Integration: StateAbbreviatedName
+Accept: */*
+User-Agent: PostmanRuntime/7.4.0
+Referer: http://localhost:9000/query
+Connection: keep-alive
+Constants: HotelProperName-:AirportProperName-:HotelCityProperName-HotelStateAbbreviatedName
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 20
+Cache-Control: no-cache
+TripleStore: StartSet
+Postman-Token: 511732e1-a6b0-4387-b4df-3393d209fe68
+Subjects: hotel-airport
+*************************************
+*************************************
+Datetime: 2019-01-15T16:33:41.660186
+Integration: StateAbbreviatedName
+Accept: */*
+User-Agent: PostmanRuntime/7.4.0
+Connection: keep-alive
+Constants: HotelProperName-:AirportProperName-:HotelCityProperName-CityStateAbbreviatedName
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 20
+Cache-Control: no-cache
+TripleStore: StartSet
+Postman-Token: e538f987-90a3-4dd4-a5a0-899b2097eb03
+Subjects: hotel-airport
+*************************************
+*************************************
+Datetime: 2019-01-15T16:33:41.665476
+Integration: StateAbbreviatedName
+Accept: */*
+User-Agent: PostmanRuntime/7.4.0
+Referer: http://localhost:9000/query
+Connection: keep-alive
+Constants: HotelProperName-:AirportProperName-:HotelCityProperName-CityStateAbbreviatedName
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 20
+Cache-Control: no-cache
+TripleStore: StartSet
+Postman-Token: e538f987-90a3-4dd4-a5a0-899b2097eb03
+Subjects: hotel-airport
+*************************************
+*************************************
+Datetime: 2019-01-15T16:34:51.487308
+Integration: StateAbbreviatedName
+Accept: */*
+User-Agent: PostmanRuntime/7.4.0
+Connection: keep-alive
+Constants: HotelProperName-:AirportProperName-:HotelCityProperName-:CityStateAbbreviatedName-
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 20
+Cache-Control: no-cache
+TripleStore: StartSet
+Postman-Token: 33db9375-3ba4-4258-af78-4a3680fc63dd
+Subjects: hotel-airport
+*************************************
+*************************************
+Datetime: 2019-01-15T16:34:51.541312
+Integration: StateAbbreviatedName
+Accept: */*
+User-Agent: PostmanRuntime/7.4.0
+Referer: http://localhost:9000/query
+Connection: keep-alive
+Constants: HotelProperName-:AirportProperName-:HotelCityProperName-:CityStateAbbreviatedName-
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 20
+Cache-Control: no-cache
+TripleStore: StartSet
+Postman-Token: 33db9375-3ba4-4258-af78-4a3680fc63dd
+Subjects: hotel-airport
+*************************************
+*************************************
+Datetime: 2019-01-15T16:35:51.775443
+Integration: StateAbbreviatedName
+Accept: */*
+User-Agent: PostmanRuntime/7.4.0
+Connection: keep-alive
+Constants: HotelProperName-:AirportProperName-:HotelCityProperName-:CityStateAbbreviatedName-PA
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 20
+Cache-Control: no-cache
+TripleStore: StartSet
+Postman-Token: dd887484-937e-4fdd-9f4f-5ea9aca681be
+Subjects: hotel-airport
+*************************************
+*************************************
+Datetime: 2019-01-15T16:35:52.040389
+Integration: StateAbbreviatedName
+Accept: */*
+User-Agent: PostmanRuntime/7.4.0
+Referer: http://localhost:9000/query
+Connection: keep-alive
+Constants: HotelProperName-:AirportProperName-:HotelCityProperName-:CityStateAbbreviatedName-PA
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 20
+Cache-Control: no-cache
+TripleStore: StartSet
+Postman-Token: dd887484-937e-4fdd-9f4f-5ea9aca681be
+Subjects: hotel-airport
+*************************************

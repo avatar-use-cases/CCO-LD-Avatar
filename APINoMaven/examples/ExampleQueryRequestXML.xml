@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Data>
+    <RootNode>Person</RootNode>
+    <rdf:RDF 
+    	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+        xmlns:ns0="http://www.ontologyrepository.com/CommonCoreOntologies/" 
+        xmlns:ns1="http://purl.obolibrary.org/obo/">
+        <ns0:Person rdf:about="http://njh.me/#Person1">
+            <ns0:agent_in>
+                <ns0:ActOfResiding rdf:about="http://njh.me/#Person1/ActOfResiding1">
+                    <ns0:has_object>
+                        <ns0:ResidentialFacility rdf:about="http://njh.me/#Person1/ActOfResiding1/ResidentialFacility1">
+                            <ns1:RO_0001025>
+                                <ns0:GeospatialRegion rdf:about="http://njh.me/#Person1/ActOfResiding1/ResidentialFacility1/GeospatialRegion1">
+                                    <ns0:designated_by>
+                                        <ns0:GeospatialRegionIdentifier rdf:about="http://njh.me/#Person1/ActOfResiding1/ResidentialFacility1/GeospatialRegion1/GeospatialRegionIdentifier1">
+                                            <ns1:RO_0010001>
+                                                <ns0:InformationBearingEntity rdf:about="http://njh.me/#Person1/ActOfResiding1/ResidentialFacility1/GeospatialRegion1/GeospatialRegionIdentifier1/InformationBearingEntity8">
+                                                    <ns0:has_latitude_value>37.2167</ns0:has_latitude_value>
+                                                    <ns0:has_longitude_value>-93.292</ns0:has_longitude_value>
+                                                </ns0:InformationBearingEntity>
+                                            </ns1:RO_0010001>
+                                        </ns0:GeospatialRegionIdentifier>
+                                    </ns0:designated_by>
+                                </ns0:GeospatialRegion>
+                            </ns1:RO_0001025>
+                            <ns1:RO_0001025>
+                                <ns0:LocalAdministrativeRegion rdf:about="http://njh.me/#Person1/ActOfResiding1/ResidentialFacility1/LocalAdministrativeRegion1">
+                                    <ns1:BFO_0000050>
+                                        <ns0:County rdf:about="http://njh.me/#Person1/ActOfResiding1/ResidentialFacility1/LocalAdministrativeRegion1/County1">
+                                            <ns1:BFO_0000050>
+                                                <ns0:State rdf:about="http://njh.me/#Person1/ActOfResiding1/ResidentialFacility1/LocalAdministrativeRegion1/County1/State1">
+                                                    <ns0:designated_by>
+                                                        <ns0:DesignativeName rdf:about="http://njh.me/#Person1/ActOfResiding1/ResidentialFacility1/LocalAdministrativeRegion1/County1/State1/DesignativeName2">
+                                                            <ns1:RO_0010001>
+                                                                <ns0:InformationBearingEntity rdf:about="http://njh.me/#Person1/ActOfResiding1/ResidentialFacility1/LocalAdministrativeRegion1/County1/State1/DesignativeName2/InformationBearingEntity5">
+                                                                    <ns0:has_text_value>MO</ns0:has_text_value>
+                                                                </ns0:InformationBearingEntity>
+                                                            </ns1:RO_0010001>
+                                                        </ns0:DesignativeName>
+                                                    </ns0:designated_by>
+                                                </ns0:State>
+                                            </ns1:BFO_0000050>
+                                            <ns0:designated_by>
+                                                <ns0:DesignativeName rdf:about="http://njh.me/#Person1/ActOfResiding1/ResidentialFacility1/LocalAdministrativeRegion1/County1/DesignativeName3">
+                                                    <ns1:RO_0010001>
+                                                        <ns0:InformationBearingEntity rdf:about="http://njh.me/#Person1/ActOfResiding1/ResidentialFacility1/LocalAdministrativeRegion1/County1/DesignativeName3/InformationBearingEntity6">
+                                                            <ns0:has_text_value>GREENE</ns0:has_text_value>
+                                                        </ns0:InformationBearingEntity>
+                                                    </ns1:RO_0010001>
+                                                </ns0:DesignativeName>
+                                            </ns0:designated_by>
+                                        </ns0:County>
+                                    </ns1:BFO_0000050>
+                                    <ns0:designated_by rdf:resource="http://njh.me/#Person1/ActOfResiding1/ResidentialFacility1/LocalAdministrativeRegion1/DesignativeName1"/>
+                                </ns0:LocalAdministrativeRegion>
+                            </ns1:RO_0001025>
+                            <ns1:RO_0001025>
+                                <ns0:PostalZone rdf:about="http://njh.me/#Person1/ActOfResiding1/ResidentialFacility1/PostalZone1">
+                                    <ns0:designated_by>
+                                        <ns0:PostalCode rdf:about="http://njh.me/#Person1/ActOfResiding1/ResidentialFacility1/PostalZone1/PostalCode1">
+                                            <ns1:RO_0010001>
+                                                <ns0:InformationBearingEntity rdf:about="http://njh.me/#Person1/ActOfResiding1/ResidentialFacility1/PostalZone1/PostalCode1/InformationBearingEntity7">
+                                                    <ns0:has_integer_value>65803</ns0:has_integer_value>
+                                                </ns0:InformationBearingEntity>
+                                            </ns1:RO_0010001>
+                                        </ns0:PostalCode>
+                                    </ns0:designated_by>
+                                </ns0:PostalZone>
+                            </ns1:RO_0001025>
+                            <ns0:designated_by>
+                                <ns0:StreetAddress rdf:about="http://njh.me/#Person1/ActOfResiding1/ResidentialFacility1/StreetAddress1">
+                                    <ns1:RO_0010001>
+                                        <ns0:InformationBearingEntity rdf:about="http://njh.me/#Person1/ActOfResiding1/ResidentialFacility1/StreetAddress1/InformationBearingEntity3">
+                                            <ns0:has_text_value>1234 NORTH FOREST ST, SPRINGFIELD, MO, 65803</ns0:has_text_value>
+                                        </ns0:InformationBearingEntity>
+                                    </ns1:RO_0010001>
+                                </ns0:StreetAddress>
+                            </ns0:designated_by>
+                        </ns0:ResidentialFacility>
+                    </ns0:has_object>
+                </ns0:ActOfResiding>
+            </ns0:agent_in>
+            <ns0:designated_by>
+                <ns0:ProperName rdf:about="http://njh.me/#Person1/ProperName1">
+                    <ns1:BFO_0000051>
+                        <ns0:FamilyName rdf:about="http://njh.me/#Person1/ProperName1/FamilyName1">
+                            <ns1:RO_0010001>
+                                <ns0:InformationBearingEntity rdf:about="http://njh.me/#Person1/ProperName1/FamilyName1/InformationBearingEntity2">
+                                    <ns0:has_text_value>DOE</ns0:has_text_value>
+                                </ns0:InformationBearingEntity>
+                            </ns1:RO_0010001>
+                        </ns0:FamilyName>
+                    </ns1:BFO_0000051>
+                    <ns1:BFO_0000051>
+                        <ns0:GivenName rdf:about="http://njh.me/#Person1/ProperName1/GivenName1">
+                            <ns1:RO_0010001>
+                                <ns0:InformationBearingEntity rdf:about="http://njh.me/#Person1/ProperName1/GivenName1/InformationBearingEntity1">
+                                    <ns0:has_text_value>JOHN</ns0:has_text_value>
+                                </ns0:InformationBearingEntity>
+                            </ns1:RO_0010001>
+                        </ns0:GivenName>
+                    </ns1:BFO_0000051>
+                </ns0:ProperName>
+            </ns0:designated_by>
+        </ns0:Person>
+        <ns0:DesignativeName rdf:about="http://njh.me/#Person1/ActOfResiding1/ResidentialFacility1/LocalAdministrativeRegion1/County1/DesignativeName1">
+            <ns1:RO_0010001>
+                <ns0:InformationBearingEntity rdf:about="http://njh.me/#Person1/ActOfResiding1/ResidentialFacility1/LocalAdministrativeRegion1/County1/DesignativeName1/InformationBearingEntity4">
+                    <ns0:has_text_value>SPRINGFIELD</ns0:has_text_value>
+                </ns0:InformationBearingEntity>
+            </ns1:RO_0010001>
+        </ns0:DesignativeName>
+    </rdf:RDF>
+</Data>

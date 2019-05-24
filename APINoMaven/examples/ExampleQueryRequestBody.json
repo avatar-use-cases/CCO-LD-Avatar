@@ -1,0 +1,366 @@
+{
+    "data": [
+        {
+            "rootNode": "Person",
+            "rdf": [
+                {
+                    "@id": "http://www.ontologyrepository.com/CommonCoreOntologies/ActOfResiding"
+                },
+                {
+                    "@id": "http://www.ontologyrepository.com/CommonCoreOntologies/County"
+                },
+                {
+                    "@id": "http://www.ontologyrepository.com/CommonCoreOntologies/DesignativeName"
+                },
+                {
+                    "@id": "http://www.ontologyrepository.com/CommonCoreOntologies/FamilyName"
+                },
+                {
+                    "@id": "http://www.ontologyrepository.com/CommonCoreOntologies/GeospatialRegion"
+                },
+                {
+                    "@id": "http://www.ontologyrepository.com/CommonCoreOntologies/GeospatialRegionIdentifier"
+                },
+                {
+                    "@id": "http://www.ontologyrepository.com/CommonCoreOntologies/GivenName"
+                },
+                {
+                    "@id": "http://www.ontologyrepository.com/CommonCoreOntologies/InformationBearingEntity"
+                },
+                {
+                    "@id": "http://www.ontologyrepository.com/CommonCoreOntologies/LocalAdministrativeRegion"
+                },
+                {
+                    "@id": "http://www.ontologyrepository.com/CommonCoreOntologies/Person"
+                },
+                {
+                    "@id": "http://www.ontologyrepository.com/CommonCoreOntologies/PostalCode"
+                },
+                {
+                    "@id": "http://www.ontologyrepository.com/CommonCoreOntologies/PostalZone"
+                },
+                {
+                    "@id": "http://www.ontologyrepository.com/CommonCoreOntologies/ProperName"
+                },
+                {
+                    "@id": "http://www.ontologyrepository.com/CommonCoreOntologies/ResidentialFacility"
+                },
+                {
+                    "@id": "http://www.ontologyrepository.com/CommonCoreOntologies/State"
+                },
+                {
+                    "@id": "http://www.ontologyrepository.com/CommonCoreOntologies/StreetAddress"
+                },
+                {
+                    "@id": "https://johndoe.solid.community/profile/Person1",
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/designated_by": [
+                        {
+                            "@id": "https://johndoe.solid.community/profile/Person1/ProperName1"
+                        }
+                    ],
+                    "@type": [
+                        "http://www.ontologyrepository.com/CommonCoreOntologies/Person"
+                    ],
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/agent_in": [
+                        {
+                            "@id": "https://johndoe.solid.community/profile/Person1/ActOfResiding1"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://johndoe.solid.community/profile/Person1/ActOfResiding1",
+                    "@type": [
+                        "http://www.ontologyrepository.com/CommonCoreOntologies/ActOfResiding"
+                    ],
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/has_object": [
+                        {
+                            "@id": "https://johndoe.solid.community/profile/Person1/ActOfResiding1/ResidentialFacility1"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://johndoe.solid.community/profile/Person1/ActOfResiding1/ResidentialFacility1",
+                    "http://purl.obolibrary.org/obo/RO_0001025": [
+                        {
+                            "@id": "https://johndoe.solid.community/profile/Person1/ActOfResiding1/ResidentialFacility1/PostalZone1"
+                        },
+                        {
+                            "@id": "https://johndoe.solid.community/profile/Person1/ActOfResiding1/ResidentialFacility1/GeospatialRegion1"
+                        },
+                        {
+                            "@id": "https://johndoe.solid.community/profile/Person1/ActOfResiding1/ResidentialFacility1/LocalAdministrativeRegion1"
+                        }
+                    ],
+                    "@type": [
+                        "http://www.ontologyrepository.com/CommonCoreOntologies/ResidentialFacility"
+                    ],
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/designated_by": [
+                        {
+                            "@id": "https://johndoe.solid.community/profile/Person1/ActOfResiding1/ResidentialFacility1/StreetAddress1"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://johndoe.solid.community/profile/Person1/ActOfResiding1/ResidentialFacility1/GeospatialRegion1",
+                    "@type": [
+                        "http://www.ontologyrepository.com/CommonCoreOntologies/GeospatialRegion"
+                    ],
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/designated_by": [
+                        {
+                            "@id": "https://johndoe.solid.community/profile/Person1/ActOfResiding1/ResidentialFacility1/GeospatialRegion1/GeospatialRegionIdentifier1"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://johndoe.solid.community/profile/Person1/ActOfResiding1/ResidentialFacility1/GeospatialRegion1/GeospatialRegionIdentifier1",
+                    "@type": [
+                        "http://www.ontologyrepository.com/CommonCoreOntologies/GeospatialRegionIdentifier"
+                    ],
+                    "http://purl.obolibrary.org/obo/RO_0010001": [
+                        {
+                            "@id": "https://johndoe.solid.community/profile/Person1/ActOfResiding1/ResidentialFacility1/GeospatialRegion1/GeospatialRegionIdentifier1/InformationBearingEntity8"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://johndoe.solid.community/profile/Person1/ActOfResiding1/ResidentialFacility1/GeospatialRegion1/GeospatialRegionIdentifier1/InformationBearingEntity8",
+                    "@type": [
+                        "http://www.ontologyrepository.com/CommonCoreOntologies/InformationBearingEntity"
+                    ],
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/has_latitude_value": [
+                        {
+                            "@value": "37.2167"
+                        }
+                    ],
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/has_longitude_value": [
+                        {
+                            "@value": "-93.292"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://johndoe.solid.community/profile/Person1/ActOfResiding1/ResidentialFacility1/LocalAdministrativeRegion1",
+                    "@type": [
+                        "http://www.ontologyrepository.com/CommonCoreOntologies/LocalAdministrativeRegion"
+                    ],
+                    "http://purl.obolibrary.org/obo/BFO_0000050": [
+                        {
+                            "@id": "https://johndoe.solid.community/profile/Person1/ActOfResiding1/ResidentialFacility1/LocalAdministrativeRegion1/County1"
+                        }
+                    ],
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/designated_by": [
+                        {
+                            "@id": "https://johndoe.solid.community/profile/Person1/ActOfResiding1/ResidentialFacility1/LocalAdministrativeRegion1/DesignativeName1"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://johndoe.solid.community/profile/Person1/ActOfResiding1/ResidentialFacility1/LocalAdministrativeRegion1/County1",
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/designated_by": [
+                        {
+                            "@id": "https://johndoe.solid.community/profile/Person1/ActOfResiding1/ResidentialFacility1/LocalAdministrativeRegion1/County1/DesignativeName3"
+                        }
+                    ],
+                    "http://purl.obolibrary.org/obo/BFO_0000050": [
+                        {
+                            "@id": "https://johndoe.solid.community/profile/Person1/ActOfResiding1/ResidentialFacility1/LocalAdministrativeRegion1/County1/State1"
+                        }
+                    ],
+                    "@type": [
+                        "http://www.ontologyrepository.com/CommonCoreOntologies/County"
+                    ]
+                },
+                {
+                    "@id": "https://johndoe.solid.community/profile/Person1/ActOfResiding1/ResidentialFacility1/LocalAdministrativeRegion1/County1/DesignativeName3",
+                    "@type": [
+                        "http://www.ontologyrepository.com/CommonCoreOntologies/DesignativeName"
+                    ],
+                    "http://purl.obolibrary.org/obo/RO_0010001": [
+                        {
+                            "@id": "https://johndoe.solid.community/profile/Person1/ActOfResiding1/ResidentialFacility1/LocalAdministrativeRegion1/County1/DesignativeName3/InformationBearingEntity6"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://johndoe.solid.community/profile/Person1/ActOfResiding1/ResidentialFacility1/LocalAdministrativeRegion1/County1/DesignativeName3/InformationBearingEntity6",
+                    "@type": [
+                        "http://www.ontologyrepository.com/CommonCoreOntologies/InformationBearingEntity"
+                    ],
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/has_text_value": [
+                        {
+                            "@value": "GREENE"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://johndoe.solid.community/profile/Person1/ActOfResiding1/ResidentialFacility1/LocalAdministrativeRegion1/County1/State1",
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/designated_by": [
+                        {
+                            "@id": "https://johndoe.solid.community/profile/Person1/ActOfResiding1/ResidentialFacility1/LocalAdministrativeRegion1/County1/State1/DesignativeName2"
+                        }
+                    ],
+                    "@type": [
+                        "http://www.ontologyrepository.com/CommonCoreOntologies/State"
+                    ]
+                },
+                {
+                    "@id": "https://johndoe.solid.community/profile/Person1/ActOfResiding1/ResidentialFacility1/LocalAdministrativeRegion1/County1/State1/DesignativeName2",
+                    "@type": [
+                        "http://www.ontologyrepository.com/CommonCoreOntologies/DesignativeName"
+                    ],
+                    "http://purl.obolibrary.org/obo/RO_0010001": [
+                        {
+                            "@id": "https://johndoe.solid.community/profile/Person1/ActOfResiding1/ResidentialFacility1/LocalAdministrativeRegion1/County1/State1/DesignativeName2/InformationBearingEntity5"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://johndoe.solid.community/profile/Person1/ActOfResiding1/ResidentialFacility1/LocalAdministrativeRegion1/County1/State1/DesignativeName2/InformationBearingEntity5",
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/has_text_value": [
+                        {
+                            "@value": "MO"
+                        }
+                    ],
+                    "@type": [
+                        "http://www.ontologyrepository.com/CommonCoreOntologies/InformationBearingEntity"
+                    ]
+                },
+                {
+                    "@id": "https://johndoe.solid.community/profile/Person1/ActOfResiding1/ResidentialFacility1/LocalAdministrativeRegion1/DesignativeName1",
+                    "http://purl.obolibrary.org/obo/RO_0010001": [
+                        {
+                            "@id": "https://johndoe.solid.community/profile/Person1/ActOfResiding1/ResidentialFacility1/LocalAdministrativeRegion1/DesignativeName1/InformationBearingEntity4"
+                        }
+                    ],
+                    "@type": [
+                        "http://www.ontologyrepository.com/CommonCoreOntologies/DesignativeName"
+                    ]
+                },
+                {
+                    "@id": "https://johndoe.solid.community/profile/Person1/ActOfResiding1/ResidentialFacility1/LocalAdministrativeRegion1/DesignativeName1/InformationBearingEntity4",
+                    "@type": [
+                        "http://www.ontologyrepository.com/CommonCoreOntologies/InformationBearingEntity"
+                    ],
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/has_text_value": [
+                        {
+                            "@value": "SPRINGFIELD"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://johndoe.solid.community/profile/Person1/ActOfResiding1/ResidentialFacility1/PostalZone1",
+                    "@type": [
+                        "http://www.ontologyrepository.com/CommonCoreOntologies/PostalZone"
+                    ],
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/designated_by": [
+                        {
+                            "@id": "https://johndoe.solid.community/profile/Person1/ActOfResiding1/ResidentialFacility1/PostalZone1/PostalCode1"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://johndoe.solid.community/profile/Person1/ActOfResiding1/ResidentialFacility1/PostalZone1/PostalCode1",
+                    "@type": [
+                        "http://www.ontologyrepository.com/CommonCoreOntologies/PostalCode"
+                    ],
+                    "http://purl.obolibrary.org/obo/RO_0010001": [
+                        {
+                            "@id": "https://johndoe.solid.community/profile/Person1/ActOfResiding1/ResidentialFacility1/PostalZone1/PostalCode1/InformationBearingEntity7"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://johndoe.solid.community/profile/Person1/ActOfResiding1/ResidentialFacility1/PostalZone1/PostalCode1/InformationBearingEntity7",
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/has_integer_value": [
+                        {
+                            "@value": "65803"
+                        }
+                    ],
+                    "@type": [
+                        "http://www.ontologyrepository.com/CommonCoreOntologies/InformationBearingEntity"
+                    ]
+                },
+                {
+                    "@id": "https://johndoe.solid.community/profile/Person1/ActOfResiding1/ResidentialFacility1/StreetAddress1",
+                    "http://purl.obolibrary.org/obo/RO_0010001": [
+                        {
+                            "@id": "https://johndoe.solid.community/profile/Person1/ActOfResiding1/ResidentialFacility1/StreetAddress1/InformationBearingEntity3"
+                        }
+                    ],
+                    "@type": [
+                        "http://www.ontologyrepository.com/CommonCoreOntologies/StreetAddress"
+                    ]
+                },
+                {
+                    "@id": "https://johndoe.solid.community/profile/Person1/ActOfResiding1/ResidentialFacility1/StreetAddress1/InformationBearingEntity3",
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/has_text_value": [
+                        {
+                            "@value": "1234 NORTH FOREST ST, SPRINGFIELD, MO, 65803"
+                        }
+                    ],
+                    "@type": [
+                        "http://www.ontologyrepository.com/CommonCoreOntologies/InformationBearingEntity"
+                    ]
+                },
+                {
+                    "@id": "https://johndoe.solid.community/profile/Person1/ProperName1",
+                    "http://purl.obolibrary.org/obo/BFO_0000051": [
+                        {
+                            "@id": "https://johndoe.solid.community/profile/Person1/ProperName1/FamilyName1"
+                        },
+                        {
+                            "@id": "https://johndoe.solid.community/profile/Person1/ProperName1/GivenName1"
+                        }
+                    ],
+                    "@type": [
+                        "http://www.ontologyrepository.com/CommonCoreOntologies/ProperName"
+                    ]
+                },
+                {
+                    "@id": "https://johndoe.solid.community/profile/Person1/ProperName1/FamilyName1",
+                    "@type": [
+                        "http://www.ontologyrepository.com/CommonCoreOntologies/FamilyName"
+                    ],
+                    "http://purl.obolibrary.org/obo/RO_0010001": [
+                        {
+                            "@id": "https://johndoe.solid.community/profile/Person1/ProperName1/FamilyName1/InformationBearingEntity2"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://johndoe.solid.community/profile/Person1/ProperName1/FamilyName1/InformationBearingEntity2",
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/has_text_value": [
+                        {
+                            "@value": "DOE"
+                        }
+                    ],
+                    "@type": [
+                        "http://www.ontologyrepository.com/CommonCoreOntologies/InformationBearingEntity"
+                    ]
+                },
+                {
+                    "@id": "https://johndoe.solid.community/profile/Person1/ProperName1/GivenName1",
+                    "http://purl.obolibrary.org/obo/RO_0010001": [
+                        {
+                            "@id": "https://johndoe.solid.community/profile/Person1/ProperName1/GivenName1/InformationBearingEntity1"
+                        }
+                    ],
+                    "@type": [
+                        "http://www.ontologyrepository.com/CommonCoreOntologies/GivenName"
+                    ]
+                },
+                {
+                    "@id": "https://johndoe.solid.community/profile/Person1/ProperName1/GivenName1/InformationBearingEntity1",
+                    "@type": [
+                        "http://www.ontologyrepository.com/CommonCoreOntologies/InformationBearingEntity"
+                    ],
+                    "http://www.ontologyrepository.com/CommonCoreOntologies/has_text_value": [
+                        {
+                            "@value": "JOHN"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

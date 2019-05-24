@@ -1,0 +1,8 @@
+!!!WE ARE USING A SELF SIGNED CERT!!!
+
+On any machine that is going to run the client app, the ava-ss.crt cert must be added
+to the JVM's cacerts keystore so that it will trust it.
+
+To add this cert to cacerts...
+
+keytool -import -alias ava-ss-temp -file ava-ss.crt -keystore <pathToJVMKeystore> 

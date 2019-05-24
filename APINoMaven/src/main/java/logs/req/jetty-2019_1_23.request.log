@@ -1,0 +1,556 @@
+*************************************
+Datetime: 2019-01-23T11:06:37.971079
+Integration: StateAbbreviatedName
+Accept: */*
+User-Agent: PostmanRuntime/7.4.0
+Connection: keep-alive
+Constants: HotelProperName-:AirportProperName-:HotelCityProperName-:CityStateAbbreviatedName-PA
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 20
+Cache-Control: no-cache
+TripleStore: StartSet
+Postman-Token: caa2b0cb-aa90-4c3d-95bc-1f558c2178d7
+Subjects: hotel-airport
+*************************************
+*************************************
+Datetime: 2019-01-23T11:06:40.676783
+Integration: StateAbbreviatedName
+Accept: */*
+User-Agent: PostmanRuntime/7.4.0
+Referer: http://localhost:9000/query
+Connection: keep-alive
+Constants: HotelProperName-:AirportProperName-:HotelCityProperName-:CityStateAbbreviatedName-PA
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 20
+Cache-Control: no-cache
+TripleStore: StartSet
+Postman-Token: caa2b0cb-aa90-4c3d-95bc-1f558c2178d7
+Subjects: hotel-airport
+*************************************
+*************************************
+Datetime: 2019-01-23T11:08:39.117178
+Integration: StateAbbreviatedName
+Accept: */*
+User-Agent: PostmanRuntime/7.4.0
+Connection: keep-alive
+Constants: HotelProperName-:AirportProperName-:HotelCityProperName-:CityStateAbbreviatedName-PA
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 20
+Cache-Control: no-cache
+TripleStore: StartSet
+Postman-Token: 7bf0eb21-a0eb-4a68-80ea-589dc5bd92eb
+Subjects: hotel-airport
+*************************************
+*************************************
+Datetime: 2019-01-23T11:08:39.279350
+Integration: StateAbbreviatedName
+Accept: */*
+User-Agent: PostmanRuntime/7.4.0
+Referer: http://localhost:9000/query
+Connection: keep-alive
+Constants: HotelProperName-:AirportProperName-:HotelCityProperName-:CityStateAbbreviatedName-PA
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 20
+Cache-Control: no-cache
+TripleStore: StartSet
+Postman-Token: 7bf0eb21-a0eb-4a68-80ea-589dc5bd92eb
+Subjects: hotel-airport
+*************************************
+*************************************
+Datetime: 2019-01-23T11:13:25.589864
+Integration: StateAbbreviatedName
+Accept: */*
+User-Agent: PostmanRuntime/7.4.0
+Connection: keep-alive
+Constants: HotelProperName-:AirportProperName-:HotelCityProperName-:CityStateAbbreviatedName-PA
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Federate: Hotel:https://dmartin:16*located*FIRE*nine@avatar-demo-1.cubrc.org/fuseki/AVATAR_2018_07_Standard/query
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 20
+Cache-Control: no-cache
+TripleStore: StartSet
+Postman-Token: c77e606c-0d27-45d6-bc13-3ad2223ce01f
+Subjects: hotel-airport
+*************************************
+*************************************
+Datetime: 2019-01-23T11:13:25.598389
+Integration: StateAbbreviatedName
+Accept: */*
+User-Agent: PostmanRuntime/7.4.0
+Referer: http://localhost:9000/query
+Connection: keep-alive
+Constants: HotelProperName-:AirportProperName-:HotelCityProperName-:CityStateAbbreviatedName-PA
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Federate: Hotel:https://dmartin:16*located*FIRE*nine@avatar-demo-1.cubrc.org/fuseki/AVATAR_2018_07_Standard/query
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 20
+Cache-Control: no-cache
+TripleStore: StartSet
+Postman-Token: c77e606c-0d27-45d6-bc13-3ad2223ce01f
+Subjects: hotel-airport
+*************************************
+*************************************
+Datetime: 2019-01-23T11:17:37.763129
+Integration: StateAbbreviatedName
+Accept: */*
+User-Agent: PostmanRuntime/7.4.0
+Connection: keep-alive
+Constants: HotelProperName-:AirportProperName-:HotelCityProperName-:CityStateAbbreviatedName-PA
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Federate: Hotel~~~https://dmartin:16*located*FIRE*nine@avatar-demo-1.cubrc.org/fuseki/AVATAR_2018_07_Standard/query
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 20
+Cache-Control: no-cache
+TripleStore: StartSet
+Postman-Token: 2a299b91-7d58-4c40-b82d-467f07d5ca4a
+Subjects: hotel-airport
+*************************************
+*************************************
+Datetime: 2019-01-23T11:17:37.801542
+Integration: StateAbbreviatedName
+Accept: */*
+User-Agent: PostmanRuntime/7.4.0
+Referer: http://localhost:9000/query
+Connection: keep-alive
+Constants: HotelProperName-:AirportProperName-:HotelCityProperName-:CityStateAbbreviatedName-PA
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Federate: Hotel~~~https://dmartin:16*located*FIRE*nine@avatar-demo-1.cubrc.org/fuseki/AVATAR_2018_07_Standard/query
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 20
+Cache-Control: no-cache
+TripleStore: StartSet
+Postman-Token: 2a299b91-7d58-4c40-b82d-467f07d5ca4a
+Subjects: hotel-airport
+*************************************
+*************************************
+Datetime: 2019-01-23T11:19:09.011168
+Integration: StateAbbreviatedName
+Accept: */*
+User-Agent: PostmanRuntime/7.4.0
+Connection: keep-alive
+Constants: HotelProperName-:AirportProperName-:HotelCityProperName-:CityStateAbbreviatedName-PA
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Federate: Hotel~~~https://dmartin:16*located*FIRE*nine@avatar-demo-1.cubrc.org/fuseki/AVATAR_2018_07_Standard/query
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 20
+Cache-Control: no-cache
+TripleStore: StartSet
+Postman-Token: a11bddde-5d38-4da3-8429-c23bcaecdcc4
+Subjects: hotel-airport
+*************************************
+*************************************
+Datetime: 2019-01-23T11:19:09.041612
+Integration: StateAbbreviatedName
+Accept: */*
+User-Agent: PostmanRuntime/7.4.0
+Referer: http://localhost:9000/query
+Connection: keep-alive
+Constants: HotelProperName-:AirportProperName-:HotelCityProperName-:CityStateAbbreviatedName-PA
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Federate: Hotel~~~https://dmartin:16*located*FIRE*nine@avatar-demo-1.cubrc.org/fuseki/AVATAR_2018_07_Standard/query
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 20
+Cache-Control: no-cache
+TripleStore: StartSet
+Postman-Token: a11bddde-5d38-4da3-8429-c23bcaecdcc4
+Subjects: hotel-airport
+*************************************
+*************************************
+Datetime: 2019-01-23T11:20:09.246055
+Integration: StateAbbreviatedName
+Accept: */*
+User-Agent: PostmanRuntime/7.4.0
+Connection: keep-alive
+Constants: HotelProperName-:AirportProperName-:HotelCityProperName-:CityStateAbbreviatedName-PA
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Federate: Hotel<->https://dmartin:16*located*FIRE*nine@avatar-demo-1.cubrc.org/fuseki/AVATAR_2018_07_Standard/query
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 20
+Cache-Control: no-cache
+TripleStore: StartSet
+Postman-Token: 3de4680f-bece-464d-8db3-5af937e39dc3
+Subjects: hotel-airport
+*************************************
+*************************************
+Datetime: 2019-01-23T11:20:09.251524
+Integration: StateAbbreviatedName
+Accept: */*
+User-Agent: PostmanRuntime/7.4.0
+Referer: http://localhost:9000/query
+Connection: keep-alive
+Constants: HotelProperName-:AirportProperName-:HotelCityProperName-:CityStateAbbreviatedName-PA
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Federate: Hotel<->https://dmartin:16*located*FIRE*nine@avatar-demo-1.cubrc.org/fuseki/AVATAR_2018_07_Standard/query
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 20
+Cache-Control: no-cache
+TripleStore: StartSet
+Postman-Token: 3de4680f-bece-464d-8db3-5af937e39dc3
+Subjects: hotel-airport
+*************************************
+*************************************
+Datetime: 2019-01-23T11:21:06.167054
+Integration: StateAbbreviatedName
+Accept: */*
+User-Agent: PostmanRuntime/7.4.0
+Connection: keep-alive
+Constants: HotelProperName-:AirportProperName-:HotelCityProperName-:CityStateAbbreviatedName-PA
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Federate: Hotel<->https://dmartin:16*located*FIRE*nine@avatar-demo-1.cubrc.org/fuseki/AVATAR_2018_07_Standard/query
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 20
+Cache-Control: no-cache
+TripleStore: StartSet
+Postman-Token: bc117d5b-4b7b-4687-8135-1252d2a066a9
+Subjects: hotel-airport
+*************************************
+*************************************
+Datetime: 2019-01-23T11:21:06.204085
+Integration: StateAbbreviatedName
+Accept: */*
+User-Agent: PostmanRuntime/7.4.0
+Referer: http://localhost:9000/query
+Connection: keep-alive
+Constants: HotelProperName-:AirportProperName-:HotelCityProperName-:CityStateAbbreviatedName-PA
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Federate: Hotel<->https://dmartin:16*located*FIRE*nine@avatar-demo-1.cubrc.org/fuseki/AVATAR_2018_07_Standard/query
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 20
+Cache-Control: no-cache
+TripleStore: StartSet
+Postman-Token: bc117d5b-4b7b-4687-8135-1252d2a066a9
+Subjects: hotel-airport
+*************************************
+*************************************
+Datetime: 2019-01-23T11:22:25.410876
+Integration: StateAbbreviatedName
+Accept: */*
+User-Agent: PostmanRuntime/7.4.0
+Connection: keep-alive
+Constants: HotelProperName-:AirportProperName-:HotelCityProperName-:CityStateAbbreviatedName-PA
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Federate: Hotel<->https://dmartin:16*located*FIRE*nine@avatar-demo-1.cubrc.org/fuseki/AVATAR_2018_07_Standard/query
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 20
+Cache-Control: no-cache
+TripleStore: StartSet
+Postman-Token: f4e4f164-f05f-416c-8e26-665689e57a77
+Subjects: hotel-airport
+*************************************
+*************************************
+Datetime: 2019-01-23T11:22:25.438424
+Integration: StateAbbreviatedName
+Accept: */*
+User-Agent: PostmanRuntime/7.4.0
+Referer: http://localhost:9000/query
+Connection: keep-alive
+Constants: HotelProperName-:AirportProperName-:HotelCityProperName-:CityStateAbbreviatedName-PA
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Federate: Hotel<->https://dmartin:16*located*FIRE*nine@avatar-demo-1.cubrc.org/fuseki/AVATAR_2018_07_Standard/query
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 20
+Cache-Control: no-cache
+TripleStore: StartSet
+Postman-Token: f4e4f164-f05f-416c-8e26-665689e57a77
+Subjects: hotel-airport
+*************************************
+*************************************
+Datetime: 2019-01-23T11:24:16.855428
+Integration: StateAbbreviatedName
+Accept: */*
+User-Agent: PostmanRuntime/7.4.0
+Connection: keep-alive
+Constants: HotelProperName-:AirportProperName-:HotelCityProperName-:CityStateAbbreviatedName-PA
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Federate: Hotel<->https://dmartin:16*located*FIRE*nine@avatar-demo-1.cubrc.org/fuseki/AVATAR_2018_07_Standard/query
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 20
+Cache-Control: no-cache
+TripleStore: StartSet
+Postman-Token: ba7b166e-c43a-4841-b6c9-0d536e3759ba
+Subjects: hotel-airport
+*************************************
+*************************************
+Datetime: 2019-01-23T11:24:16.892019
+Integration: StateAbbreviatedName
+Accept: */*
+User-Agent: PostmanRuntime/7.4.0
+Referer: http://localhost:9000/query
+Connection: keep-alive
+Constants: HotelProperName-:AirportProperName-:HotelCityProperName-:CityStateAbbreviatedName-PA
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Federate: Hotel<->https://dmartin:16*located*FIRE*nine@avatar-demo-1.cubrc.org/fuseki/AVATAR_2018_07_Standard/query
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 20
+Cache-Control: no-cache
+TripleStore: StartSet
+Postman-Token: ba7b166e-c43a-4841-b6c9-0d536e3759ba
+Subjects: hotel-airport
+*************************************
+*************************************
+Datetime: 2019-01-23T11:24:18.018410
+Integration: StateAbbreviatedName
+Accept: */*
+User-Agent: PostmanRuntime/7.4.0
+Connection: keep-alive
+Constants: HotelProperName-:AirportProperName-:HotelCityProperName-:CityStateAbbreviatedName-PA
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Federate: Hotel<->https://dmartin:16*located*FIRE*nine@avatar-demo-1.cubrc.org/fuseki/AVATAR_2018_07_Standard/query
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 20
+Cache-Control: no-cache
+TripleStore: StartSet
+Postman-Token: b2543fab-ffac-40e6-bc9c-d70e3cf59645
+Subjects: hotel-airport
+*************************************
+*************************************
+Datetime: 2019-01-23T11:24:18.021703
+Integration: StateAbbreviatedName
+Accept: */*
+User-Agent: PostmanRuntime/7.4.0
+Referer: http://localhost:9000/query
+Connection: keep-alive
+Constants: HotelProperName-:AirportProperName-:HotelCityProperName-:CityStateAbbreviatedName-PA
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Federate: Hotel<->https://dmartin:16*located*FIRE*nine@avatar-demo-1.cubrc.org/fuseki/AVATAR_2018_07_Standard/query
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 20
+Cache-Control: no-cache
+TripleStore: StartSet
+Postman-Token: b2543fab-ffac-40e6-bc9c-d70e3cf59645
+Subjects: hotel-airport
+*************************************
+*************************************
+Datetime: 2019-01-23T11:24:18.939162
+Integration: StateAbbreviatedName
+Accept: */*
+User-Agent: PostmanRuntime/7.4.0
+Connection: keep-alive
+Constants: HotelProperName-:AirportProperName-:HotelCityProperName-:CityStateAbbreviatedName-PA
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Federate: Hotel<->https://dmartin:16*located*FIRE*nine@avatar-demo-1.cubrc.org/fuseki/AVATAR_2018_07_Standard/query
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 20
+Cache-Control: no-cache
+TripleStore: StartSet
+Postman-Token: dcc1b62e-c9bb-4681-814a-37b1275d5fc2
+Subjects: hotel-airport
+*************************************
+*************************************
+Datetime: 2019-01-23T11:24:18.942731
+Integration: StateAbbreviatedName
+Accept: */*
+User-Agent: PostmanRuntime/7.4.0
+Referer: http://localhost:9000/query
+Connection: keep-alive
+Constants: HotelProperName-:AirportProperName-:HotelCityProperName-:CityStateAbbreviatedName-PA
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Federate: Hotel<->https://dmartin:16*located*FIRE*nine@avatar-demo-1.cubrc.org/fuseki/AVATAR_2018_07_Standard/query
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 20
+Cache-Control: no-cache
+TripleStore: StartSet
+Postman-Token: dcc1b62e-c9bb-4681-814a-37b1275d5fc2
+Subjects: hotel-airport
+*************************************
+*************************************
+Datetime: 2019-01-23T11:25:26.720165
+Integration: StateAbbreviatedName
+Accept: */*
+User-Agent: PostmanRuntime/7.4.0
+Connection: keep-alive
+Constants: HotelProperName-:AirportProperName-:HotelCityProperName-:CityStateAbbreviatedName-PA
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Federate: Hotel<->https://dmartin:16*located*FIRE*nine@avatar-demo-1.cubrc.org/fuseki/AVATAR_2018_07_Standard/query
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 20
+Cache-Control: no-cache
+TripleStore: StartSet
+Postman-Token: 56c67b0a-b513-49cc-bc8c-98e3ec1e11c2
+Subjects: hotel-airport
+*************************************
+*************************************
+Datetime: 2019-01-23T11:25:26.772127
+Integration: StateAbbreviatedName
+Accept: */*
+User-Agent: PostmanRuntime/7.4.0
+Referer: http://localhost:9000/query
+Connection: keep-alive
+Constants: HotelProperName-:AirportProperName-:HotelCityProperName-:CityStateAbbreviatedName-PA
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Federate: Hotel<->https://dmartin:16*located*FIRE*nine@avatar-demo-1.cubrc.org/fuseki/AVATAR_2018_07_Standard/query
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 20
+Cache-Control: no-cache
+TripleStore: StartSet
+Postman-Token: 56c67b0a-b513-49cc-bc8c-98e3ec1e11c2
+Subjects: hotel-airport
+*************************************
+*************************************
+Datetime: 2019-01-23T11:27:00.908901
+Integration: StateAbbreviatedName
+Accept: */*
+User-Agent: PostmanRuntime/7.4.0
+Connection: keep-alive
+Constants: HotelProperName-:AirportProperName-:HotelCityProperName-:CityStateAbbreviatedName-PA
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Federate: Hotel<->https://dmartin:16*located*FIRE*nine@avatar-demo-1.cubrc.org/fuseki/AVATAR_2018_07_Standard/query
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 20
+Cache-Control: no-cache
+TripleStore: StartSet
+Postman-Token: 40fd6fce-4db8-455e-bde0-a8b22762f3af
+Subjects: hotel-airport
+*************************************
+*************************************
+Datetime: 2019-01-23T11:27:00.940520
+Integration: StateAbbreviatedName
+Accept: */*
+User-Agent: PostmanRuntime/7.4.0
+Referer: http://localhost:9000/query
+Connection: keep-alive
+Constants: HotelProperName-:AirportProperName-:HotelCityProperName-:CityStateAbbreviatedName-PA
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Federate: Hotel<->https://dmartin:16*located*FIRE*nine@avatar-demo-1.cubrc.org/fuseki/AVATAR_2018_07_Standard/query
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 20
+Cache-Control: no-cache
+TripleStore: StartSet
+Postman-Token: 40fd6fce-4db8-455e-bde0-a8b22762f3af
+Subjects: hotel-airport
+*************************************
+*************************************
+Datetime: 2019-01-23T11:28:49.874780
+Integration: StateAbbreviatedName
+Accept: */*
+User-Agent: PostmanRuntime/7.4.0
+Connection: keep-alive
+Constants: HotelProperName-:AirportProperName-:HotelCityProperName-:CityStateAbbreviatedName-PA
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Federate: Hotel<->https://dmartin:16*located*FIRE*nine@avatar-demo-1.cubrc.org/fuseki/AVATAR_2018_07_Standard/query
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 20
+Cache-Control: no-cache
+TripleStore: StartSet
+Postman-Token: 2751aabd-4dbf-4430-9b54-8ef70c21be0b
+Subjects: hotel-airport
+*************************************
+*************************************
+Datetime: 2019-01-23T11:28:49.908939
+Integration: StateAbbreviatedName
+Accept: */*
+User-Agent: PostmanRuntime/7.4.0
+Referer: http://localhost:9000/query
+Connection: keep-alive
+Constants: HotelProperName-:AirportProperName-:HotelCityProperName-:CityStateAbbreviatedName-PA
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Federate: Hotel<->https://dmartin:16*located*FIRE*nine@avatar-demo-1.cubrc.org/fuseki/AVATAR_2018_07_Standard/query
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 20
+Cache-Control: no-cache
+TripleStore: StartSet
+Postman-Token: 2751aabd-4dbf-4430-9b54-8ef70c21be0b
+Subjects: hotel-airport
+*************************************
+*************************************
+Datetime: 2019-01-23T11:31:11.169887
+Integration: StateAbbreviatedName
+Accept: */*
+User-Agent: PostmanRuntime/7.4.0
+Connection: keep-alive
+Constants: HotelProperName-:AirportProperName-:HotelCityProperName-:CityStateAbbreviatedName-PA
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Federate: Hotel<->https://dmartin:16*located*FIRE*nine@avatar-demo-1.cubrc.org/fuseki/AVATAR_2018_07_Standard/query
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 20
+Cache-Control: no-cache
+TripleStore: StartSet
+Postman-Token: 6a510082-d091-4ef8-85f1-1b7267c6a65d
+Subjects: hotel-airport
+*************************************
+*************************************
+Datetime: 2019-01-23T11:31:11.870036
+Integration: StateAbbreviatedName
+Accept: */*
+User-Agent: PostmanRuntime/7.4.0
+Referer: http://localhost:9000/query
+Connection: keep-alive
+Constants: HotelProperName-:AirportProperName-:HotelCityProperName-:CityStateAbbreviatedName-PA
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Federate: Hotel<->https://dmartin:16*located*FIRE*nine@avatar-demo-1.cubrc.org/fuseki/AVATAR_2018_07_Standard/query
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 20
+Cache-Control: no-cache
+TripleStore: StartSet
+Postman-Token: 6a510082-d091-4ef8-85f1-1b7267c6a65d
+Subjects: hotel-airport
+*************************************
+*************************************
+Datetime: 2019-01-23T11:33:58.754447
+Integration: StateAbbreviatedName
+Accept: */*
+User-Agent: PostmanRuntime/7.4.0
+Connection: keep-alive
+Constants: HotelProperName-:AirportProperName-:HotelCityProperName-:CityStateAbbreviatedName-PA
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Federate: Hotel<->https://dmartin:16*located*FIRE*nine@avatar-demo-1.cubrc.org/fuseki/AVATAR_2018_07_Standard/query
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 20
+Cache-Control: no-cache
+TripleStore: StartSet
+Postman-Token: 9b5ba620-0745-4a04-b8e2-49a37b3b1287
+Subjects: hotel-airport
+*************************************
+*************************************
+Datetime: 2019-01-23T11:34:04.082243
+Integration: StateAbbreviatedName
+Accept: */*
+User-Agent: PostmanRuntime/7.4.0
+Referer: http://localhost:9000/query
+Connection: keep-alive
+Constants: HotelProperName-:AirportProperName-:HotelCityProperName-:CityStateAbbreviatedName-PA
+Host: localhost:9000
+Accept-Encoding: gzip, deflate
+Federate: Hotel<->https://dmartin:16*located*FIRE*nine@avatar-demo-1.cubrc.org/fuseki/AVATAR_2018_07_Standard/query
+Authorization: Basic ZG1hcnRpbjoxNipsb2NhdGVkKkZJUkUqbmluZQ==
+ResultNum: 20
+Cache-Control: no-cache
+TripleStore: StartSet
+Postman-Token: 9b5ba620-0745-4a04-b8e2-49a37b3b1287
+Subjects: hotel-airport
+*************************************
