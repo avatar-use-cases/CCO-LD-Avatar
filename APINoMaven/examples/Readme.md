@@ -15,4 +15,11 @@ Make a request to the /query endpoint of the api with the body shown in ExampleQ
 
 ```
 
-After the initial query request you can now pass in the generated open query into the 
+After the initial query request you can now use the response to create a more specific query that returns the data you want. In the body of the second request, you want to include a JOSN object with the query, the variables you want to return, how many values you want to return, how you want to order , the constants you want to bind to specific values, and the variables you want to integrtate with each other. The file ExampleParseRequest.json gives an example of what a normal body would look like. If you send a request with the example body to the api's /parse endpoint, you should get a responese that looks like the one below. This query can be ran against a dataset and will return the specified variables with the parameters specified in the body. 
+
+#### Example Response 2
+
+```json
+{"query":"select distinct ?PersonProperNameGivenName ?PersonProperNameFamilyName where { Bind( 'JOHN' as ?PersonProperNameGivenName)Bind( 'DOE' as ?PersonProperNameFamilyName)?Personvar0 <http://www.ontologyrepository.com/CommonCoreOntologies/designated_by> ?Personvar1.?Personvar1 a <http://www.ontologyrepository.com/CommonCoreOntologies/ProperName>.?Personvar1 <http://purl.obolibrary.org/obo/BFO_0000051> ?Personvar2.?Personvar2 a <http://www.ontologyrepository.com/CommonCoreOntologies/GivenName>.?Personvar2 <http://purl.obolibrary.org/obo/RO_0010001> ?Personvar3.?Personvar3 a <http://www.ontologyrepository.com/CommonCoreOntologies/InformationBearingEntity>.?Personvar3 <http://www.ontologyrepository.com/CommonCoreOntologies/has_text_value> ?PersonProperNameGivenName.?Personvar0 a <http://www.ontologyrepository.com/CommonCoreOntologies/Person>.?Personvar0 <http://www.ontologyrepository.com/CommonCoreOntologies/designated_by> ?Personvar1.?Personvar1 a <http://www.ontologyrepository.com/CommonCoreOntologies/ProperName>.?Personvar1 a <http://www.ontologyrepository.com/CommonCoreOntologies/ProperName>.?Personvar1 <http://purl.obolibrary.org/obo/BFO_0000051> ?Personvar5.?Personvar5 a <http://www.ontologyrepository.com/CommonCoreOntologies/FamilyName>.?Personvar5 <http://purl.obolibrary.org/obo/RO_0010001> ?Personvar6.?Personvar6 a <http://www.ontologyrepository.com/CommonCoreOntologies/InformationBearingEntity>.?Personvar6 <http://www.ontologyrepository.com/CommonCoreOntologies/has_text_value> ?PersonProperNameFamilyName.}limit 20"}
+```
+
