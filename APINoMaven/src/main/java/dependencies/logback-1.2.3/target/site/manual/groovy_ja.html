@@ -48,7 +48,7 @@
     <p>基本的なルールを説明します。<em>logback.groovy</em>はGroovyのプログラムです。Groovy言語はJava言語のスーパーセットなので、Javaにできるあらゆる設定アクションと同じことを<em>logback.groovy</em>で実行することができます。ですが、logbackをJavaの構文でプログラム的に設定するのはかなり厄介なので、logback専用の拡張構文を追加しました。logback専用の拡張構文はできるだけ少なくなるようにしましたし、実際のところほんのわずかしかありません。Groovyに慣れているとしても本章に目を通してもらって、<em>logback.groovy</em>を書くのは非常に簡単であることを理解してください。Groovyに不慣れな方であっても、<em>logback.xml</em>を使い続けるより<em>logback.groovy</em>の記法のほうがずっとわかりやすいと思えるようになるはずです。
     </p>
 
-    <p>改めて整理します。<em>logback.groovy</em>は最小限のlogback専用の拡張がなされたGroovyプログラムです。<em>logback.groovy</em>の中では、クラスのimportや変数定義、変数評価、GString のMavenProject: ch.qos.logback:logback-site:1.2.3 @ /Users/dylanmartin/Avatar/APINoMaven/src/main/java/dependencies/logback-1.2.3/logback-site/pom.xml記法、if-else構文などのGroovyの機能は<em>全て</em>利用可能です。</p>
+    <p>改めて整理します。<em>logback.groovy</em>は最小限のlogback専用の拡張がなされたGroovyプログラムです。<em>logback.groovy</em>の中では、クラスのimportや変数定義、変数評価、GString のMavenProject: ch.qos.logback:logback-site:1.2.3 @ /Users/dylanmartin/Avatar/CCO-LD-Avatar/APINoMaven/src/main/java/dependencies/logback-1.2.3/logback-site/pom.xml記法、if-else構文などのGroovyの機能は<em>全て</em>利用可能です。</p>
 
     <h2 class="doAnchor">自動import</h2>
 
@@ -222,7 +222,7 @@ root(DEBUG, ["STDOUT"])</pre>
 
     <h2 class="doAnchor" name="internalDSL">内部DSL、すべてはGroovyの賜物だ！</h2>
 
-    <p><em>logback.groovy</em>は内部DSLです。つまり、内容自体が実行可能なGroovyスクリプトなのです。したがって、logback.groovyの中ではGroovy言語に備わっているクラスimport、GString、変数定義、GString文字列中のMavenProject: ch.qos.logback:logback-site:1.2.3 @ /Users/dylanmartin/Avatar/APINoMaven/src/main/java/dependencies/logback-1.2.3/logback-site/pom.xml記法の評価、if-else文などのあらゆる機能を利用することができるのです。以降の説明では<em>logback.groovy</em>における典型的なGroovy言語の使用例を紹介します。
+    <p><em>logback.groovy</em>は内部DSLです。つまり、内容自体が実行可能なGroovyスクリプトなのです。したがって、logback.groovyの中ではGroovy言語に備わっているクラスimport、GString、変数定義、GString文字列中のMavenProject: ch.qos.logback:logback-site:1.2.3 @ /Users/dylanmartin/Avatar/CCO-LD-Avatar/APINoMaven/src/main/java/dependencies/logback-1.2.3/logback-site/pom.xml記法の評価、if-else文などのあらゆる機能を利用することができるのです。以降の説明では<em>logback.groovy</em>における典型的なGroovy言語の使用例を紹介します。
     </p>
 
 

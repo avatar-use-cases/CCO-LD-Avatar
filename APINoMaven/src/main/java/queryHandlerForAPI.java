@@ -290,7 +290,8 @@ public class queryHandlerForAPI extends AbstractHandler {
                 out.println(output);
             }
             else{
-                out.println("{\"Error\":\"Initial QueryTests failed\"");
+                System.out.println(output);
+                out.println("{\"Error\":\"Initial QueryTests failed\"}");
             }
             // System.out.println(output);
             
