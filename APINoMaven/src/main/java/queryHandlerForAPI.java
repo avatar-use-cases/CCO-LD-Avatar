@@ -364,7 +364,12 @@ public class queryHandlerForAPI extends AbstractHandler {
             }
             else if (trigger && line.contains("<rdf")){
                 rdftrig = true;
-                rdf += line + "\n";
+                for(String i: line.split(" ")){
+                    if(!i.isEmpty()){
+                        rdf += i + "\n";
+                    }
+                }
+                
             }
             else if (rdftrig && !line.contains("</rdf>")){
                 rdf += line + "\n";

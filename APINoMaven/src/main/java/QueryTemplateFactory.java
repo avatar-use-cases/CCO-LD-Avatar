@@ -49,7 +49,6 @@ public class QueryTemplateFactory {
     public QueryTemplateFactory(String data, String subject) {
         this.subject = subject;
         try {
-            System.out.println("HERE");
             InputStream in = new ByteArrayInputStream(data.getBytes());
             BufferedReader f = new BufferedReader(new InputStreamReader(in));
             // Skips the first 2 lines of the rdf file
