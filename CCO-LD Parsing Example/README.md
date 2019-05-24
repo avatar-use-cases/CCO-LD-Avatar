@@ -1,4 +1,4 @@
-##How to use this example project
+## How to use this example project
 First you must navigate to "CCO-LD Parsing Example/src/containers/Welcome/welcome.component.js" 
 In the "const dataLoader = async ()" function you must specify the .nt file you wish to parse as a parameter of the functon "run". NOTE: ensure this .nt file is located in the public folder of the 
 project so it can be reached.
@@ -9,10 +9,10 @@ In this function you must specify the address of where you would like to store t
 
 Once you have this set, you must then set the root node of your .nt file. This will be the head of your .nt file which all nodes branch from. This is the global var "rootFileNode".
 
-###Installing NPM
+### Installing NPM
 On your first time running the program, you must run "npm install" withing the project directory to initiate the node modules
 
-###Running the Application
+### Running the Application
 Once you have done all of the above, the application can be run with "npm run start". Then
 you can open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
