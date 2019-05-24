@@ -18,18 +18,12 @@ import Clock from '..\\..\\components\\Utils\\Clock\\Clock';
   const getTransportationPreference = transPref => {
 
     if (transPref) {
-      console.log("transPref")
-      console.log(transPref)
-      // return transPref.map(tP => (
-      //   <p>
-      //     Today's Transportation Method: {tP.mot}
-      //   </p>
-      // ));
-      return (
+      return transPref.map(tP => (
         <p>
-          {transPref}
+          Today's Transportation Method:{tP.mot.split("/")[tP.mot.split("/").length-1]}
         </p>
-      )
+      ));
+
     }
     else {
       return "No Results"
@@ -38,8 +32,6 @@ import Clock from '..\\..\\components\\Utils\\Clock\\Clock';
 
   const getWorkGeo = workGeo => {
     if (workGeo) {
-        console.log("workGEO")
-        console.log(workGeo)
         return workGeo.map(wG => (
           <p>
             Work Location: {wG.lat}, {wG.lon}
@@ -53,11 +45,9 @@ import Clock from '..\\..\\components\\Utils\\Clock\\Clock';
 
   const getTest = test => {
     if (test) {
-        console.log("test")
-        console.log(test)
         return test.map(t => (
           <p>
-            test: {t.lat}, {t.lon}
+            test: {t.mot}
           </p>
         ));
     }
@@ -68,8 +58,6 @@ import Clock from '..\\..\\components\\Utils\\Clock\\Clock';
 
   const getHomeGeo = homeGeo => {
     if (homeGeo) {
-        console.log("homeGeo")
-        console.log(homeGeo)
         return homeGeo.map(hG => (
           <p>
             Home Location: {hG.lat}, {hG.lon}
@@ -83,8 +71,6 @@ import Clock from '..\\..\\components\\Utils\\Clock\\Clock';
 
   const getDriveTime = (driveTimeP,driveTimeB,driveTimeS,driveTimeF) => {
     if (driveTimeP && driveTimeB && driveTimeS && driveTimeF) {
-      // alert(driveTime);
-      // console.log(driveTime);
       return (
         <p>
           {driveTimeP.toFixed(2)} minutes by foot
@@ -104,7 +90,6 @@ import Clock from '..\\..\\components\\Utils\\Clock\\Clock';
   };
   
   const getWeather = (homeWeather,workWeather) => {
-    console.log("getWeather: " + homeWeather + " | " + workWeather)
     if ((homeWeather) || (workWeather)) {
       return (
         <p>
@@ -161,18 +146,11 @@ import Clock from '..\\..\\components\\Utils\\Clock\\Clock';
     if (checkTimeString(workTime)){
 
       let prepTime = parseInt(document.getElementById("slider").innerText);
-      console.log("prep: " + prepTime.toString())
       let homeWeatherTime = parseInt(document.getElementById("hwp").innerText);
-      console.log("hwt: " + homeWeatherTime.toString())
       let workWeatherTime = parseInt(document.getElementById("wwp").innerText);
-      console.log("wwt: " + workWeatherTime.toString())
       let driveTime = parseInt(document.getElementById("dt").innerText);
-      console.log("dt: " + driveTime.toString())
       let totalTime = (prepTime + driveTime + homeWeatherTime + workWeatherTime).toFixed(2)
-      console.log("tt: " + totalTime.toString())
     
-      // alert(totalTime)
-
       const MILLIS = 60000;
       const days = MILLIS*60*24
       let alarmTime = new Date;
@@ -182,7 +160,6 @@ import Clock from '..\\..\\components\\Utils\\Clock\\Clock';
       alarmTime.setMinutes(minutes)
       alarmTime.setSeconds(0)
       alarmTime = new Date(((alarmTime-(totalTime*MILLIS)) + days))
-      // alert(alarmTime)
       document.getElementById("wakeUpTimeDisplay").innerHTML = "<h3>Alarm set for: " + alarmTime.toLocaleTimeString() + "</h3>"
   
     }
@@ -257,7 +234,7 @@ import Clock from '..\\..\\components\\Utils\\Clock\\Clock';
           Transportation info: 
           {getTransportationPreference(props.transPref)}
         </div>
-
+            
         {/* <div>
             <br/>
             New Query Info:
