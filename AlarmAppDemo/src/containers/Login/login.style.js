@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import { GradientBackground, Panel } from "@util-components";
+import {Panel } from "@util-components";
 
 export const LoginWrapper = styled.section`
   h1 {

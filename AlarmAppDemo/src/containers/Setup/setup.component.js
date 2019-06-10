@@ -43,18 +43,18 @@ import Clock from '..\\..\\components\\Utils\\Clock\\Clock';
     }
   };
 
-  const getTest = test => {
-    if (test) {
-        return test.map(t => (
-          <p>
-            test: {t.mot}
-          </p>
-        ));
-    }
-    else {
-      return "No results";
-    }
-  };
+  // const getTest = test => {
+  //   if (test) {
+  //       return test.map(t => (
+  //         <p>
+  //           test: {t.mot}
+  //         </p>
+  //       ));
+  //   }
+  //   else {
+  //     return "No results";
+  //   }
+  // };
 
   const getHomeGeo = homeGeo => {
     if (homeGeo) {
@@ -153,7 +153,7 @@ import Clock from '..\\..\\components\\Utils\\Clock\\Clock';
     
       const MILLIS = 60000;
       const days = MILLIS*60*24
-      let alarmTime = new Date;
+      let alarmTime = new Date();
       let hour = parseInt(workTime.substring(0,2))
       let minutes = parseInt(workTime.substring(2,4))
       alarmTime.setHours(hour)
@@ -161,7 +161,6 @@ import Clock from '..\\..\\components\\Utils\\Clock\\Clock';
       alarmTime.setSeconds(0)
       alarmTime = new Date(((alarmTime-(totalTime*MILLIS)) + days))
       document.getElementById("wakeUpTimeDisplay").innerHTML = "<h3>Alarm set for: " + alarmTime.toLocaleTimeString() + "</h3>"
-  
     }
     else {
       alert("Bad time format")
@@ -198,7 +197,7 @@ import Clock from '..\\..\\components\\Utils\\Clock\\Clock';
             {props.workWeatherPenalty}
           </div>
           <div id="dt"  style={{display:"none"}}>
-            {props.driveTime}
+            {props.driveTimeF}
           </div>
 
         <br/><br/>

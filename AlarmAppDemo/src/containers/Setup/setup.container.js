@@ -148,7 +148,7 @@ class SetupComponent extends Component<Props> {
       const routeTypes = ["BICYCLE","PEDESTRIAN","FASTEST","SHORTEST"]
   
       const userUrl = user.toString();    
-      const CUPurl = userUrl.substring(0,userUrl.length-15)+"profile/card"
+      const CUPurl = userUrl.substring(0,userUrl.length-15)+"profile/CUP.ttl"
       
       const homeGeoQS = "prefix cco: <http://www.ontologyrepository.com/CommonCoreOntologies/> prefix obo: <http://purl.obolibrary.org/obo/> select distinct ?lat ?lon where {?person a cco:Person . ?person cco:agent_in ?reside . ?reside a cco:ActOfOwnership . ?reside cco:has_object ?home . ?home a cco:ResidentialFacility . ?home obo:RO_0001025 ?geoRegion. ?geoRegion a cco:GeospatialRegion . ?geoRegion cco:designated_by ?GSID . ?GSID obo:RO_0010001 ?ibe . ?ibe obo:BFO_0000051 ?latBE. ?latBE a cco:LatitudeBearingEntityPart . ?latBE cco:has_text_value ?lat . ?ibe obo:BFO_0000051 ?lonBE. ?lonBE a cco:LongitudeBearingEntityPart . ?lonBE cco:has_text_value ?lon .}"
       const workGeoQS = "prefix cco: <http://www.ontologyrepository.com/CommonCoreOntologies/> prefix  obo: <http://purl.obolibrary.org/obo/> select distinct ?lat ?lon where {?person a cco:Person . ?person obo:RO_0000053 ?job . ?job a cco:OccupationRole . ?job cco:has_organizational_context ?org . ?org a cco:Organization. ?org cco:agent_in ?act .?act a cco:ActOfInhabitancy. ?act cco:has_object ?facility . ?facility a cco:Facility . ?facility obo:RO_0001025 ?GeoReg . ?GeoReg a cco:GeospatialRegion . ?GeoReg cco:designated_by ?GeoID . ?GeoID obo:RO_0010001 ?ibe . ?ibe obo:BFO_0000051 ?latBE. ?latBE a cco:LatitudeBearingEntityPart . ?latBE cco:has_text_value ?lat . ?ibe obo:BFO_0000051 ?lonBE. ?lonBE a cco:LongitudeBearingEntityPart . ?lonBE cco:has_text_value ?lon .}"

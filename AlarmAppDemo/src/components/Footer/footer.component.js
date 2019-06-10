@@ -5,7 +5,7 @@ import { withTranslation } from "react-i18next";
 
 const Footer = (props) => {
 
-  const { t } = props;
+  // const { t } = props;
   const githubIcon: IconLookup = { prefix: 'fab', iconName: 'github' };
   const githubIconDef: IconDefinition = findIconDefinition(githubIcon);
 
