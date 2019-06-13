@@ -10,7 +10,7 @@ In this function you must specify the address of where you would like to store t
 Once you have this set, you must then set the root node of your .nt file. This will be the head of your .nt file which all nodes branch from. This is the global var "rootFileNode".
 
 ### Installing NPM
-On your first time running the program, you must run "npm install" withing the project directory to initiate the node modules
+On your first time running the program, you must run "npm install" within the project directory to initiate the node modules
 
 ### Running the Application
 Once you have done all of the above, the application can be run with "npm run start". Then
